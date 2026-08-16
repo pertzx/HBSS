@@ -21,12 +21,12 @@ print([[
                                - Gpssickle
 ]])
 
--- Gravel.cc (or HBSS :v)
+-- GS.cc (or HBSS :v)
 if getgenv().Graaaaaaaaaaaaaaaaaaaaaaavel_ then
     return
 end
 getgenv().Graaaaaaaaaaaaaaaaaaaaaaavel_ = true
-getgenv().nameeeitttttohhhhhhmahhhhhgahhhhhh_ = "" -- type '_C' for da testing version of gravel.cc :3
+getgenv().nameitohmahgah = "" -- type '_C' for da testing version of GS.cc :3
 -- excusemesir. dere was somebody u known b4
 local excusemesir = {
     Players = game:GetService("Players"),
@@ -77,22 +77,22 @@ local UICorner = Instance.new("UICorner")
 --                        ¯⁠\⁠(⁠°⁠_⁠o⁠)⁠/⁠¯
 getgenv().HttpUrlz_ = {
     --hbss completely random useless & useful modules :]
-    hbssloader = "https://raw.githubusercontent.com/hm5650/HBSS" .. getgenv().nameeeitttttohhhhhhmahhhhhgahhhhhh_ .. "/refs/heads/main/HBSS_Loader" .. getgenv().nameeeitttttohhhhhhmahhhhhgahhhhhh_ .. ".lua",
-    ineedbloxycola = "https://raw.githubusercontent.com/hm5650/HBSS" .. getgenv().nameeeitttttohhhhhhmahhhhhgahhhhhh_ .. "/refs/heads/main/HBSS_InitGui" .. getgenv().nameeeitttttohhhhhhmahhhhhgahhhhhh_ .. ".lua",
-    sa2func = "https://raw.githubusercontent.com/hm5650/HBSS" .. getgenv().nameeeitttttohhhhhhmahhhhhgahhhhhh_ .. "/refs/heads/main/SA2_Function" .. getgenv().nameeeitttttohhhhhhmahhhhhgahhhhhh_ .. ".lua",
-    sa2findtool = "https://raw.githubusercontent.com/hm5650/HBSS" .. getgenv().nameeeitttttohhhhhhmahhhhhgahhhhhh_ .. "/refs/heads/main/SA2_FindTool" .. getgenv().nameeeitttttohhhhhhmahhhhhgahhhhhh_ .. ".lua",
-    hbsshandlecorpses = "https://raw.githubusercontent.com/hm5650/HBSS" .. getgenv().nameeeitttttohhhhhhmahhhhhgahhhhhh_ .. "/refs/heads/main/HBSS_DeathHandler" .. getgenv().nameeeitttttohhhhhhmahhhhhgahhhhhh_ .. ".lua",
-    showmyipadress_jk = "https://raw.githubusercontent.com/hm5650/HBSS" .. getgenv().nameeeitttttohhhhhhmahhhhhgahhhhhh_ .. "/refs/heads/main/getInfo" .. getgenv().nameeeitttttohhhhhhmahhhhhgahhhhhh_ .. ".lua",
-    uithesavory = "https://raw.githubusercontent.com/hm5650/HBSS" .. getgenv().nameeeitttttohhhhhhmahhhhhgahhhhhh_ .. "/refs/heads/main/HBSS_SaveUI" .. getgenv().nameeeitttttohhhhhhmahhhhhgahhhhhh_ .. ".lua",
-    hbssbmg = "https://raw.githubusercontent.com/hm5650/HBSS" .. getgenv().nameeeitttttohhhhhhmahhhhhgahhhhhh_ .. "/refs/heads/main/HBSS_BGM" .. getgenv().nameeeitttttohhhhhhmahhhhhgahhhhhh_ .. ".lua",
+    hbssloader = "https://raw.githubusercontent.com/pertzx/HBSS" .. getgenv().nameitohmahgah .. "/refs/heads/main/HBSS_Loader" .. getgenv().nameitohmahgah .. ".lua",
+    ineedbloxycola = "https://raw.githubusercontent.com/pertzx/HBSS" .. getgenv().nameitohmahgah .. "/refs/heads/main/HBSS_InitGui" .. getgenv().nameitohmahgah .. ".lua",
+    sa2func = "https://raw.githubusercontent.com/pertzx/HBSS" .. getgenv().nameitohmahgah .. "/refs/heads/main/SA2_Function" .. getgenv().nameitohmahgah .. ".lua",
+    sa2findtool = "https://raw.githubusercontent.com/pertzx/HBSS" .. getgenv().nameitohmahgah .. "/refs/heads/main/SA2_FindTool" .. getgenv().nameitohmahgah .. ".lua",
+    hbsshandlecorpses = "https://raw.githubusercontent.com/pertzx/HBSS" .. getgenv().nameitohmahgah .. "/refs/heads/main/HBSS_DeathHandler" .. getgenv().nameitohmahgah .. ".lua",
+    showmyipadress_jk = "https://raw.githubusercontent.com/pertzx/HBSS" .. getgenv().nameitohmahgah .. "/refs/heads/main/getInfo" .. getgenv().nameitohmahgah .. ".lua",
+    uithesavory = "https://raw.githubusercontent.com/pertzx/HBSS" .. getgenv().nameitohmahgah .. "/refs/heads/main/HBSS_SaveUI" .. getgenv().nameitohmahgah .. ".lua",
+    hbssbmg = "https://raw.githubusercontent.com/pertzx/HBSS" .. getgenv().nameitohmahgah .. "/refs/heads/main/HBSS_BGM" .. getgenv().nameitohmahgah .. ".lua",
     --other
     imalurtingyou = "https://raw.githubusercontent.com/azir-py/project/refs/heads/main/Zwolf/AlurtUI.lua",
     adonisabuse = "https://raw.githubusercontent.com/Pixeluted/adoniscries/main/Source.lua",
     ilikedisui = "https://github.com/Footagesus/WindUI/releases/latest/download/main.lua",
-    ewitsabadapple = "https://raw.githubusercontent.com/hm5650/Badappel/refs/heads/main/Appelbad",
-    tpuabasically = "https://raw.githubusercontent.com/hm5650/BringParts/refs/heads/main/BringParts.lua",
-    imbricked = "https://raw.githubusercontent.com/hm5650/Brick/refs/heads/main/Brick.lua",
-    wflingguiname = "https://raw.githubusercontent.com/hm5650/iwanttobanishthisspecificplayer/refs/heads/main/iwanttobanishthisspecificplayer.lua",
+    ewitsabadapple = "https://raw.githubusercontent.com/pertzx/Badappel/refs/heads/main/Appelbad",
+    tpuabasically = "https://raw.githubusercontent.com/pertzx/BringParts/refs/heads/main/BringParts.lua",
+    imbricked = "https://raw.githubusercontent.com/pertzx/Brick/refs/heads/main/Brick.lua",
+    wflingguiname = "https://raw.githubusercontent.com/pertzx/iwanttobanishthisspecificplayer/refs/heads/main/iwanttobanishthisspecificplayer.lua",
 }
 function getgist_(url, how, sigma)
     how = how or 10
@@ -113,12 +113,12 @@ function getgist_(url, how, sigma)
                 warn("http 429 ✌️😔: " .. waitTime .. " seconds... (Attempt " .. attempts .. "/" .. how .. ")")
                 task.wait(waitTime)
             else
-                warn("http error 💔🥀: " .. tostring(result) .. ". Retrying in " .. sigma .. " seconds... (Attempt " .. attempts .. "/" .. how .. ")")
+                warn("http error 💔🥀: " .. tostring(result) .. " . Tentando novamente em " .. sigma .. " seconds... (Attempt " .. attempts .. "/" .. how .. ")")
                 task.wait(sigma)
             end
         end
     end
-    error("can't get url :( after " .. how .. " attempts: " .. tostring(dat1error))
+    error("não foi possível obter a URL :( após " .. how .. " attempts: " .. tostring(dat1error))
 end
 
 local lp_info = loadstring(getgist_(getgenv().HttpUrlz_.showmyipadress_jk))()
@@ -141,8 +141,8 @@ local function n(opts)
 end
 
 n({
-    Title = "Gravel.cc",
-    Content = "script made by hmmm5651\nyt: @gpssickle",
+    Title = "GS.cc",
+    Content = "script feito por hmmm5651\nyt: @gpssickle",
     Audio = "rbxassetid://17208361335",
     Length = 8,
     Image = "rbxassetid://4483362458",
@@ -202,8 +202,8 @@ OldNamecall = hookmetamethod(game, "__namecall", newcclosure(function(...)
         if CanCastToSTDString(message) then
             if ED_AntiKick.SendNotifications then
                 SetCore(StarterGui, "SendNotification", {
-                    Title = "Gravel Anti-Kick",
-                    Text = "Successfully blocked an attempted kick.",
+                    Title = "GS Anti-Kick",
+                    Text = "Tentativa de kick bloqueada com sucesso.",
                     Icon = "rbxassetid://4483362458",
                     Duration = 1
                 })
@@ -227,8 +227,8 @@ OldFunction = hookfunction(LocalPlayer.Kick, function(...)
         if CanCastToSTDString(Message) then
             if ED_AntiKick.SendNotifications then
                 SetCore(StarterGui, "SendNotification", {
-                    Title = "Gravel Anti-Kick",
-                    Text = "Successfully blocked an attempted kick.",
+                    Title = "GS Anti-Kick",
+                    Text = "Tentativa de kick bloqueada com sucesso.",
                     Icon = "rbxassetid://4483362458",
                     Duration = 1
                 })
@@ -241,8 +241,8 @@ end)
 
 
 n({
-    Title = "Gravel.cc",
-    Content = "Antikick started!",
+    Title = "GS.cc",
+    Content = "Antikick iniciado!",
     Audio = "rbxassetid://17208361335",
     Length = 8,
     Image = "rbxassetid://4483362458",
@@ -257,7 +257,7 @@ local BMG = loadstring(getgist_(getgenv().HttpUrlz_.hbssbmg))()
 task.wait(0.8) -- I hate http 429 errors...
 -- other wallmart variables
 local gui = {}
-local ValidTargetParts = {"Head", "HumanoidRootPart"}
+local ValidTargetParts = {"Cabeça", "HumanoidRootPart"}
 local mouse = plr:GetMouse()
 local Camera = workspace.CurrentCamera
 local FindFirstChild = game.FindFirstChild
@@ -275,13 +275,13 @@ local targetsInFOV = {}
 -- random stuff lololol
 -- I'm not gonna explain each variable U have to know allat
 getgenv().blablablahblahblahhblahblahhGraaaaaaaaaaaaaaaaaaaaaaaveel_ = {
-    Folder = "Gravel_Saves",
+    Folder = "GS_Saves",
     Extension = ".json",
     CurrentSave = nil
 }
 -- cfg
 local config = {
-    confIg = "Gravel",
+    confIg = "GS",
     startsa = false,
     fovsize = 120,
     predic = 1,
@@ -294,7 +294,7 @@ local config = {
     SA2_Method = "Raycast",
     SA2_TeamTarget = "Enemies",
     SA2_Wallcheck = false,
-    SA2_TargetPart = "Head",
+    SA2_TargetPart = "Cabeça",
     SA2_HitChance = 100,
     SA2_FovRadius = 100,
     SA2_FovVisible = true,
@@ -303,7 +303,7 @@ local config = {
     SA2_FovColourTarget = Color3.new(1, 1, 0),
     SA2_FovIsTargeted = false,
     SA2_ThreeSixtyMode = false,
-    SA2_GetTarget = "Closest",
+    SA2_GetTarget = "Mais próximo",
     SA2_currentTarget = nil,
     SA2_TArea = 35,
     SA2_TargetRange = 500,
@@ -316,7 +316,7 @@ local config = {
     rfd = false,
     eme = true,
     wallc = false,
-    bodypart = "Head",
+    bodypart = "Cabeça",
     espon = false,
     prefTextESP = false,
     highlightesp = false,
@@ -350,7 +350,7 @@ local config = {
     aimbotFOVSize = 70,
     aimbotStrength = 0.5,
     aimbotWallCheck = false,
-    aimbotTargetPart = "Head",
+    aimbotTargetPart = "Cabeça",
     aimbotTeamTarget = "Enemies",
     aimbotCurrentTarget = nil,
     aimbotFOVRing = nil,
@@ -393,7 +393,7 @@ local config = {
     autoFarmLoop = nil,
     autoFarmIndex = 1,
     autoFarmCompleted = {},
-    autoFarmTargetPart = "Head",
+    autoFarmTargetPart = "Cabeça",
     autoFarmAlignToCrosshair = true,
     autoFarmVerticalOffset = 0,
     autoFarmMinRange = 0,
@@ -414,10 +414,10 @@ local config = {
     aimbot360BehindRange = 180,
     aimbot360WasEnabled = false,
     masterTarget = "Players",
-    masterGetTarget = "Closest",
-    aimbotGetTarget = "Closest",
-    silentGetTarget = "Closest",
-    antiAimGetTarget = "Closest",
+    masterGetTarget = "Mais próximo",
+    aimbotGetTarget = "Mais próximo",
+    silentGetTarget = "Mais próximo",
+    antiAimGetTarget = "Mais próximo",
     autoFarmPartClaimStarted = false,
     autoFarmLastRefresh = 0,
     ignoreForcefield = true,
@@ -519,7 +519,7 @@ local config = {
         fovVisible = true,
         fovColor = Color3.fromRGB(255, 0, 0),
         fovTransparency = 0.7,
-        targetPart = "Head",
+        targetPart = "Cabeça",
         wallCheck = false,
         hitChance = 100,
         holdToShoot = false,
@@ -551,27 +551,27 @@ local config = {
             "dude",
             "yh",
             lp_info.lp_displayname,
-            "how graveling of u",
+            "quão GS você é",
             "rock solid ui",
-            "what",
+            "o quê",
             "version: idk",
             "D:",
             "unclose me NOW!!! D:",
-            "just simply cheat through it",
+            "é só trapacear para passar por isso",
             "bowl",
-            "gta 6 when?",
+            "GTA 6 quando?",
             "holy cow",
             "open4robuc",
-            "me want to be open",
-            "gravel is not sand",
-            "is gravel just sand",
+            "eu quero ser open source",
+            "GS não é areia",
+            "o GS é apenas areia",
             "gl",
-            "not full ban-proof",
+            "não é totalmente à prova de banimento",
             "bleh :p",
             ":3",
             ":o",
             ";]",
-            "error code: 6967420",
+            "código de erro: 6967420",
             "🥀💔✌️🫩",
             "brochacho",
         },
@@ -585,20 +585,20 @@ local config = {
                 typesp = "1.5",
                 "HEY",
                 "{displayname} HEY",
-                "CAN YOU HEAR ME???",
+                "VOCÊ CONSEGUE ME OUVIR???",
                 "Ok Ive got ur attention",
-                "what I'm gonna say is",
-                "pls read the InfoTab :(",
-                "and credit me if u did a snippet :(",
+                "o que vou dizer é",
+                "por favor, leia a InfoTab :(",
+                "e dê os créditos a mim se usou um trecho :(",
             },
             {
                 "I don't do tutorials\ni suck at teaching others :/",
-                "if u want an tutorial\nwatch 100 seconds of lua or smth",
+                "se você quiser um tutorial\nassista 100 segundos de Lua ou algo assim",
             },
             {
-                "sand.cc is an larper",
-                "it's a actual gravel larper",
-                "sand larps gravel",
+                "sand.cc é um farsante",
+                "it's a actual GS larper",
+                "sand larps GS",
             },
             {
                 "Guys he's hacking REPORT",
@@ -620,10 +620,10 @@ local config = {
             {
                 typesp = "2",
                 "i am an fucking architect",
-                "GOD DAMN IT, IM JUST STUCK",
+                "DROGA, ESTOU PRESO",
                 "SELLING SHIT FURNITURE",
                 "BECAUSE SOMEONE WONT GET OFF",
-                "THEIR FAT FUCKING ASS AND HELP ME.",
+                "A BUNDA GORDA DO CARALHO DELES E ME AJUDE.",
             },
             {
                 typesp = "1",
@@ -634,43 +634,43 @@ local config = {
                 "Jigoku no hate nado doko ni aru no ka\nideguchi wa mada nano?",
                 "Kuru, Kuru, Kuru,\nKurikaesu, Kurikaesu, Kurikaesu",
                 "FuraFura, FuraFura,\nFurakutaru, Furakutaru, Furakutaru, Furakutaru",
-                "looping the rooms\ntype shi 💔",
+                "percorrendo as salas\ntipo isso 💔",
             },
             {
                 typesp = "2.5",
                 "Here lies Charlie",
-                "You can tell it's him 'cause we put\nhis name on the stone",
+                "Dá para saber que é ele porque colocamos\no nome dele na pedra",
                 "He kept he's showers ice cold, used\neco-friendly light bulbs",
-                "Rode his bicycle to work when the\n gasoline price rose",
-                "He'd judge with no pretense,\nfish on the weekends",
-                "Each morning, get up, do the\nPledge of Allegiance",
-                "Never swim in the ocean,\nfor fear of shark attacks",
+                "Ele foi de bicicleta ao trabalho quando o\n preço da gasolina subiu",
+                "Ele julgaria sem fingimento,\npesca nos fins de semana",
+                "Todas as manhãs, levante-se e faça o\nJuramento de Fidelidade",
+                "Nunca nade no oceano,\npor medo de ataques de tubarão",
                 "Bi-monthly get his wife a rose\nwith a card attached",
-                "Avoiding all the little things\nthat we're hard to ask",
-                "Had a car crash, cardiac arrest,\ndied of a heart attack",
-                "Up the golden escalator,\nall he's friends and neighbors",
-                "Huddled there in prayer\naround the respirator",
-                "''Catch you later,\ni'm off to see the man upstairs",
-                "They all look like ants from\nhere, stars and crystal chandeliers",
-                "There was an angel at the entrance\nchecking off the guest list",
-                "Charlie wasn't on it and was\nushered to the exit",
+                "Evitando todas as pequenas coisas\nque eram difíceis de perguntar",
+                "Sofreu um acidente de carro, teve uma parada cardíaca,\nmorreu de ataque cardíaco",
+                "Pela escada rolante dourada,\ntodos os amigos e vizinhos dele",
+                "Encolhido ali em oração\nao redor do respirador",
+                "''Até mais,\nvou ver o homem lá de cima",
+                "Todos parecem formigas daqui,\nestrelas e lustres de cristal",
+                "Havia um anjo na entrada\nconferindo a lista de convidados",
+                "Charlie não estava lá e foi\nconduzido até a saída",
                 "He's heart sank,\nhe was breathless..",
                 "",
-                "''Excuse me, sir, there must be\nsomeone you've confused me for''",
-                "''If i could see someone who\nknew me or someone in uniform''",
-                "''I go to church on Sunday, truly,\nusually more!''",
-                "Screaming at the angels while\nthey pushed him through the door.",
+                "''Com licença, senhor, você deve ter\nme confundido com outra pessoa''",
+                "''Se eu pudesse ver alguém que\nme conhecesse ou alguém uniformizado''",
+                "''Eu vou à igreja aos domingos, de verdade,\ngeralmente até mais!''",
+                "Gritando com os anjos enquanto\neles o empurravam pela porta.",
             },
             {
-                "hey use the bgmtab\nif u want music ;3",
-                "it has '6 or 7' presets :7",
+                "ei, use a BGMTab\nse quiser música ;3",
+                "tem '6 ou 7' presets :7",
                 "676767",
                 "I'm sure u'll like da presets",
                 "I think...",
             },
             {
-                "why won't you read me???",
-                "you has reading deficiency\nor smth??",
+                "por que você não vai me ler???",
+                "você tem deficiência de leitura\nou algo assim??",
                 "like vro I also need clout :(",
             },
             {
@@ -682,11 +682,11 @@ local config = {
                 "gopherlua",
                 "luadardo",
                 "luau",
-                "why r there so many Lua variants :s",
+                "por que existem tantas variantes de Lua :s",
             },
             {
                 "proto conversion",
-                "yea proto conversion is a\ncoolio executor",
+                "sim, a conversão proto é um\nexecutor maneiro",
                 "I think... it's a pretty old 1 tho",
             },
             {
@@ -695,45 +695,45 @@ local config = {
                 "101% works I'm sure",
             },
             {
-                "who are u",
+                "quem é você",
                 "yea like who r u",
-                "r u a gravel user?",
+                "r u a GS user?",
                 "hmmmmm ok then",
             },
             {
                 typesp = "1.5",
                 "My Rival,",
                 "My Idol,",
-                "You've got me suicidal",
-                "My love, your rage",
-                "Our dying claims to fame'",
+                "Você está me deixando suicida",
+                "Meu amor, sua raiva",
+                "Nossas últimas tentativas de fama'",
                 "Our battle legendary,",
                 "Our fickle fraternizing,",
                 "A war inside my heart.",
                 "Until ###### it do us part",
                 "Bang, Bang, Bang, Bang",
-                "'Til I take you...",
+                "'Até eu pegar você...",
                 "Down, Down, Down, Down",
-                "I want you in the ground!",
+                "Quero você no chão!",
             },
             {
-                "Ugh, this kitchen is\nso hard to clean",
+                "Aff, esta cozinha é\nmuito difícil de limpar",
                 "If only there was a easier way!",
                 "",
                 "Hi, I'm DErek Baum,\nsay goodbye to daily stains & dirty surfaces",
-                "with new KITCHEN GUN!!",
-                "This sink is filthy",
-                "but just 3 shots from KITCHEN GUN",
+                "com a nova KITCHEN GUN!!",
+                "Esta pia está imunda",
+                "mas apenas 3 tiros da KITCHEN GUN",
                 "BANG!, BANG!, BANG!",
-                "and it sparkles like new!",
+                "e brilha como novo!",
             },
             {
-                "This toilet is so hard to clean!",
+                "Este vaso sanitário é muito difícil de limpar!",
                 "There must be a easier way",
                 "",
-                "HI!, I'm DERek baum & i declare war\non toilets with new TOILET GRENADE",
-                "just pull the pin, pop it in the bowl,\nput the lid down",
-                "and let TOILET GRENADE do the rest!",
+                "OI! Eu sou DERek baum e declaro guerra\naos vasos sanitários com a nova GRANADA DE BANHEIRO",
+                "é só puxar o pino, colocar na tigela,\ne fechar a tampa",
+                "e deixe a GRANADA DE BANHEIRO fazer o resto!",
                 "BAAAAANNNNGGG!!!!",
             },
             {
@@ -765,49 +765,49 @@ local config = {
                 "9001",
                 "666",
                 "90",
-                "I'm not a numberphile",
+                "Não sou um numberphile",
             },
             {
                 typesp = "2",
-                "My bread was\nburnt to a crisp",
-                "It's not like it's inedible\nor anything, I guess...",
+                "Meu pão\nqueimou até virar carvão",
+                "Não é como se fosse intragável\nou algo assim, eu acho...",
                 "I wish it was fluffy like usual\nif only it didn't get burnt...",
-                "I guess there's no use in wishing now...",
+                "Acho que não adianta mais desejar...",
                 "",
-                "My bread was\nburnt to a crisp",
+                "Meu pão\nqueimou até virar carvão",
                 "It's rock hard...",
-                "Not that it's inedible\nor anything, I guess...",
+                "Não é como se fosse intragável\nou algo assim, eu acho...",
                 "I really hope its\nnot burnt tomorrow",
-                "It's bound to be better, right?",
-                "I guess there's no use in wishing now...",
+                "É garantido que seja melhor, né?",
+                "Acho que não adianta mais desejar...",
             },
             {
-                "ur retroslop score is {retroscore}",
+                "sua pontuação de retroslop é {retroscore}",
                 "ye I'm deaduzz",
                 "tbh... idc lol ur fine {displayname}",
             },
             {
                 "I'm lazier than lazytown",
-                "that's literally how lazy iam",
-                "it's true but also not true",
+                "é literalmente assim que eu sou preguiçoso",
+                "é verdade, mas também não é verdade",
                 "ok whatevski",
             },
             {
                 typesp = "2.5",
-                "Did you do your chores?",
+                "Você fez suas tarefas?",
                 "Yessirski!",
-                "Did you do your chores?",
+                "Você fez suas tarefas?",
                 "Yessirski!",
-                "Did you do your chores?",
+                "Você fez suas tarefas?",
                 "Yessirski!",
-                "When I get home it better be clean!",
-                "Did you do your chores?",
+                "Quando eu chegar em casa, é melhor estar tudo limpo!",
+                "Você fez suas tarefas?",
                 "Yessirski!",
-                "Did you do your chores?",
+                "Você fez suas tarefas?",
                 "Yessirski!",
-                "Did you do your chores?",
+                "Você fez suas tarefas?",
                 "Yessirski!",
-                "BOI WHY DID YA LIE TO ME",
+                "GAROTO, POR QUE VOCÊ MENTIU PRA MIM",
                 "AHHHHHH",
             },
             {
@@ -815,23 +815,23 @@ local config = {
                 "Y-YO, {displayname} come over here",
                 "come over here,\ncome over here",
                 "Check out my new shoes,",
-                "Theyre the brand new-",
+                "Eles são os novíssimos-",
                 "1-2, Buckle my shoeeee",
                 "3-4, Buckle some moreeeee",
                 "5-6, Nike-y Kicks",
-                "OH-OH-OhHH THAT IS SO FIRE",
+                "OH-OH-OhHH ISSO É INSANO DEMAIS",
             },
             {
                 "''Hey it's me, it's verity''",
                 "''Ask me ANYTHING!''",
                 "I got a question",
                 "''I know about million things''",
-                "Well that's great!",
+                "Bem, isso é ótimo!",
                 "''I'll do EVERYTHING!",
                 "Alright!",
-                "What's the capital of france?",
+                "Qual é a capital da França?",
                 "''Oh oui oui oui''",
-                "''It is Parii''",
+                "''É Parii''",
                 "",
                 "Horror Skunx ur\nNOT cooking ts",
             },
@@ -869,16 +869,16 @@ local config = {
             },
             {
                 typesp = "1.5",
-                "Error: (can't find message)",
-                "Error: (can't find message)",
-                "Error: (can't find message)",
-                "I'm not having errors actually",
-                "or maybe I am, who knows??",
+                "Erro: (mensagem não encontrada)",
+                "Erro: (mensagem não encontrada)",
+                "Erro: (mensagem não encontrada)",
+                "Na verdade, não estou tendo erros",
+                "ou talvez eu seja, quem sabe??",
             },
             {
                 "server authority",
-                "is laggyyyy :c",
-                "like bro??? y is it so laggy :(((",
+                "está com laggggg :c",
+                "mano??? por que está tão lagado :(((",
             },
             {
                 typesp = "2.5",
@@ -888,53 +888,53 @@ local config = {
                 ";D",
             },
             {
-                "Mama, can I have cookie",
-                "No diabeto, roll back to kitchen",
+                "Mãe, posso ganhar um biscoito",
+                "Sem diabetes, volte para a cozinha",
                 "awwwwwwwww :(",
             },
             {
                 typesp = "1.5",
-                "I JUST HIT THE",
+                "EU ACABEI DE ACERTAR O",
                 "JACKPOTTTTTTT",
                 "AY, AY, AY, AY, AY",
-                "I JUST HIT THE JACKPOT",
+                "EU ACABEI DE ACERTAR O JACKPOT",
             },
             {
-                "I wouldn't say gravel is da best",
+                "Eu não diria que GS é o melhor",
                 "idk there might be other scripts",
-                "that are hidden gems",
-                "well maybe gravel is one of em :v",
+                "que são joias escondidas",
+                "bem, talvez GS seja um deles :v",
             },
             {
                 typesp = "2",
-                "All your base are belong to us",
+                "Todas as suas bases pertencem a nós",
                 "11113333777",
-                "TEH EPIK DUCK IS COMING!!!",
-                "GET OF MAH LAWN",
+                "O PATO ÉPICO ESTÁ CHEGANDO!!!",
+                "SAIA DO MEU GRAMADO",
                 "ROFL",
                 "{userid}",
                 "Muahahahaha!",
             },
             {
-                "ur accountage is {accountage}",
-                "idk even know why I'm saying ts",
+                "sua idade da conta é {accountage}",
+                "nem sei por que estou dizendo isso",
             },
             {
                 typesp = "1.5",
-                "if you could listen closely",
-                "you'll be a villain mostly",
-                "you have to chase a hero",
-                "and watch em' go from 1 to 0",
-                "just follow my moves.",
+                "se você pudesse ouvir atentamente",
+                "você será um vilão na maioria das vezes",
+                "você precisa perseguir um herói",
+                "e vê-los passar de 1 para 0",
+                "apenas siga meus movimentos.",
                 "and you'll be set-",
-                "to go and sneak around",
-                "just be careful",
-                "to not make a single sound",
-                "as this superhero will be going-",
-                "on the around",
-                "now let's go and chase him down!",
+                "para sair e andar furtivamente",
+                "apenas tenha cuidado",
+                "para não fazer nenhum som",
+                "enquanto esse super-herói estará indo-",
+                "ao redor",
+                "agora vamos persegui-lo!",
                 "",
-                "is that a sick song {displayname}?",
+                "essa é uma música muito boa, {displayname}?",
             },
             {
                 "name me a fictional villian\nthat no-1 h8s",
@@ -949,30 +949,30 @@ local config = {
                 "du bist gut genug!",
                 "du bist gut genug!",
                 "du bist gut genug!",
-                "*fire music*",
+                "*música insana*",
             },
             {
                 typesp = "1.5",
                 "shimmy ey, shimmy ey, yaaa~",
                 "drake.. Swalalala.. drake",
                 "swalalala.. swalalala *sick beat*",
-                "*sick music*... keep streaking yah",
+                "*música insana*... continue mantendo a sequência, yah",
             },
             {
-                "Bro ts code is 16000+ lines long :(",
+                "Mano, esse código tem mais de 16.000 linhas :(",
                 "I ''can't'' do dis shi :[",
                 "plz heseelepp me {displayname}",
             },
             {
-                "Cframe view is op",
+                "A visão por CFrame é roubada",
                 "pls try it out {displayname}",
-                "you'll like it :3",
+                "você vai gostar :3",
             },
             {
                 "Aimware",
-                "is this actually aimware??",
+                "isso é realmente o Aimware??",
                 "who knows",
-                "maybe it is",
+                "talvez seja",
             },
             {
                 typesp = "3",
@@ -993,36 +993,36 @@ local config = {
                 "^w^",
             },
             {
-                "gravel cute :3",
+                "GS cute :3",
                 ":3 :3",
                 ":3:3:3:3:3:3:3:3:3:3:3",
             },
             {
                 typesp = "1.5",
-                "Didn't take that well.",
-                "Didn't take that well.",
+                "Não reagiu muito bem.",
+                "Não reagiu muito bem.",
                 "Felt like!",
-                "Didn't take that well.",
-                "Didn't take that well.",
+                "Não reagiu muito bem.",
+                "Não reagiu muito bem.",
                 "Felt like!",
-                "Didn't take that well.",
-                "Didn't take that well.",
+                "Não reagiu muito bem.",
+                "Não reagiu muito bem.",
                 "Felt like!",
             },
             {
                 typesp = "1.5",
-                "I somehow see what's beautiful,",
-                "In things that are ephemeral",
+                "De alguma forma, vejo o que é belo,",
+                "Nas coisas que são efêmeras",
                 "Am I only friend of mine",
-                "Love is just.. a piece of time\nin the world",
-                "In the world",
+                "O amor é apenas... um pedaço de tempo\nno mundo",
+                "No mundo",
                 "And I couldn't help but fall\nin love again",
             },
             {
-                "I'm not actually talking to u",
-                "but i am talking to u",
-                "does that make any sense :s",
-                "probably not",
+                "Eu não estou realmente falando com você",
+                "mas estou falando com você",
+                "isso faz algum sentido :s",
+                "provavelmente não",
             },
             {
                 "r u hacking??",
@@ -1030,216 +1030,216 @@ local config = {
                 "yea ur def hackin",
             },
             {
-                "you got ratted.",
+                "você foi ratado.",
                 "I'm serious",
-                "you've got ratted",
+                "você foi ratado",
                 "I'm joking lol",
             },
             {
                 "ur social security number\nis [{userid}]",
-                "no but seriously it is",
+                "não, mas falando sério, é",
                 "I'm jk",
-                "what even is {userid} :b",
-                "oh wait that's ur userid mb",
+                "mas o que é {userid} :b",
+                "ah, espera, esse é o seu userid, foi mal",
             },
             {
-                "is gravel js crushed rocks?",
+                "o GS é só pedra britada?",
                 "like genuinely???",
-                "gravel could be js crushed rocks",
+                "GS could be js crushed rocks",
             },
             {
                 "hbss means:",
                 "heybuddystopstealing",
-                "ye dat what it means",
+                "sim, é isso que significa",
             },
             {
-                "I'm 101% u'll like gravel :3",
+                "I'm 101% u'll like GS :3",
                 "like I'm dat sure",
-                "(why am I self-glazing)",
+                "(por que estou me elogiando?)",
             },
             {
-                "I work best on generic shooters",
-                "if it's not a generic shooter",
+                "Eu funciono melhor em jogos de tiro genéricos",
+                "se não for um jogo de tiro genérico",
                 "I might break",
             },
             {
-                "why is http 429 my enemy",
-                "I SWEAR TO GOD",
-                "everytime i load gravel",
-                "it hits me with 429",
+                "por que o HTTP 429 é meu inimigo",
+                "EU JURO POR DEUS",
+                "everytime i load GS",
+                "ele me acerta com 429",
                 "like bro chill out",
             },
             {
-                "renderstepped is for chuds",
+                "RenderStepped é para chuds",
                 "heartbeat gang where u at",
                 "renderstepped makes me lag",
                 "heartbeat smooth like butter",
             },
             {
-                "did someone say spaghetti",
-                "my code is pasta",
-                "al dente and tangled",
+                "alguém falou em espaguete",
+                "meu código é massa",
+                "al dente e todo emaranhado",
                 "bon appetit",
             },
             {
                 "synapse x users be like",
-                "where my script at",
-                "script got executed",
-                "by a 2017 exploit",
-                "those were the days",
+                "cadê meu script",
+                "o script foi executado",
+                "por um exploit de 2017",
+                "aqueles eram tempos",
             },
             {
-                "nil errors are my passion",
-                "attempt to index nil",
-                "my favorite error",
+                "erros de nil são minha paixão",
+                "tentativa de indexar nil",
+                "meu erro favorito",
                 "gets me every time",
             },
             {
-                "if u see a syntax error",
-                "just run it again",
+                "se você vir um erro de sintaxe",
+                "é só executar novamente",
                 "it'll fix itself",
                 "trust me bro",
             },
             {
-                "the 200 variable limit",
-                "is my sleep paralysis demon",
+                "o limite de 200 variáveis",
+                "é meu demônio da paralisia do sono",
                 "i wake up screaming",
                 "at 3am thinking about it",
             },
             {
-                "when the ui library updates",
-                "and everything breaks",
+                "quando a biblioteca de UI atualiza",
+                "e tudo quebra",
                 "i ''love'' rewriting code",
                 "said no one ever",
             },
             {
-                "print() are too overrated",
-                "like bro it's just... idk even know :/",
+                "print() é superestimado demais",
+                "mano, é só... nem sei :/",
             },
             {
                 "blox fruits players be like",
-                "is this for blox fruits",
-                "no it's for generic shooters",
-                "please learn to read",
+                "isso é para Blox Fruits",
+                "não, é para jogos de tiro genéricos",
+                "por favor, aprenda a ler",
             },
             {
                 "gaming chair diff fr",
-                "i got the 4000$ chair",
-                "that's why i never miss",
-                "totally not aimbot",
-                "or silentaim",
-                "or hitbox",
-                "or [insert feature here]",
+                "eu tenho a cadeira de 4000$",
+                "por isso nunca erro",
+                "definitivamente não é aimbot",
+                "ou silent aim",
+                "ou hitbox",
+                "ou [insira o recurso aqui]",
             },
             {
                 "csgo players malding",
-                "when i hit a 360 no scope",
-                "jokes on them",
+                "quando acerto um 360 sem mira",
+                "bem feito para eles",
                 "i don't even play csgo",
                 "I play Roblox shooters",
                 "so as u {displayname}",
             },
             {
-                "me and the boys",
-                "running the script",
-                "and getting banned",
+                "eu e os manos",
+                "rodando o script",
+                "e sendo banido",
                 "worth it every time",
             },
             {
-                "shoutout to the devs",
-                "that make this possible",
-                "we appreciate you",
-                "oh wait that's me :v",
+                "salve para os devs",
+                "que tornam isso possível",
+                "nós agradecemos a vocês",
+                "ah, espera, sou eu :v",
             },
             {
                 "me debugging at 2am",
-                "why isn't it working",
+                "por que não está funcionando",
                 "oh i forgot a comma",
-                "i'm going to sleep",
+                "vou dormir",
             },
             {
                 "half life 3 confirmed",
-                "gravel confirmed it",
+                "GS confirmed it",
                 "trust me bro",
                 "my uncle works at valve",
             },
             {
-                "the script is free",
-                "and open source",
-                "and has silent aim",
-                "what more could you want",
+                "o script é grátis",
+                "e open source",
+                "e tem silent aim",
+                "o que mais você poderia querer",
             },
             {
-                "i love when the script",
-                "works on the first try",
-                "that's a lie",
-                "it never does",
+                "eu adoro quando o script",
+                "funciona na primeira tentativa",
+                "isso é mentira",
+                "isso nunca acontece",
             },
             {
-                "200 variable limit is",
+                "o limite de 200 variáveis é",
                 "my arch nemesis",
-                "we have beef",
-                "it started in 2024",
+                "temos uma treta",
+                "começou em 2024",
             },
             {
-                "the script is held together",
-                "by pure spite",
-                "and caffeine",
+                "o script é mantido unido",
+                "por puro rancor",
+                "e cafeína",
                 "mostly caffeine",
             },
             {
-                "Did you know",
+                "Você sabia",
                 "Water contains oxygen",
-                "so you could breath underwater",
+                "então você poderia respirar debaixo d'água",
             },
             {
-                "is that a hack",
+                "isso é hack",
                 "no it's a gaming chair",
-                "my chair has aimbot",
-                "you should get one",
+                "minha cadeira tem aimbot",
+                "você deveria comprar uma",
             },
             {
-                "Gravel has 0 calories 2 burn",
-                "so yeh {displayname} dis is\nwhy gravel can do dis",
+                "GS tem 0 calorias para queimar",
+                "então é isso, {displayname},\né por isso que o GS consegue fazer isso",
             },
             {
-                "wait this isn't a virus",
+                "espera, isso não é um vírus",
                 "i was told it was a virus",
                 "it's open source",
-                "you can literally read it",
+                "você literalmente pode ler",
             },
             {
                 typesp = "1.5",
                 "hey {displayname}",
                 "yea u",
-                "the one reading this",
-                "how's ur day going?",
-                "mine's gravely :p",
+                "você que está lendo isso",
+                "como está seu dia?",
+                "mine's GSy :p",
                 "get it?",
-                "gravely?",
-                "like gravel?",
+                "GSy?",
+                "like GS?",
                 "ok i'll stop",
             },
             {
                 typesp = "1.5",
                 "so uh",
-                "{displayname} u ever just",
+                "{displayname}, você já parou para",
                 "look at a rock",
-                "and think 'wow'",
-                "that's me",
-                "i'm the rock",
-                "gravel specifically",
+                "e pensar 'uau'",
+                "esse sou eu",
+                "eu sou a pedra",
+                "GS specifically",
                 "nice 2 meet u :3",
             },
             {
                 typesp = "2",
-                "ur probably using this",
-                "to destroy some kids",
-                "in a roblox game",
-                "i respect that",
+                "você provavelmente está usando isso",
+                "para destruir uns moleques",
+                "em um jogo de Roblox",
+                "respeito isso",
                 "get rekt nerd >:D",
-                "haha i'm just joking",
-                "or am i?",
+                "haha, estou só brincando",
+                "ou será que não?",
                 ";)",
             },
             {
@@ -1249,7 +1249,7 @@ local config = {
                 "over here",
                 "yea u",
                 "wanna know a secret?",
-                "gravel is made of",
+                "GS é feito de",
                 "crushed rocks",
                 "mind blown :o",
             },
@@ -1257,189 +1257,189 @@ local config = {
                 typesp = "1.5",
                 "r u a hacker?",
                 "cuz u seem sus",
-                "wait i'm the script",
+                "espera, eu sou o script",
                 "i'm literally hacking\nfor u",
-                "i'm the sus one",
+                "eu sou o suspeito",
                 "my bad :p",
             },
             {
-                "mastermz plzzlz\nshowcase mAh script",
+                "mastermz por favooor\nmostre meu script",
                 "plzlzllzllzzzzz",
                 "like super duper pleasszz",
             },
             {
-                "u ever just",
-                "open a script",
-                "and it works",
+                "você já",
+                "abrir um script",
+                "e funciona",
                 "first try?",
                 "yea me neither",
-                "this is like my 50th version",
-                "we don't talk about v1\noh yea g.cc dont has versions...",
+                "essa é tipo a minha 50ª versão",
+                "não falamos sobre a v1\noh, é, o g.cc não tem versões...",
             },
             {
                 typesp = "1.5",
                 "if u get banned",
                 "don't blame me",
-                "i'm just a rock",
-                "rocks can't be blamed",
-                "it's the law",
+                "eu sou apenas uma pedra",
+                "pedras não podem ser culpadas",
+                "é a lei",
                 "i think",
                 "i didn't read it",
             },
             {
-                "what's ur favorite",
-                "type of rock?",
-                "mine's gravel obv",
-                "but igneous is cool too",
+                "qual é o seu favorito",
+                "tipo de pedra?",
+                "mine's GS obv",
+                "mas pedra ígnea também é legal",
                 "pumice floats",
-                "that's wild",
-                "nature is crazy :o",
+                "isso é doido",
+                "a natureza é maluca :o",
             },
             {
                 typesp = "2",
                 "u think ur ready",
-                "for the gravel experience?",
+                "para a experiência GS?",
                 "u think ur ready",
-                "for the SILENT AIM??",
+                "para o SILENT AIM??",
                 "u think ur ready",
-                "for the HITBOX??",
-                "probably not :P",
+                "para a HITBOX??",
+                "provavelmente não :P",
             },
             {
-                "some people use aimbot",
-                "some people use silent aim",
+                "algumas pessoas usam aimbot",
+                "algumas pessoas usam silent aim",
                 "but real ones",
-                "use gravel",
-                "and a gaming chair",
+                "use GS",
+                "e uma cadeira gamer",
                 "obviously",
             },
             {
                 typesp = "1.5",
                 "warning:",
-                "this script may cause",
+                "este script pode causar",
                 "excessive winning",
                 "opponents crying",
-                "and accusations",
-                "of being a hacker",
-                "u have been warned >:D",
+                "e acusações",
+                "de ser um hacker",
+                "você foi avisado >:D",
             },
             {
-                "what do u call",
+                "como você chama",
                 "a sad rock?",
                 "a crying pebble :(",
-                "what do u call",
+                "como você chama",
                 "a happy rock?",
-                "a gravely boy :D",
+                "a GSy boy :D",
             },
             {
                 typesp = "1.5",
                 "u ever think about",
-                "how i'm talking to u",
+                "como estou falando com você",
                 "through text",
-                "on a screen",
-                "in a game",
+                "em uma tela",
+                "em um jogo",
                 "about rocks",
-                "life is weird man",
+                "a vida é estranha, mano",
             },
             {
-                "if u read this far",
+                "se você leu até aqui",
                 "u deserve a medal",
-                "or a rock",
+                "ou uma pedra",
                 "here's a virtual rock",
                 "🥔",
-                "wait that's a potato",
+                "espera, isso é uma batata",
                 "close enough :p",
             },
             {
                 typesp = "1.5",
-                "gravel's motto:",
+                "GS's motto:",
                 "be rocky",
                 "be rough",
                 "be resilient",
-                "and don't get kicked",
-                "by the server",
-                "or anticheat",
+                "e não seja expulso",
+                "pelo servidor",
+                "ou anticheat",
             },
             {
-                "some people use",
+                "algumas pessoas usam",
                 "expensive hacks",
-                "we use free ones",
-                "and they work better",
-                "take that capitalism",
+                "nós usamos os grátis",
+                "e eles funcionam melhor",
+                "toma essa, capitalismo",
                 ":v",
             },
             {
                 typesp = "2",
-                "u know what's underrated?",
-                "the sound of gravel",
+                "sabe o que é subestimado?",
+                "o som do GS",
                 "crunch crunch",
                 "satisfying as heck",
-                "u can't change my mind",
+                "você não vai mudar minha opinião",
             },
             {
-                "me: 'i'll make a clean script'",
+                "eu: 'vou fazer um script organizado'",
                 "also me:",
                 "*16000+ lines later*",
-                "what is organization?",
+                "o que é organização?",
                 "i don't know her",
                 ":s",
             },
             {
                 typesp = "1.5",
-                "this script contains:",
-                " - 100% pure gravel",
+                "este script contém:",
+                " - 100% pure GS",
                 " - premium aim",
                 " - secret sauce",
                 " - questionable code",
                 " - the tears of enemies",
-                "read the ingredients",
+                "leia os ingredientes",
                 "u won't :P",
             },
             {
                 typesp = "0.2",
                 "I'm typing soooo slowwwww",
                 "like super slow",
-                "to make u impatient",
+                "para deixar você impaciente",
             },
             {
                 typesp = "5",
                 "IM TYPING SUPER DUPER FAST",
                 "IM TYPING SO FAST U CANT EVEN",
-                "READ ALL OF IT >:D",
+                "LEIA TUDO >:D",
                 "MWAHAHAHAHAHAHAH",
                 "EUGEAUYIQHIFU82-2;1866646649",
                 "IVE ALSO SMASHED MAH KEYBOARD",
             },
             {
-                "can you tell me ur ssn",
+                "você pode me dizer seu número de seguridade social",
                 "like......",
-                "I want ur ssn for like....",
+                "Eu quero seu número de seguridade social tipo....",
                 "no reason",
             },
             {
                 typesp = "3",
-                "i'm not a robot",
-                "i'm a gravel",
-                "robots are metal",
-                "gravel is rock",
+                "eu não sou um robô",
+                "i'm a GS",
+                "robôs são de metal",
+                "GS é pedra",
                 "big difference",
                 "checkmate atheists",
                 ":v",
             },
             {
                 "u ever get so bored",
-                "u read script messages",
+                "você lê mensagens de script",
                 "like these?",
                 "same tbh",
                 "i wrote them",
-                "i have no life",
-                "respect the grind",
+                "eu não tenho vida",
+                "respeite o esforço",
             },
             {
                 typesp = "2",
-                "u ever try to explain",
-                "what gravel is",
-                "to someone?",
+                "você já tentou explicar",
+                "o que é o GS",
+                "para alguém?",
                 " 'it's a script' ",
                 " 'for roblox' ",
                 " 'with aimbot' ",
@@ -1447,77 +1447,77 @@ local config = {
                 "sadge :(",
             },
             {
-                "me trying to decide",
-                "what feature to add next:",
+                "eu tentando decidir",
+                "qual recurso adicionar depois:",
                 "*spins wheel*",
-                "it lands on 'more jokes'",
-                "so here we are",
+                "ela cai em 'mais piadas'",
+                "e aqui estamos",
                 "u're welcome :D",
             },
             {
                 typesp = "1.5",
-                "if u enjoy this script",
+                "se você gosta deste script",
                 "tell a friend",
                 "if u don't enjoy it",
                 "tell a da Robloz support",
                 "either way",
-                "gravel supports u",
+                "GS supports u",
             },
             {
                 typesp = "1.5",
-                "i love it when",
-                "the script loads",
-                "and nothing breaks",
-                "that's the best feeling",
+                "eu adoro quando",
+                "o script carrega",
+                "e nada quebra",
+                "essa é a melhor sensação",
                 "better than winning",
                 "better than robux",
                 "pure joy",
             },
             {
-                "u ever just",
-                "silent aim someone",
-                "and they go",
+                "você já",
+                "usar silent aim em alguém",
+                "e eles ficam",
                 " '??? how' ",
-                "and then u say ping diff",
-                "well I did that",
+                "e então você diz 'diferença de ping'",
+                "bem, eu fiz isso",
             },
             {
-                "i'm not saying",
-                "gravel is the best",
-                "but i'm also not saying",
-                "it's NOT the best",
-                "so it's the bes but not da best-est",
-                "llikee does that make sense?",
+                "não estou dizendo",
+                "GS é o melhor",
+                "mas também não estou dizendo",
+                "NÃO é o melhor",
+                "então ele é o melhor, mas não o melhor dos melhores",
+                "tipo, isso faz sentido?",
             },
             {
                 typesp = "1.5",
-                "u ever just",
+                "você já",
                 "accidentally write",
                 "a really good feature",
-                "and not know how",
-                "u did it?",
-                "that's most of gravel",
+                "e não saber como",
+                "você fez isso?",
+                "isso é a maior parte do GS",
                 "happy accidents",
                 ":D",
             },
             {
                 "i should probably",
-                "document this code",
-                "but that's future me's",
+                "documentar este código",
+                "mas isso é problema do meu eu do futuro",
                 "problem",
                 "present me wants",
-                "to add more jokes",
+                "adicionar mais piadas",
                 "priorities :v",
             },
             {
                 typesp = "1.5",
-                "if u see me in game",
+                "se você me vir no jogo",
                 "no u didn't",
                 "if u see me hacking",
                 "no u didn't",
                 "if u see me winning",
-                "that's just skill",
-                "gravel skill",
+                "isso é só habilidade",
+                "GS skill",
                 ";D",
             },
         },
@@ -1546,125 +1546,125 @@ local config = {
         popz = {
             ":0",
             ":7",
-            "my name is gravel what's yours?????",
-            "my zodiac sign is a shovel :p",
-            "gravel is rocky :o",
+            "meu nome é GS, qual é o seu?????",
+            "meu signo é uma pá :p",
+            "GS é rochoso :o",
             "graveeeeeeeelll",
             ":p",
             ">:3",
-            "Gravel is not Sentient idk wat ur talking about",
+            "GS não é senciente, não sei do que você está falando",
             "sigmasigmaboug",
-            "I'm a rng pop-up that picks random messages 24/7",
-            "would dis script work on every gaem\nyh & noe",
-            "this script is 10000+ lines... oml :s",
-            "the UI ts using is WindUi and the notification is Alurt btw I just found it from ballmart",
-            "a free?! keyless?! script?! and open source?! that has silentaim?! wtf",
-            "the script is randomly picking messages your not freaking out :p",
-            "sorry xeno users or solarara I don't have the supporty support",
-            "nononononoonono this script ain't a virus so dat why I made it open src",
-            "Is that a gubby?\n\n- kreek",
-            "Error ur roblxo isn't support",
-            "ooh, nice computer you got their, Can I have it\n\n- Mario virus",
-            "something is coming in 3 days\n\n- verity",
+            "Sou um pop-up de RNG que escolhe mensagens aleatórias 24/7",
+            "esse script funcionaria em todos os jogos?\nsim e não",
+            "este script tem mais de 10.000 linhas... meu Deus :s",
+            "a UI que este negócio usa é WindUI e a notificação é Alurt, aliás, eu encontrei isso no ballmart",
+            "um script grátis?! sem key?! open source?! e com silent aim?! que porra é essa",
+            "o script está escolhendo mensagens aleatoriamente, não surte :p",
+            "desculpe, usuários do Xeno ou Solarara, eu não tenho suporte",
+            "não não não não não, este script não é um vírus, por isso eu o deixei open source",
+            "Isso é um gubby?\n\n- kreek",
+            "Erro: seu Roblox não é compatível",
+            "ooh, que computador legal você tem aí, posso ficar com ele?\n\n- Vírus Mario",
+            "algo está chegando em 3 dias\n\n- verity",
             "real",
             "tuff",
-            "guhby this guhby that",
+            "guhby isso, guhby aquilo",
             "2 atoms touch = big explosion",
-            "you can noclip when your atoms aligned\ntrust",
-            "I don't have DC btw",
-            "my code is used to be 8000+ now 9000+ and then 16000+ lines long, I canf do dis sh on mobile D:",
+            "você pode atravessar paredes quando seus átomos estiverem alinhados\nconfia",
+            "Eu não tenho Discord, aliás",
+            "meu código costumava ter 8.000+ linhas, agora tem 9.000+ e depois 16.000+ linhas, não consigo fazer essa merda no celular D:",
             "flatgrass",
-            "search free robux to get free robux",
+            "pesquise 'free robux' para ganhar Robux grátis",
             "alt-f4 = free rboux",
             "++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++.\n>\n+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++.",
             "^_^",
             "^u^",
             "^v^",
-            "half life 3 when?",
+            "Half-Life 3 quando?",
             "it's a game called HELLO NEIGHBOR -HEL -HEL -HELHEL-HELLO NE-NEIGH-BOR",
             "FORTYNIGHTY LA PABAJI\npabaji\nPABAJI LA EKES BOKES SERES EKES\npabaji\nPABAJI LA BALESTHONFAIV\nbalesteshon... faiv...\nBALESTHONFAIV LA LUKITIK\nlukitik\nLUKITTIK LA HAYBAR EKES EKES EKES EKES\nhybar ekes ekes ekes ekes\nHYBAR EKES EKES EKES EKES LA GIRANDIFIFDORIGINI\ngirandififdorigini",
-            "Did you do your chores?\nyessirski!\nDid you do your chores?\nyessirski\nDid you do your chores?\nyessirski!\nDid you do your chores?\nyessirski\nWhen I get home it better be clean!\nDid you do your chores?\nyessirski!\nOH! BOI WHY DID U LIE TO ME!!!\nAHHHHH",
+            "Você fez suas tarefas?\nsim, senhor!\nVocê fez suas tarefas?\nsim, senhor\nVocê fez suas tarefas?\nsim, senhor!\nVocê fez suas tarefas?\nsim, senhor\nQuando eu chegar em casa, é melhor estar tudo limpo!\nVocê fez suas tarefas?\nsim, senhor!\nAH! GAROTO, POR QUE VOCÊ MENTIU PRA MIM!!!\nAHHHHH",
             "Homework?\nNah!\nHomework?\nNah!\nHomework?\nNah!\nHomework?\ni did it at school\nNah!\nHomework?\nNah!\nHomework?\nNah!\nWHY ARE YOU CLASSES PHAILING\n AHHH D:",
-            "Turkey in the Straw!",
-            "du bist gut genug...\ndu bist gut genug...\ndu bist gut genug\ndu bist gut genug\n*fire music*",
+            "Peru na Palha!",
+            "você é bom o bastante...\nvocê é bom o bastante...\nvocê é bom o bastante\nvocê é bom o bastante\n*música insana*",
             "本当に出口はないのか、くる、くる、くる、くる、繰り返し、繰り返し、繰り返し…\n\n\ni ain't writing allat",
-            "*Stranger Things Intro*\ndustin lucas will mike...\nBURP",
+            "*Introdução de Stranger Things*\ndustin lucas will mike...\nARROTO",
             "robloz where classic faces :‹",
-            "I'm not taking my sneakers off, I'm sneakers O'Toole",
-            "Gpssickle is a gps with a sickle",
-            "da script reached 8000 lines to 16000 o_o",
-            "just simply cheat through it\n\n quite literally",
-            "just simply go under it",
-            "just simply go over it",
-            "just simply script to it",
-            "just simply walk around it\n\n- Electracy",
-            "You die\n\n- StromBrew",
-            "sonion\ni learned this from meme culture don't ask me",
+            "Eu não vou tirar meus tênis, eu sou Sneakers O'Toole",
+            "Gpssickle é um GPS com uma foice",
+            "o script foi de 8.000 linhas para 16.000 o_o",
+            "é só trapacear para passar por isso\n\n literalmente",
+            "é só passar por baixo",
+            "é só passar por cima",
+            "é só usar um script para isso",
+            "é só contornar\n\n- Electracy",
+            "Você morre\n\n- StromBrew",
+            "sonion\neu aprendi isso com a cultura dos memes, não me pergunte",
             "I like trains",
-            "welcome to McDonald's.",
-            "you are my sunshine, my only sunshine",
-            "IS THAT SONIC WITH GRAY SHOES D:",
+            "bem-vindo ao McDonald's.",
+            "você é meu raio de sol, meu único raio de sol",
+            "É O SONIC COM SAPATOS CINZENTOS? D:",
             "Atoms never touch so dat means I didn't steal ur chocolate",
-            "Yeah, come gets some you freakin' wuss\n\n- Scout (not Taunt form dod)",
+            "É, venha pegar um pouco, seu fracote\n\n- Scout (não a forma de provocação do dod)",
             "sybau 🥀💔",
-            "these are meme reference ok",
+            "essas são referências de memes, ok",
             "water + ice + melt = water",
             "3.1415926535897932384626433832795028841971693993751058209749445923078164062862089986280348253421170679",
             "1.61803398874989484820458683436563811772030917980576",
             "print(''*prints cutely*'')\nerror(''*errors cutely*'')\nwarn(''*warns cutely*'')",
-            "Gravel.cc 🥀",
-            "my imagination has been powered",
-            "YOU NEVER SEE IT COMIIIIIIINNNG,\nyou'll see that my mind\nis to fast for eyes\nYOUR DONE INNNNNN\nBY THE\ntime is hit you, YOUR LAST SURPRISE",
+            "GS.cc 🥀",
+            "minha imaginação foi ativada",
+            "VOCÊ NUNCA VÊ ISSOOOOOOO,\nvocê verá que minha mente\né rápida demais para os olhos\nVOCÊ ESTÁ ACABADOOOOOO\nQUANDO O\ntempo te atingir, SUA ÚLTIMA SURPRESA",
             "Gpssssssssssssssssssssssssssssssssssssssssickle",
-            "global positioning system with a sickle",
-            "The golden dandelion which is the golden dandelion",
-            "can u remind me the golden ratio next time",
+            "sistema de posicionamento global com uma foice",
+            "O dente-de-leão dourado que é o dente-de-leão dourado",
+            "pode me lembrar da proporção áurea da próxima vez",
             "y'all think he look like; Steve Harvey?\n *Screams*",
             "/kill @p",
             "HBSS doesn't mean anything lolz\ni typed it randomly...",
             "rbxm",
-            "why 'Gravel' ya know how sand gets in ur shoes..\ngravel does the same but it's for games",
-            "people barely use the bottab",
+            "por que 'GS'? sabe como areia entra nos seus sapatos..\no GS faz a mesma coisa, mas para jogos",
+            "as pessoas quase não usam a bottab",
             "I hate renderstepped...\n(probably because I keep misusing it)",
-            "is it Roblox or roadblocks or robloz who knows",
-            "''Does this work in Minecraft''",
-            "www.gravel.com ... why does this website exists?",
-            "imagine ur script getting mogged by a script made fully on a phone",
-            "dere is no Terraria final update D:",
+            "é Roblox, roadblocks ou robloz? quem sabe",
+            "''Isso funciona no Minecraft?''",
+            "www.GS.com ... por que esse site existe?",
+            "imagine seu script sendo humilhado por um script feito totalmente no celular",
+            "não existe atualização final de Terraria D:",
             "da cake isnt a lie... trust",
-            "iS ThAt ga hÆcker?????!?!?!!!?!???!?!",
-            "y is this drooling cat meme all over my fyp D:",
+            "iS iSsO uM hÆcker?????!?!?!!!?!???!?!",
+            "por que esse meme do gato babando está em todo o meu feed D:",
             "tbh bro I'd go; [insert metalpipefalling.gif]",
-            "gravel vs sand vs rock vs thingamajang",
-            "GTA 6 when?",
-            "if they said ur a hacker say 'Ping Diff' and they'll believe u",
+            "GS vs sand vs rock vs thingamajang",
+            "GTA 6 quando?",
+            "se disserem que você é hacker, diga 'Diferença de Ping' e eles vão acreditar",
             "w wedgeey 🥺\nw junglescripts 🥺",
-            "sand.cc when?",
-            "what version is this? well I don't fking know lol",
+            "sand.cc quando?",
+            "que versão é essa? bem, eu não faço a mínima ideia kkk",
             "scirpotjg iz hard :(",
             "Roblox plz collabl",
             "helloworld(''print'')",
-            "Markiplier & Larpiplier collab when?",
-            "61? 67?\nit's time for the letters to have fun\nabcdefghijklmnop\nL-M-N-O-P\nP\nP\nP\nP",
-            "hello whoever you are :D\ni don't have the capacity to see your usernames yet because I'm too lazy to script dat in\noh wait ur name is " .. lp_info.lp_displayname .. "\n cool name!",
-            "me is want chat roblox not age verif",
-            "this script isn't full ban proof so if you get banned DON'T blame on us when your using risky features :/",
-            "deres like idk amount of random messages I contains lolz",
+            "Markiplier e Larpiplier, quando a colaboração?",
+            "61? 67?\né hora das letras se divertirem\nabcdefghijklmnop\nL-M-N-O-P\nP\nP\nP\nP",
+            "olá, seja quem você for :D\nainda não consigo ver seus nomes de usuário porque sou preguiçoso demais para programar isso\nah, espera, seu nome é " .. lp_info.lp_displayname .. "\n cool name!",
+            "eu quero o chat do Roblox, não verificação de idade",
+            "este script não é totalmente à prova de banimento, então se você for banido NÃO nos culpe enquanto estiver usando recursos arriscados :/",
+            "tem tipo sei lá quantas mensagens aleatórias aqui kkk",
         },
         popz2 = {
-            "wth is ts",
+            "que porra é essa",
             "hell nah",
             "OHHHH HELLL NAH",
             "pop-up goes bye bye",
-            "isn't phonk just noise?",
+            "phonk não é só barulho?",
             "guys it's a-a, a-a h-hacker!?!?!",
             "tiki tiki",
             "Nosirski!",
             "[Eminem Throwing Meme.png]",
-            "why am I writing ts?",
+            "por que estou escrevendo isso?",
             "idk, sterling?",
-            "is that a toby?",
-            "click here or ur gay",
+            "isso é um Toby?",
+            "clique aqui ou você é gay",
             "lolzer-fying",
         },
         popz3 = {
@@ -1672,43 +1672,43 @@ local config = {
             "meeeeeoow :3 .... MAW >:3",
             "Bang, Bang, Bang",
             "20-20-20 Gugu Gaga dropkick",
-            "portal above portal below *jumps in*",
+            "portal acima, portal abaixo *pula dentro*",
             "Gugu Gaga Ultimated Flex Works",
-            "can gravel run doom?",
+            "o GS roda Doom?",
             "ipad kid vs ipad, who would win?",
             "ifone 90 proe max",
-            "image me missing one ',' on a large table..",
-            "Gravel supports Android 5-",
-            "your bluetooth device is ready to pair",
-            "why is there ai slop on my TikTok fyp....",
+            "imagina eu esquecendo uma ',' em uma tabela enorme..",
+            "GS suporta Android 5-",
+            "seu dispositivo Bluetooth está pronto para parear",
+            "por que tem lixo de IA no meu feed do TikTok....",
             ":3 >:3 ›:3 :3",
         },
         tinf = {
-            "bombastic side eye",
-            "oh shiddings nott gud D:",
+            "olhar de lado bombástico",
+            "ah, merda, isso não é bom D:",
             "67 vs 67",
-            "what's yer zodiac sign",
-            "hi I'm a rng",
-            "what's a brainfuck :s",
-            "Gravel.cc says be gravel",
-            "tag ur it",
+            "qual é o seu signo do zodíaco",
+            "oi, eu sou um RNG",
+            "o que é Brainfuck :s",
+            "GS.cc diz: seja GS",
+            "você está marcado",
             "shimmy ey shimmy yaaa",
-            "so many references :o",
-            "me wants grabel :(",
-            "life never made lemons...",
+            "tantas referências :o",
+            "eu quero grabel :(",
+            "a vida nunca fez limões...",
             "01001000 01101001",
-            "whoz dat",
-            "roblox is no longer robloz",
+            "quem é esse",
+            "Roblox não é mais robloz",
             "user :3",
             "water",
-            "GRAVEL-MAN",
-            "IM SKYLER WHITE, YO",
-            "my diet is gravel",
+            "GS-MAN",
+            "EU SOU SKYLER WHITE, YO",
+            "minha dieta é GS",
             "6761694203602048",
-            "ur definitely using delta cuz idk",
-            "dab me up :>",
-            "how much saves do u has",
-            "O rly",
+            "você definitivamente está usando Delta porque sei lá",
+            "bate aqui :>",
+            "quantos saves você tem",
+            "Ah é?",
             ":3",
             "lololololooloo",
         },
@@ -1743,61 +1743,61 @@ local config = {
             Main = {
                 "y u touching my brain",
                 "brain goes brrr",
-                "main stuffz",
-                "da core settings",
-                "trust me i know what im doing",
-                "settings go here!",
-                "don't touch unless you know what ur doing",
-                "gravels shovel",
-                "the real tab",
+                "coisas principais",
+                "as configurações principais",
+                "confia em mim, eu sei o que estou fazendo",
+                "as configurações ficam aqui!",
+                "não mexa a menos que saiba o que está fazendo",
+                "GSs shovel",
+                "a aba de verdade",
                 "where da magic happens",
-                "hehe settings go brr",
-                "u have no idea what ur doing",
+                "hehe, as configurações fazem brr",
+                "você não faz ideia do que está fazendo",
                 "baaa",
                 "it's big brain time.",
                 "pls be careful D:",
                 "yolo toggle it all",
-                "main main main main",
-                "core settings 4 core ppl",
+                "principal principal principal principal",
+                "configurações principais para pessoas principais",
                 "don't blame me if u break stuff",
                 "folk",
                 "read da text vro :1",
             },
             Visuals = {
-                "4 the blind ppl",
+                "para os cegos",
                 "oooh shiny",
                 "make game look cool",
                 "ESP go brrrrrr",
                 "seeing ppl through walls :o",
-                "visuals for da win",
+                "visuais para vencer",
                 "colorful stuff",
                 "vision 1+",
-                "walls are just suggestion",
+                "paredes são apenas uma sugestão",
                 "make em glow",
-                "I can see china from here!1!",
+                "Consigo ver a China daqui!1!",
                 "see everything",
                 "game looks different now",
                 "seekify",
-                "your eyes will thank u",
+                "seus olhos vão agradecer",
                 "wallhack energy",
                 "highlight da enemies",
                 "rainbow vibes",
-                "visibility is key",
-                "what walls?",
+                "visibilidade é essencial",
+                "que paredes?",
                 "xray vision activated",
                 "visuals go crazy"
             },
             AntiAim = {
                 "I suck at dodging tab",
                 "dodge master 3000",
-                "u cant hit me >:3",
+                "você não consegue me acertar >:3",
                 "evasion tactics",
-                "why can't I hit u",
-                "they cant touch this",
+                "por que não consigo te acertar",
+                "eles não conseguem tocar nisso",
                 "pew = miss",
                 "anti-getting-shot",
-                "hit me if u can",
-                "can't touch this",
+                "me acerte se puder",
+                "não consegue tocar nisso",
                 "matrix mode",
                 "teleports behind u",
                 "nothing personnel kid",
@@ -1809,38 +1809,38 @@ local config = {
             },
             Aimbot = {
                 "aimware-ing",
-                "lock on target",
-                "no mouse movement aim tab",
+                "travar no alvo",
+                "mira sem movimento do mouse",
                 "i legit never miss",
                 "accuracy 1+",
                 "headshot da kidz",
                 "gaming chair mode",
                 "crosshair magnet",
-                "technically aim assist",
-                "aimlabs? never heard of her",
-                "perfect aim every time",
-                "aim at thing",
+                "tecnicamente assistência de mira",
+                "Aimlabs? nunca ouvi falar",
+                "mira perfeita toda vez",
+                "mirar na coisa",
                 "precision inc",
                 "never miss u again",
-                "ur aim is insane",
+                "sua mira é insana",
                 "holeh aimbot",
                 "aimbot go crazy"
             },
             ["SilentAim (HB)"] = {
                 "hitbox x aimbot x silentaim x bullet tracker",
                 "Hitbox cousin",
-                "SilentAim & Hitbox made a baby",
+                "SilentAim e Hitbox tiveram um filho",
                 "ssshhh its a secret",
                 "unaim-ful",
-                "where are you aiming at??",
+                "onde você está mirando??",
                 "secret sauce"
             },
             ["SilentAim (HK)"] = {
-                "I'm the better option sonionster",
+                "Sou a opção melhor, sonionster",
                 "hook-based baby",
-                "the true silent aim",
+                "o verdadeiro silent aim",
                 "raycast torture",
-                "the better silentsilentaim",
+                "o melhor silentsilentaim",
                 "raycast go brrr",
                 "uncatchable",
                 "legit looking I think..",
@@ -1848,14 +1848,14 @@ local config = {
                 "aim-ster",
             },
             Hitbox = {
-                "it's hitbox not HURTBOX D:<",
+                "é hitbox, não HURTBOX D:<",
                 "size matters",
                 "make em bigger",
                 "expansion pack",
                 "hitbox go chud mode",
-                "bigger is better",
+                "maior é melhor",
                 "easy mode",
-                "bro what's that hitbox",
+                "mano, que hitbox é essa",
                 "sizely",
                 "bigger hitbox bigger fun",
                 "they cant dodge",
@@ -1871,31 +1871,31 @@ local config = {
                 "extendo reach",
                 "touch things far away",
                 "long distance relationship",
-                "can i touch u from here :3",
+                "posso tocar em você daqui :3",
                 "extendo mode",
                 "range extender",
-                "COME TO BRAZIL",
+                "VENHA PARA O BRASIL",
                 "touchy touchy",
                 "stretch armstrong",
                 "big reach modeldh",
                 "reach around",
                 "long arms gng🥀",
-                "kill aura for sowrds"
+                "aura de morte para espadas"
             },
             Client = {
-                "I don't hold the serverside blud",
+                "Eu não controlo o lado do servidor, mano",
                 "GOTTA GO FAST",
-                "I'm in a sugar rush",
-                "due to my gaming chair",
-                "client the client of client",
+                "Estou numa corrida de açúcar",
+                "por causa da minha cadeira gamer",
+                "cliente, o cliente do cliente",
             },
             Miscellaneous = {
-                "random bs go!!!🔥🔥??🔥",
-                "the leftovers",
+                "besteira aleatória, vai!!!🔥🔥??🔥",
+                "as sobras",
                 "extra stuff",
                 "bruh stuff",
-                "random stuff my brain made",
-                "the rest of em",
+                "coisas aleatórias que meu cérebro criou",
+                "o resto deles",
                 "thingamabob",
                 "experimental features",
                 "za-silly",
@@ -1911,103 +1911,103 @@ local config = {
                 "it's super loud here",
                 "make g.cc louder",
                 "[insert noises]",
-                "bgm = background music",
-                "y is there boss music?",
+                "bgm = música de fundo",
+                "por que tem música de chefe?",
                 "FIRE SONG >:D",
-                "music player technically",
+                "tecnicamente um reprodutor de música",
                 "rbxassetid music",
-                "my fav is kwikflip",
+                "minha favorita é kwikflip",
                 "angry bird ear meme",
                 "bgmmmm type shi",
                 "I keep saying bmg",
-                "gravel needs music fr",
-                "nice music taste",
+                "GS precisa de música, de verdade",
+                "bom gosto musical",
                 ">:P",
-                "me wants music :3",
+                "eu quero música :3",
             },
             Info = {
                 "show me da papperz",
-                "the knowledge",
+                "o conhecimento",
                 "read me.txt",
-                "info-man",
+                "homem da informação",
                 "VRO HELP ME OUT",
-                "what is this",
+                "o que é isso",
                 "guide time",
                 "ENLIGHTEN ME",
                 "*monkeg vs lion meme*",
-                "i can't understand ts 🥀😔",
-                "credits and stuff",
+                "não consigo entender isso 🥀😔",
+                "créditos e coisas assim",
                 "dictionary",
-                "how to use roadblocked",
-                "info urself",
-                "wtf is this script",
+                "como usar roadblocked",
+                "informe-se",
+                "que porra é esse script",
                 "SPY???"
             }
         },
         easterTitles = {
-            "Gravel.egg",
-            "gravel.easteeeeerrr",
-            "Gravel.eggcellent",
-            "Gravel.ILikeEgg",
-            "hunting 4 da gravel",
+            "GS.egg",
+            "GS.easteeeeerrr",
+            "GS.eggcellent",
+            "GS.ILikeEgg",
+            "hunting 4 da GS",
             "easter shovel",
         },
         defaultTitles = {
-            "Gravel.cc", -- ts is da actual default 1 btw
-            "G.cc", -- ts is also how u say gravel
-            "HBSS.cc", -- again also gravel
-            "Gravel-est",
-            "Gravel-er",
+            "GS.cc", -- ts is da actual default 1 btw
+            "G.cc", -- ts is also how u say GS
+            "HBSS.cc", -- again also GS
+            "GS-est",
+            "GS-er",
             "Graaaavel.cc",
-            "Gravelly.cc",
-            "Gravel.com",
-            "Hi! I'm Gravel.cc",
-            "Gravel enjoyer",
-            "GRAVEL.CC >:D",
-            "holy gravel.cc",
-            "GravelGravelGravel.cc",
-            "I like gravel",
-            "Gravel.cheatcheat",
-            "Gravel.yes",
-            "Gravel.no",
-            "Gravel.lua", -- ts one makes sense
-            "GRAVEL GRAVEL.CC",
+            "GSly.cc",
+            "GS.com",
+            "Hi! I'm GS.cc",
+            "GS enjoyer",
+            "GS.CC >:D",
+            "holy GS.cc",
+            "GSGSGS.cc",
+            "I like GS",
+            "GS.cheatcheat",
+            "GS.yes",
+            "GS.no",
+            "GS.lua", -- ts one makes sense
+            "GS GS.CC",
         },
         festiveTitles = {
             --don't be a spolier plz :c
             ["01 01"] = {
-                "New Gravel.cc :>",
+                "New GS.cc :>",
                 "Happy new year!1!1!11",
-                "A new year, a same Gravel.cc",
+                "A new year, a same GS.cc",
                 "welcome 2 a new year buddy",
-                "I haven't showered since last year- ok this one is overrated",
-                "year of da shovel",
+                "Não tomo banho desde o ano passado- ok, essa é exagerada",
+                "ano da pá",
             },
             ["02 14"] = {
-                "Gravel.<3",
-                "will u be my gravel",
-                "gravel iz love",
-                "be my gravel",
+                "GS.<3",
+                "você será meu GS?",
+                "GS iz love",
+                "be my GS",
             },
             ["03 17"] = {
-                "Gravel.luck",
-                "lucky gravel",
-                "good luck or smth",
+                "GS.luck",
+                "lucky GS",
+                "boa sorte ou algo assim",
                 "lucky shovel",
             },
             ["10 31"] = {
-                "Gravel.cc :Q",
-                "Gravel.cc :F",
-                "gravel go boo",
+                "GS.cc :Q",
+                "GS.cc :F",
+                "GS go boo",
                 "BOO (I definitely scared u)",
-                "trick or gravel",
-                "da haunted gravel",
+                "gostosuras ou GS",
+                "da haunted GS",
             },
             ["12 25"] = {
-                "merry gravelmas",
-                "gravel gifts for all",
-                "Gravel.Feliz Navidad!",
-                "gravel under da tree",
+                "merry GSmas",
+                "GS dá presentes para todos",
+                "GS.Feliz Navidad!",
+                "GS under da tree",
             },
         },
         aprilFools = { 
@@ -2017,8 +2017,8 @@ local config = {
             "Neverlose",
             "RIBLOX MOD MENU 🔥🔥🔥",
             "u got pranked",
-            "Gravel is sand",
-            "not gravel",
+            "GS é areia",
+            "não é GS",
             "Dirt.cc",
             "Flour.cc",
             "Brick.cc 2.0",
@@ -2060,7 +2060,7 @@ local config = {
         Rng3dis = {},
         orgfov = nil,
         autoloadParagraph = nil,
-        autoloadMemoryFile = "Gravel_Saves/assets/memory.json",
+        autoloadMemoryFile = "GS_Saves/assets/memory.json",
         rng4 = {
             cursorVisible = true,
             currentText = "",
@@ -2529,7 +2529,7 @@ end
 
 local function fuzzymatch(inputName)
     if not inputName or inputName == "" then
-        return nil, "Please enter a save name"
+        return nil, "Digite um nome de save"
     end
     
     local saves = getSaveList()
@@ -2946,7 +2946,7 @@ local function saveConfig(saveName)
     if not saveName or saveName == "" then
         WindUI:Notify({
             Title = "Save System",
-            Content = "Please enter a save name!",
+            Content = "Digite um nome de save!",
             Icon = "x",
             Duration = 2
         })
@@ -2990,7 +2990,7 @@ local function saveConfig(saveName)
                     WindUI:Notify({
                         Title = "Save System",
                         Content = "Save '" .. saveName .. "' exists. Using: " .. finalName,
-                        Icon = "info",
+                        Icon = "informações",
                         Duration = 3
                     })
                     break
@@ -3029,7 +3029,7 @@ local function saveConfig(saveName)
                         WindUI:Notify({
                             Title = "Save System",
                             Content = "Save '" .. saveName .. "' exists. Using: " .. finalName,
-                            Icon = "info",
+                            Icon = "informações",
                             Duration = 3
                         })
                         break
@@ -3044,8 +3044,8 @@ local function saveConfig(saveName)
             finalName = "S" .. tostring(timestamp % 10000)
             WindUI:Notify({
                 Title = "Save System",
-                Content = "Using: " .. finalName,
-                Icon = "info",
+                Content = "Usando: " .. finalName,
+                Icon = "informações",
                 Duration = 2
             })
         end
@@ -3255,7 +3255,7 @@ local function saveConfig(saveName)
     if not success then
         WindUI:Notify({
             Title = "Save System",
-            Content = "Failed to encode save data!",
+            Content = "Falha ao codificar os dados do save!",
             Icon = "x",
             Duration = 2
         })
@@ -3283,7 +3283,7 @@ local function saveConfig(saveName)
     else
         WindUI:Notify({
             Title = "Save System",
-            Content = "Failed to save: " .. tostring(err),
+            Content = "Falha ao salvar: " .. tostring(err),
             Icon = "x",
             Duration = 2
         })
@@ -3294,7 +3294,7 @@ local function deleteSave(saveName)
     if not saveName or saveName == "" then
         WindUI:Notify({
             Title = "Save System",
-            Content = "Please enter a save name to delete!",
+            Content = "Digite um nome de save para excluir!",
             Icon = "x",
             Duration = 2
         })
@@ -3319,7 +3319,7 @@ local function deleteSave(saveName)
     if not isfile(path) then
         WindUI:Notify({
             Title = "Save System",
-            Content = "Save '" .. saveName .. "' not found!",
+            Content = "Save '" .. saveName .. "' não encontrado!",
             Icon = "x",
             Duration = 2
         })
@@ -3350,7 +3350,7 @@ local function deleteSave(saveName)
             WindUI:Notify({
                 Title = "Autoload System",
                 Content = "Removed " .. removedCount .. " autoload entry(ies) for '" .. saveName .. "'",
-                Icon = "info",
+                Icon = "informações",
                 Duration = 3
             })
             autolaodpara()
@@ -3370,7 +3370,7 @@ local function deleteSave(saveName)
     else
         WindUI:Notify({
             Title = "Save System",
-            Content = "Failed to delete: " .. tostring(err),
+            Content = "Falha ao excluir: " .. tostring(err),
             Icon = "x",
             Duration = 2
         })
@@ -3382,7 +3382,7 @@ local function deleteAllSaves()
     if #saves == 0 then
         WindUI:Notify({
             Title = "Save System",
-            Content = "No saves found to delete!",
+            Content = "Nenhum save encontrado para excluir!",
             Icon = "x",
             Duration = 2
         })
@@ -3393,20 +3393,20 @@ local function deleteAllSaves()
     local memeTitles = {
         "u sure bout dat??",
         "fr fr?",
-        "ARE U RLY SUPER DUPER SURE???",
+        "VOCÊ TEM CERTEZA ABSOLUTA???",
         "YOU ON GOD WHILE ON GOD???",
-        "THINK ABOUT THE SAVES FAMILY",
+        "PENSE NA FAMÍLIA DOS SAVES",
         "SURE SURELY SUREY??",
-        "YOU 1E60 SURE???",
+        "VOCÊ TEM CERTEZA MESMO???",
     }
     local yesVariants = {
         "Yes", "Yeah", "Yessir", "YESSIRSKI!", "YAA",
-        "HELL YA", "KILL ALL THE SAVES!!", "IM FR",
-        "IM SUPER SURE", "IM SO SURE THAT IM SURE!!",
-        "SAVES GO TO HELL!!",
+        "HELL YA", "MATE TODOS OS SAVES!!", "IM FR",
+        "IM SUPER SURE", "EU TENHO TANTA CERTEZA QUE TENHO CERTEZA!!",
+        "SAVES VÃO PARA O INFERNO!!",
     }
     local noVariants = {
-        "Nah", "Pass", "HECK NAH", "WHAT RUE DOING USER???",
+        "Nah", "Pass", "HECK NAH", "O QUE VOCÊ ESTÁ FAZENDO, USUÁRIO???",
         "NOOO", "OH NOES", "DENIAL", "NO I LIKE MAH SAVES",
     }
     local function getRandomMemeTitle()
@@ -3431,9 +3431,9 @@ local function deleteAllSaves()
             Title = currentTitle,
             Icon = "trash",
             Content = string.format(
-                "This will permanently delete ALL %d save files!\n\n" ..
-                "This action cannot be undone.\n\n" ..
-                "Confirmation %d/%d - Click '" .. currentYes .. "' to proceed",
+                "Isso excluirá permanentemente TODOS os %d arquivos de save!\n\n" ..
+                "Esta ação não pode ser desfeita.\n\n" ..
+                "Confirmation %d/%d - Click '" .. currentYes .. "' para continuar",
                 #saves,
                 confirmCount + 1,
                 maxConfirmations
@@ -3456,7 +3456,7 @@ local function deleteAllSaves()
                                         delfile(path)
                                         return true
                                     else
-                                        return false, "file not found"
+                                        return false, "arquivo não encontrado"
                                     end
                                 end)
                                 
@@ -3484,7 +3484,7 @@ local function deleteAllSaves()
                                     WindUI:Notify({
                                         Title = "Autoload System",
                                         Content = "Removed " .. removedCount .. " autoload entry(ies) for deleted saves",
-                                        Icon = "info",
+                                        Icon = "informações",
                                         Duration = 3
                                     })
                                 end
@@ -3506,7 +3506,7 @@ local function deleteAllSaves()
                             if #failedSaves > 0 then
                                 WindUI:Notify({
                                     Title = "Save System",
-                                    Content = "Failed to delete: " .. table.concat(failedSaves, ", "),
+                                    Content = "Falha ao excluir: " .. table.concat(failedSaves, ", "),
                                     Icon = "x",
                                     Duration = 4
                                 })
@@ -3534,7 +3534,7 @@ local function deleteAllSaves()
                         WindUI:Notify({
                             Title = "Save System",
                             Content = "ofc u picked no XD",
-                            Icon = "info",
+                            Icon = "informações",
                             Duration = 2
                         })
                     end
@@ -3835,7 +3835,7 @@ local function loadSave(saveName)
     if not saveName or saveName == "" then
         WindUI:Notify({
             Title = "Save System",
-            Content = "Please enter a save name to load!",
+            Content = "Digite um nome de save para carregar!",
             Icon = "x",
             Duration = 2
         })
@@ -3860,7 +3860,7 @@ local function loadSave(saveName)
     if not data or not data.config then
         WindUI:Notify({
             Title = "Save System",
-            Content = "Save '" .. saveName .. "' not found or corrupted!",
+            Content = "Save '" .. saveName .. "' não encontrado ou corrompido!",
             Icon = "x",
             Duration = 2
         })
@@ -4340,7 +4340,7 @@ local function loadSave(saveName)
                 if Players:GetPlayerFromCharacter(model) then return false end
                 local humanoid = model:FindFirstChildOfClass("Humanoid")
                 if not humanoid or humanoid.Health <= 0 then return false end
-                if not (model:FindFirstChild("HumanoidRootPart") or model:FindFirstChild("Head")) then return false end
+                if not (model:FindFirstChild("HumanoidRootPart") or model:FindFirstChild("Cabeça")) then return false end
                 if config.masterTeamTarget == "All" then
                     return true
                 elseif config.masterTeamTarget == "Enemies" then
@@ -4354,7 +4354,7 @@ local function loadSave(saveName)
                 local localPlayer = Players.LocalPlayer
                 local localChar = localPlayer.Character
                 if not localChar then return nil end
-                local localRoot = localChar:FindFirstChild("HumanoidRootPart") or localChar:FindFirstChild("Head")
+                local localRoot = localChar:FindFirstChild("HumanoidRootPart") or localChar:FindFirstChild("Cabeça")
                 if not localRoot then return nil end
                 local nearestTarget = nil
                 local nearestDistance = math.huge
@@ -4375,7 +4375,7 @@ local function loadSave(saveName)
                                         if distance < nearestDistance then
                                             nearestDistance = distance
                                             nearestTarget = {
-                                                type = "player",
+                                                type = "jogador",
                                                 instance = plr,
                                                 character = plr.Character
                                             }
@@ -4389,7 +4389,7 @@ local function loadSave(saveName)
                 if masterTarget == "NPCs" or masterTarget == "Both" then
                     for _, obj in ipairs(workspace:GetDescendants()) do
                         if obj:IsA("Model") and isNPCEnemy(obj) then
-                            local rootPart = obj:FindFirstChild("HumanoidRootPart") or obj:FindFirstChild("Head")
+                            local rootPart = obj:FindFirstChild("HumanoidRootPart") or obj:FindFirstChild("Cabeça")
                             if rootPart then
                                 local humanoid = obj:FindFirstChildOfClass("Humanoid")
                                 if humanoid and humanoid.Health > 0 then
@@ -4443,7 +4443,7 @@ local function loadSave(saveName)
                     return
                 end
                 local isValid = false
-                if Target.type == "player" then
+                if Target.type == "jogador" then
                     isValid = Target.instance
                         and Target.instance.Character
                         and Target.instance.Character:FindFirstChild("HumanoidRootPart")
@@ -4477,7 +4477,7 @@ local function loadSave(saveName)
                     retryCounter = 0
                 end
                 local HRP = nil
-                if Target.type == "player" then
+                if Target.type == "jogador" then
                     HRP = Target.instance.Character.HumanoidRootPart
                 elseif Target.type == "npc" then
                     HRP = Target.instance.HumanoidRootPart
@@ -4490,7 +4490,7 @@ local function loadSave(saveName)
             end)
             WindUI:Notify({
                 Title = "Cframe View",
-                Content = "Viewing " .. (Target.type == "player" and Target.instance.Name or "NPC"),
+                Content = "Viewing " .. (Target.type == "jogador" and Target.instance.Name or "NPC"),
                 Icon = "eye",
                 Duration = 2
             })
@@ -4657,13 +4657,13 @@ local function loadSave(saveName)
             for _, element in ipairs(tab.Elements or {}) do
                 if element.Type == "Dropdown" and element.Callback then
                     local currentValue = nil
-                    if element.Title == "Team Target" then
+                    if element.Title == "Equipe-alvo" then
                         currentValue = config.masterTeamTarget
                     elseif element.Title == "TargetType" then
                         currentValue = config.masterTarget
                     elseif element.Title == "GetTarget" then
                         currentValue = config.masterGetTarget
-                    elseif element.Title == "Target Part" and element.Parent and element.Parent.Title == "Aimbot" then
+                    elseif element.Title == "Parte do alvo" and element.Parent and element.Parent.Title == "Aimbot" then
                         currentValue = config.aimbotTargetPart
                     end
                     if currentValue then
@@ -4705,8 +4705,8 @@ local function savePara()
 end
 
 function ineedassetfolderrr_()
-    if not isfolder("Gravel_Saves/assets") then
-        pcall(function() makefolder("Gravel_Saves/assets") end)
+    if not isfolder("GS_Saves/assets") then
+        pcall(function() makefolder("GS_Saves/assets") end)
     end
 end
 function raedmahbrain_()
@@ -4762,7 +4762,7 @@ function SETDAAUTOLAOD_(saveName)
     if not saveName or saveName == "" then
         WindUI:Notify({
             Title = "Autoload System",
-            Content = "Please enter a save name!",
+            Content = "Digite um nome de save!",
             Icon = "x",
             Duration = 2
         })
@@ -4772,7 +4772,7 @@ function SETDAAUTOLAOD_(saveName)
     if errorMsg then
         WindUI:Notify({
             Title = "Autoload System",
-            Content = "Save not found: " .. errorMsg,
+            Content = "Save não encontrado: " .. errorMsg,
             Icon = "x",
             Duration = 2
         })
@@ -4784,7 +4784,7 @@ function SETDAAUTOLAOD_(saveName)
     if not isfile(path) then
         WindUI:Notify({
             Title = "Autoload System",
-            Content = "Save '" .. saveName .. "' does not exist!",
+            Content = "Save '" .. saveName .. "' não existe!",
             Icon = "x",
             Duration = 2
         })
@@ -4813,7 +4813,7 @@ function SETDAAUTOLAOD_(saveName)
     if writehaxsandstuff_(memory) then
         WindUI:Notify({
             Title = "Autoload System",
-            Content = "Autoload set for '" .. saveName .. "' on " .. gameName,
+            Content = "Autoload set for '" .. saveName .. "' em " .. gameName,
             Icon = "check",
             Duration = 3
         })
@@ -4824,7 +4824,7 @@ function SETDAAUTOLAOD_(saveName)
     else
         WindUI:Notify({
             Title = "Autoload System",
-            Content = "Failed to save autoload settings!",
+            Content = "Falha ao salvar as configurações de carregamento automático!",
             Icon = "x",
             Duration = 2
         })
@@ -4840,8 +4840,8 @@ function nullifymahfilez_()
     if not memory[gameId] then
         WindUI:Notify({
             Title = "Autoload System",
-            Content = "No autoload set for this game!",
-            Icon = "info",
+            Content = "Nenhum carregamento automático definido para este jogo!",
+            Icon = "informações",
             Duration = 2
         })
         return false
@@ -4852,7 +4852,7 @@ function nullifymahfilez_()
     if writehaxsandstuff_(memory) then
         WindUI:Notify({
             Title = "Autoload System",
-            Content = "Removed autoload for " .. gameName,
+            Content = "Carregamento automático removido para " .. gameName,
             Icon = "check",
             Duration = 3
         })
@@ -4863,7 +4863,7 @@ function nullifymahfilez_()
     else
         WindUI:Notify({
             Title = "Autoload System",
-            Content = "Failed to remove autoload settings!",
+            Content = "Falha ao remover as configurações de carregamento automático!",
             Icon = "x",
             Duration = 2
         })
@@ -4899,7 +4899,7 @@ end
 
 function autolaodpara()
     local memory = raedmahbrain_()
-    local text = "Autoload Settings:\n"
+    local text = "Configurações de Autoload:\n"
     local hasEntries = false
     
     for gameId, data in pairs(memory) do
@@ -4944,8 +4944,8 @@ function startdaautlado_()
         
         WindUI:Notify({
             Title = "Autoload System",
-            Content = "Auto-loading '" .. saveName .. "' for " .. gameName,
-            Icon = "info",
+            Content = "Auto-loading '" .. saveName .. "' para " .. gameName,
+            Icon = "informações",
             Duration = 3
         })
         
@@ -4989,7 +4989,7 @@ local function ignorethisandthat(additionalIgnore)
             table.insert(ignoreList, otherPlayer.Character)
             for _, part in ipairs(otherPlayer.Character:GetDescendants()) do
                 if part:IsA("BasePart") then
-                    if part.Name ~= "HumanoidRootPart" and part.Name ~= "Torso" and part.Name ~= "Head" and part.Name ~= "UpperTorso" and part.Name ~= "LowerTorso" then
+                    if part.Name ~= "HumanoidRootPart" and part.Name ~= "Torso" and part.Name ~= "Cabeça" and part.Name ~= "UpperTorso" and part.Name ~= "LowerTorso" then
                         table.insert(ignoreList, part)
                     end
                 end
@@ -5014,7 +5014,7 @@ local function ignorethisandthat(additionalIgnore)
                     if item:IsA("Model") or item:IsA("Character") then
                         for _, part in ipairs(item:GetDescendants()) do
                             if part:IsA("BasePart") then
-                                if part.Name ~= "HumanoidRootPart" and part.Name ~= "Torso" and part.Name ~= "Head" and part.Name ~= "UpperTorso" and part.Name ~= "LowerTorso" then
+                                if part.Name ~= "HumanoidRootPart" and part.Name ~= "Torso" and part.Name ~= "Cabeça" and part.Name ~= "UpperTorso" and part.Name ~= "LowerTorso" then
                                     table.insert(ignoreList, part)
                                 end
                             end
@@ -5027,7 +5027,7 @@ local function ignorethisandthat(additionalIgnore)
             if additionalIgnore:IsA("Model") or additionalIgnore:IsA("Character") then
                 for _, part in ipairs(additionalIgnore:GetDescendants()) do
                     if part:IsA("BasePart") then
-                        if part.Name ~= "HumanoidRootPart" and part.Name ~= "Torso" and part.Name ~= "Head" and part.Name ~= "UpperTorso" and part.Name ~= "LowerTorso" then
+                        if part.Name ~= "HumanoidRootPart" and part.Name ~= "Torso" and part.Name ~= "Cabeça" and part.Name ~= "UpperTorso" and part.Name ~= "LowerTorso" then
                             table.insert(ignoreList, part)
                         end
                     end
@@ -5099,7 +5099,7 @@ local function GetRandomTargetPart()
     return ValidTargetParts[math.random(1, #ValidTargetParts)]
 end
 local function GetActualTargetPart()
-    if config.SA2_TargetPart == "Random" then
+    if config.SA2_TargetPart == "Aleatório" then
         return GetRandomTargetPart()
     end
     return config.SA2_TargetPart
@@ -5120,7 +5120,7 @@ local function ShouldTargetPlayer(targetPlayer)
     if config.ignoreForcefield and targetPlayer.Character and hasForcefield(targetPlayer.Character) then
         return false
     end
-    if typeof(targetPlayer) == "Instance" and targetPlayer:IsA("Player") then
+    if typeof(targetPlayer) == "Instance" and targetPlayer:IsA("Jogador") then
         if config.SA2_TeamTarget == "All" then
             return true
         elseif config.SA2_TeamTarget == "Enemies" then
@@ -5172,9 +5172,9 @@ local function IsPlayerVisible(player, maxDistance)
     local PlayerCharacter = player.Character
     local LocalPlayerCharacter = plr.Character
     if not (PlayerCharacter and LocalPlayerCharacter) then return false end
-    local PlayerRoot = PlayerCharacter:FindFirstChild("HumanoidRootPart") or PlayerCharacter:FindFirstChild("Head")
+    local PlayerRoot = PlayerCharacter:FindFirstChild("HumanoidRootPart") or PlayerCharacter:FindFirstChild("Cabeça")
     if not PlayerRoot then return false end
-    local LocalRoot = LocalPlayerCharacter:FindFirstChild("Head") or LocalPlayerCharacter:FindFirstChild("HumanoidRootPart")
+    local LocalRoot = LocalPlayerCharacter:FindFirstChild("Cabeça") or LocalPlayerCharacter:FindFirstChild("HumanoidRootPart")
     if not LocalRoot then return false end
     local origin = LocalRoot.Position
     local targetPos = PlayerRoot.Position
@@ -5224,9 +5224,9 @@ local function IsPlayerVisible(player, maxDistance)
     local PlayerCharacter = player.Character
     local LocalPlayerCharacter = plr.Character
     if not (PlayerCharacter and LocalPlayerCharacter) then return false end
-    local PlayerRoot = PlayerCharacter:FindFirstChild("HumanoidRootPart") or PlayerCharacter:FindFirstChild("Head")
+    local PlayerRoot = PlayerCharacter:FindFirstChild("HumanoidRootPart") or PlayerCharacter:FindFirstChild("Cabeça")
     if not PlayerRoot then return false end
-    local LocalRoot = LocalPlayerCharacter:FindFirstChild("Head") or LocalPlayerCharacter:FindFirstChild("HumanoidRootPart")
+    local LocalRoot = LocalPlayerCharacter:FindFirstChild("Cabeça") or LocalPlayerCharacter:FindFirstChild("HumanoidRootPart")
     if not LocalRoot then return false end
     local origin = LocalRoot.Position
     local targetPos = PlayerRoot.Position
@@ -5275,7 +5275,7 @@ end
 local function getVis(target, maxDistance)
     local targetId = ""
     if typeof(target) == "Instance" then
-        if target:IsA("Player") then
+        if target:IsA("Jogador") then
             targetId = "player_" .. tostring(target.UserId)
         end
     end
@@ -5311,8 +5311,8 @@ local function GetClosestPlayer()
     local cam = Camera
     local viewport = cam.ViewportSize
     local camPos = cam.CFrame.Position
-    local targetMode = config.masterGetTarget or config.SA2_GetTarget or "Closest"
-    local targetPartName = config.SA2_TargetPart == "Random" and nil or config.SA2_TargetPart
+    local targetMode = config.masterGetTarget or config.SA2_GetTarget or "Mais próximo"
+    local targetPartName = config.SA2_TargetPart == "Aleatório" and nil or config.SA2_TargetPart
     local localTeam = plr.Team
     local center = Vector2.new(viewport.X / 2, viewport.Y / 2)
     local maxRange = config.SA2_TargetRange or 500
@@ -5336,7 +5336,7 @@ local function GetClosestPlayer()
     end
     
     local function isTargetable(player)
-        if typeof(player) == "Instance" and player:IsA("Player") then
+        if typeof(player) == "Instance" and player:IsA("Jogador") then
             if player == plr_local then return false end
             if config_local.SA2_TeamTarget == "All" then return true end
             local targetTeam = player.Team
@@ -5370,7 +5370,7 @@ local function GetClosestPlayer()
                             part = char:FindFirstChild(targetPartName)
                         end
                         if not part then
-                            part = char:FindFirstChild("Head") or char:FindFirstChild("HumanoidRootPart")
+                            part = char:FindFirstChild("Cabeça") or char:FindFirstChild("HumanoidRootPart")
                         end
                         if part then
                             local dx = part.Position.X - localRoot.Position.X
@@ -5669,7 +5669,7 @@ OldIndex = hookmetamethod(game, "__index", newcclosure(function(Self, Index)
     end
     
     if config.SA2_Enabled and config.SA2_Method == "Mouse.Hit" and not checkcaller() and Self == mouse then
-        if Index == "Target" or Index == "target" then
+        if Index == "Alvo" or Index == "alvo" then
             local HitPart = cachedTarget
             if HitPart then
                 config.SA2_FovIsTargeted = true
@@ -5677,7 +5677,7 @@ OldIndex = hookmetamethod(game, "__index", newcclosure(function(Self, Index)
             else
                 config.SA2_FovIsTargeted = false
             end
-        elseif Index == "Hit" or Index == "hit" then
+        elseif Index == "Acerto" or Index == "acerto" then
             local HitPart = cachedTarget
             if HitPart then
                 config.SA2_FovIsTargeted = true
@@ -5797,7 +5797,7 @@ local function ineednextgenrep(state)
         if not root or not torso then
             WindUI:Notify({
                 Title = "Desync",
-                Content = "Missing body parts :/",
+                Content = "Partes do corpo ausentes :/",
                 Icon = "x",
                 Duration = 2
             })
@@ -5926,9 +5926,9 @@ local function ineednextgenrep(state)
         config.desyncActive = false
         config.desyncSavedCFrame = nil
         WindUI:Notify({
-            Title = "Gravel.cc",
-            Content = "TP'd to visual pos :v",
-            Icon = "info",
+            Title = "GS.cc",
+            Content = "Teleportado para a posição visual :v",
+            Icon = "informações",
             Duration = 2
         })
         return true
@@ -6139,7 +6139,7 @@ local function isNPCModel(model)
     if excusemesir.Players:GetPlayerFromCharacter(model) then return false end
     local humanoid = model:FindFirstChildOfClass("Humanoid")
     if humanoid and humanoid.Health ~= nil then
-        if model:FindFirstChild("HumanoidRootPart") or model:FindFirstChild("Head") then
+        if model:FindFirstChild("HumanoidRootPart") or model:FindFirstChild("Cabeça") then
             return true
         end
     end
@@ -6155,7 +6155,7 @@ local function getAllTargets(getTargetSeen)
                 if getTargetSeen then
                     local char = getTargetCharacter(pl)
                     if char then
-                        local head = char:FindFirstChild("Head")
+                        local head = char:FindFirstChild("Cabeça")
                         local root = char:FindFirstChild("HumanoidRootPart")
                         local targetPos = (head or root) and (head or root).Position
                         
@@ -6185,7 +6185,7 @@ local function getAllTargets(getTargetSeen)
             if obj:IsA("Model") and isNPCModel(obj) then
                 if not excusemesir.Players:GetPlayerFromCharacter(obj) then
                     if getTargetSeen then
-                        local head = obj:FindFirstChild("Head")
+                        local head = obj:FindFirstChild("Cabeça")
                         local root = obj:FindFirstChild("HumanoidRootPart")
                         local targetPos = (head or root) and (head or root).Position
                         
@@ -6216,7 +6216,7 @@ end
 local function getTargetCharacter(target)
     if not target then return nil end
     if typeof(target) == "Instance" then
-        if target:IsA("Player") then
+        if target:IsA("Jogador") then
             return target.Character
         elseif target:IsA("Model") then
             return target
@@ -6235,7 +6235,7 @@ end
 
 local function isTeammate(p)
     if not (localPlayer and p) then return false end
-    if typeof(p) == "Instance" and p:IsA("Player") then
+    if typeof(p) == "Instance" and p:IsA("Jogador") then
         if localPlayer.Team and p.Team then
             return localPlayer.Team == p.Team
         end
@@ -6250,7 +6250,7 @@ local function addesp(targetPlayer)
         return true
     end
     
-    if typeof(targetPlayer) == "Instance" and targetPlayer:IsA("Player") then
+    if typeof(targetPlayer) == "Instance" and targetPlayer:IsA("Jogador") then
         if targetPlayer == localPlayer then return false end
         
         local mode = config.masterTeamTarget or "Enemies"
@@ -6271,7 +6271,7 @@ end
 local function plralive(target)
     if not target then return false end
 
-    if typeof(target) == "Instance" and target:IsA("Player") then
+    if typeof(target) == "Instance" and target:IsA("Jogador") then
         local character = target.Character
         if not character then return false end
         local humanoid = character:FindFirstChildOfClass("Humanoid")
@@ -6324,8 +6324,8 @@ local function canSeeTarget(target)
     local targetChar = getTargetCharacter(target)
     if not targetChar or not localPlayer.Character then return false end
     
-    local targetRoot = targetChar:FindFirstChild("HumanoidRootPart") or targetChar:FindFirstChild("Head")
-    local localRoot = localPlayer.Character:FindFirstChild("HumanoidRootPart") or localPlayer.Character:FindFirstChild("Head")
+    local targetRoot = targetChar:FindFirstChild("HumanoidRootPart") or targetChar:FindFirstChild("Cabeça")
+    local localRoot = localPlayer.Character:FindFirstChild("HumanoidRootPart") or localPlayer.Character:FindFirstChild("Cabeça")
     
     if not targetRoot or not localRoot then return false end
     
@@ -6355,7 +6355,7 @@ local function canSeeTarget(target)
 end
 local function getValidAutoFarmTargets()
     local validTargets = {}
-    local localRoot = localPlayer.Character and (localPlayer.Character:FindFirstChild("HumanoidRootPart") or localPlayer.Character:FindFirstChild("Head"))
+    local localRoot = localPlayer.Character and (localPlayer.Character:FindFirstChild("HumanoidRootPart") or localPlayer.Character:FindFirstChild("Cabeça"))
     
     if not localRoot then return validTargets end
     
@@ -6370,7 +6370,7 @@ local function getValidAutoFarmTargets()
                     shouldTarget = false
                 end
             elseif config.masterTarget == "Players" then
-                if typeof(t) == "Instance" and t:IsA("Player") then
+                if typeof(t) == "Instance" and t:IsA("Jogador") then
                     if not isTeammate(t) or config.masterTeamTarget == "All" then
                         shouldTarget = true
                     else
@@ -6395,7 +6395,7 @@ local function getValidAutoFarmTargets()
                 end
                 if shouldTarget and humanoid and humanoid.Health > 0 then
                     if not config.autoFarmCompleted[t] then
-                        local targetRoot = char and (char:FindFirstChild("HumanoidRootPart") or char:FindFirstChild("Head"))
+                        local targetRoot = char and (char:FindFirstChild("HumanoidRootPart") or char:FindFirstChild("Cabeça"))
                         if targetRoot then
                             local distance = (localRoot.Position - targetRoot.Position).Magnitude
                             local withinRange = true
@@ -6423,8 +6423,8 @@ local function getValidAutoFarmTargets()
     table.sort(validTargets, function(a, b)
         local charA = getTargetCharacter(a)
         local charB = getTargetCharacter(b)
-        local rootA = charA and (charA:FindFirstChild("HumanoidRootPart") or charA:FindFirstChild("Head"))
-        local rootB = charB and (charB:FindFirstChild("HumanoidRootPart") or charB:FindFirstChild("Head"))
+        local rootA = charA and (charA:FindFirstChild("HumanoidRootPart") or charA:FindFirstChild("Cabeça"))
+        local rootB = charB and (charB:FindFirstChild("HumanoidRootPart") or charB:FindFirstChild("Cabeça"))
         
         if not localRoot then return false end
         if not rootA then return false end
@@ -6447,7 +6447,7 @@ local function tptocrossWithAlignment(target)
     end
     
     local targetRoot = targetChar:FindFirstChild("HumanoidRootPart")
-    local targetHead = targetChar:FindFirstChild("Head")
+    local targetHead = targetChar:FindFirstChild("Cabeça")
     local localRoot = localPlayer.Character:FindFirstChild("HumanoidRootPart")
     if not targetRoot or not localRoot then return false end
     if not canSeeTarget(target) then
@@ -6472,7 +6472,7 @@ local function tptocrossWithAlignment(target)
     local targetPos = cameraPos + (forward * config.autoFarmDistance)
     targetPos = targetPos + Vector3.new(0, config.autoFarmVerticalOffset, 0)
     local alignPart = nil
-    if config.autoFarmTargetPart == "Head" and targetHead then
+    if config.autoFarmTargetPart == "Cabeça" and targetHead then
         alignPart = targetHead
     else
         alignPart = targetRoot
@@ -6649,7 +6649,7 @@ end
 local function raycastFromPlayer(player)
     if not player or not player.Character then return false end
     local character = player.Character
-    local head = character:FindFirstChild("Head")
+    local head = character:FindFirstChild("Cabeça")
     if not head then return false end
     
     local lookVector = head.CFrame.LookVector
@@ -6751,7 +6751,7 @@ local function findClosestEnemy()
     
     local best = nil
     local bestMetric = nil
-    local mode = config.antiAimGetTarget or config.masterGetTarget or "Closest"
+    local mode = config.antiAimGetTarget or config.masterGetTarget or "Mais próximo"
     local potentialTargets = {}
     local targetsInView = {}
     
@@ -6764,7 +6764,7 @@ local function findClosestEnemy()
                     shouldTarget = true
                 end
             elseif config.masterTarget == "Players" then
-                if typeof(t) == "Instance" and t:IsA("Player") then
+                if typeof(t) == "Instance" and t:IsA("Jogador") then
                     if config.masterTeamTarget == "Enemies" then
                         shouldTarget = not isTeammate(t)
                     elseif config.masterTeamTarget == "Teams" then
@@ -6779,7 +6779,7 @@ local function findClosestEnemy()
             
             if shouldTarget then
                 local tgtChar = getTargetCharacter(t)
-                local playerRoot = tgtChar and (tgtChar:FindFirstChild("HumanoidRootPart") or tgtChar:FindFirstChild("Head"))
+                local playerRoot = tgtChar and (tgtChar:FindFirstChild("HumanoidRootPart") or tgtChar:FindFirstChild("Cabeça"))
                 local humanoid = tgtChar and tgtChar:FindFirstChildOfClass("Humanoid")
                 if config.ignoreForcefield and tgtChar and hasForcefield(tgtChar) then
                     shouldTarget = false
@@ -6892,7 +6892,7 @@ local function antiAimUpdate()
         local closestEnemy = findClosestEnemy()
         if closestEnemy and getTargetCharacter(closestEnemy) then
             local targetChar = getTargetCharacter(closestEnemy)
-            local targetPart = targetChar:FindFirstChild("Head") or targetChar:FindFirstChild("HumanoidRootPart")
+            local targetPart = targetChar:FindFirstChild("Cabeça") or targetChar:FindFirstChild("HumanoidRootPart")
             if targetPart and localPlayer.Character then
                 config.currentAntiAimTarget = closestEnemy
                 if not config.originalPosition then
@@ -6984,7 +6984,7 @@ local function antiAimUpdate()
                     local tgtChar = getTargetCharacter(player)
                     if tgtChar then
                         local camera = workspace.CurrentCamera
-                        local head = tgtChar:FindFirstChild("Head") or tgtChar:FindFirstChild("HumanoidRootPart")
+                        local head = tgtChar:FindFirstChild("Cabeça") or tgtChar:FindFirstChild("HumanoidRootPart")
                         if head then
                             local screenPos, onScreen = camera:WorldToViewportPoint(head.Position)
                             shouldCheck = onScreen and screenPos.Z > 0
@@ -7021,7 +7021,7 @@ end
 local function RFD(targetPlayer)
     local char = getTargetCharacter(targetPlayer)
     if not char then return end
-    local head = char:FindFirstChild("Head")
+    local head = char:FindFirstChild("Cabeça")
     if head then
         for _, child in ipairs(head:GetChildren()) do
             if child:IsA("Decal") then
@@ -7198,7 +7198,7 @@ local function updateLineESP()
         if addesp(target) and plralive(target) then
             local char = getTargetCharacter(target)
             if char then
-                local root = char:FindFirstChild("HumanoidRootPart") or char:FindFirstChild("Head")
+                local root = char:FindFirstChild("HumanoidRootPart") or char:FindFirstChild("Cabeça")
                 if root then
                     local pos, onScreen = camera:WorldToViewportPoint(root.Position)
                     
@@ -7420,7 +7420,7 @@ local function makeesp(targetPlayer)
                 return
             end
 
-            local head = tchar:FindFirstChild("Head")
+            local head = tchar:FindFirstChild("Cabeça")
             local root = tchar:FindFirstChild("HumanoidRootPart") or tchar:FindFirstChild("Torso") or tchar:FindFirstChild("UpperTorso")
             if not head or not root then
                 label.Visible = false
@@ -7546,13 +7546,13 @@ local function makeesp(targetPlayer)
     end
 
     local char = getTargetCharacter(targetPlayer)
-    if char and (char:FindFirstChild("Head") or char:FindFirstChild("HumanoidRootPart") or char:FindFirstChild("Torso") or char:FindFirstChild("UpperTorso")) then
+    if char and (char:FindFirstChild("Cabeça") or char:FindFirstChild("HumanoidRootPart") or char:FindFirstChild("Torso") or char:FindFirstChild("UpperTorso")) then
         startUpdater()
     else
         spawn(function()
             local c = getTargetCharacter(targetPlayer)
             if c then
-                local okHead = c:WaitForChild("Head", 2)
+                local okHead = c:WaitForChild("Cabeça", 2)
                 local okRoot = c:FindFirstChild("HumanoidRootPart") or c:FindFirstChild("Torso") or c:FindFirstChild("UpperTorso")
                 if okHead or okRoot then
                     startUpdater()
@@ -7748,7 +7748,7 @@ local function updateLineESP()
         if addesp(target) and plralive(target) then
             local char = getTargetCharacter(target)
             if char then
-                local root = char:FindFirstChild("HumanoidRootPart") or char:FindFirstChild("Head")
+                local root = char:FindFirstChild("HumanoidRootPart") or char:FindFirstChild("Cabeça")
                 if root then
                     local pos, onScreen = camera:WorldToViewportPoint(root.Position)
                     
@@ -7857,19 +7857,19 @@ end
 local function saveOriginalPartInfo(targetPlayer, part)
     if not targetPlayer or not part then return end
     config.originalSizes[targetPlayer] = {
-        partName = part.Name or "Head",
+        partName = part.Name or "Cabeça",
         size = part.Size,
     }
 end
 
 local function chooseBodyPartInstance(target)
     local char = getTargetCharacter(target)
-    if not char then return nil, "Head" end
+    if not char then return nil, "Cabeça" end
 
-    local bp = config.bodypart or "Head"
+    local bp = config.bodypart or "Cabeça"
 
-    if bp == "Head" then
-        return char:FindFirstChild("Head"), "Head"
+    if bp == "Cabeça" then
+        return char:FindFirstChild("Cabeça"), "Cabeça"
     elseif bp == "HumanoidRootPart" then
         return char:FindFirstChild("HumanoidRootPart"), "HumanoidRootPart"
     elseif bp == "Both" then
@@ -7877,9 +7877,9 @@ local function chooseBodyPartInstance(target)
         local primaryName, secondaryName
         if roll <= 85 then
             primaryName = "HumanoidRootPart"
-            secondaryName = "Head"
+            secondaryName = "Cabeça"
         else
-            primaryName = "Head"
+            primaryName = "Cabeça"
             secondaryName = "HumanoidRootPart"
         end
         local primaryPart = char:FindFirstChild(primaryName)
@@ -7890,8 +7890,8 @@ local function chooseBodyPartInstance(target)
             return fallback, secondaryName
         end
     else
-        local found = char:FindFirstChild(bp) or char:FindFirstChild("Head")
-        return found, (found and found.Name) or "Head"
+        local found = char:FindFirstChild(bp) or char:FindFirstChild("Cabeça")
+        return found, (found and found.Name) or "Cabeça"
     end
 end
 
@@ -7922,7 +7922,7 @@ local function applySizeToPart(targetPlayer, targetDiameter, chosenPart)
     if config.scaleToScreen then
         local localChar = localPlayer.Character
         if localChar then
-            local localRoot = localChar:FindFirstChild("HumanoidRootPart") or localChar:FindFirstChild("Head")
+            local localRoot = localChar:FindFirstChild("HumanoidRootPart") or localChar:FindFirstChild("Cabeça")
             if localRoot then
                 local targetPartPos = part.Position
                 local localPos = localRoot.Position
@@ -7973,7 +7973,7 @@ local function applySizeToPart(targetPlayer, targetDiameter, chosenPart)
             part.Size = targetSize
             part.Transparency = config.hbtrans or 0.5
             part.CanCollide = false
-            if part.Name == "Head" then
+            if part.Name == "Cabeça" then
                 part.Massless = true
             end
         end)
@@ -7992,7 +7992,7 @@ local function restorePartForPlayer(targetPlayer)
 
     local part = nil
     if char then
-        part = char:FindFirstChild(original.partName) or char:FindFirstChild(config.bodypart) or char:FindFirstChild("Head")
+        part = char:FindFirstChild(original.partName) or char:FindFirstChild(config.bodypart) or char:FindFirstChild("Cabeça")
     end
 
     if part and original.size then
@@ -8346,7 +8346,7 @@ local function hookPlayer(player)
     )
 
     table.insert(config.varibz.hbConnections[player],
-        player:GetPropertyChangedSignal("Team"):Connect(function()
+        player:GetPropertyChangedSignal("Equipe"):Connect(function()
             updateHitbox(player)
         end)
     )
@@ -8379,10 +8379,10 @@ local function hb()
         if playerObj and playerObj ~= localPlayer and getTargetCharacter(playerObj) and plralive(playerObj) then
             local part = getTargetCharacter(playerObj):FindFirstChild(config.originalSizes[playerObj] and config.originalSizes[playerObj].partName) 
                          or getTargetCharacter(playerObj):FindFirstChild(config.bodypart) 
-                         or getTargetCharacter(playerObj):FindFirstChild("Head")
+                         or getTargetCharacter(playerObj):FindFirstChild("Cabeça")
             if not part then
                 local p1 = getTargetCharacter(playerObj):FindFirstChild("HumanoidRootPart")
-                local p2 = getTargetCharacter(playerObj):FindFirstChild("Head")
+                local p2 = getTargetCharacter(playerObj):FindFirstChild("Cabeça")
                 part = p1 or p2
             end
 
@@ -8395,7 +8395,7 @@ local function hb()
                     part.Size = newSize
                     part.Transparency = config.hbtrans
                     part.CanCollide = false
-                    if part.Name == "Head" then
+                    if part.Name == "Cabeça" then
                         part.Massless = true
                     elseif part.Name == "HumanoidRootPart" then
                         part.Massless = false
@@ -8489,18 +8489,18 @@ local function aimbotWallCheck(targetPos, sourcePos)
 end
 local function getAimbotTargetPart(target)
     if not target then return nil end
-    local partName = config.aimbotTargetPart or "Head"
+    local partName = config.aimbotTargetPart or "Cabeça"
     local char = getTargetCharacter(target)
     if not char then return nil end
     
-    if partName == "Head" then
-        return char:FindFirstChild("Head")
+    if partName == "Cabeça" then
+        return char:FindFirstChild("Cabeça")
     elseif partName == "HumanoidRootPart" then
         return char:FindFirstChild("HumanoidRootPart")
     elseif partName == "Torso" then
         return char:FindFirstChild("Torso") or char:FindFirstChild("UpperTorso")
     else
-        return char:FindFirstChild("Head")
+        return char:FindFirstChild("Cabeça")
     end
 end
 
@@ -8565,7 +8565,7 @@ local function aimbotUpdate()
         end
     end
     local bestTarget = nil
-    local targetingMode = config.aimbotGetTarget or config.masterGetTarget or "Closest"
+    local targetingMode = config.aimbotGetTarget or config.masterGetTarget or "Mais próximo"
     
     if #potentialTargets > 0 then
         if targetingMode == "TargetSeen" then
@@ -8854,7 +8854,7 @@ local function triggerBotUpdate()
             local char = getTargetCharacter(target)
             
             if not char then continue end
-            if typeof(target) == "Instance" and target:IsA("Player") then
+            if typeof(target) == "Instance" and target:IsA("Jogador") then
                 local mode = config.masterTeamTarget or "Enemies"
                 if mode == "Enemies" then
                     shouldTarget = not isTeammate(target)
@@ -8872,12 +8872,12 @@ local function triggerBotUpdate()
             if not humanoid or humanoid.Health <= 0 then continue end
             if config.ignoreForcefield and hasForcefield(char) then continue end
             local targetPart = nil
-            if config.tbot.targetPart == "Head" then
-                targetPart = char:FindFirstChild("Head")
+            if config.tbot.targetPart == "Cabeça" then
+                targetPart = char:FindFirstChild("Cabeça")
             elseif config.tbot.targetPart == "HumanoidRootPart" then
                 targetPart = char:FindFirstChild("HumanoidRootPart")
             else
-                targetPart = char:FindFirstChild("Head") or char:FindFirstChild("HumanoidRootPart")
+                targetPart = char:FindFirstChild("Cabeça") or char:FindFirstChild("HumanoidRootPart")
             end
             
             if not targetPart then continue end
@@ -8910,12 +8910,12 @@ local function triggerBotUpdate()
         local char = getTargetCharacter(bestTarget)
         if char then
             local targetPart = nil
-            if config.tbot.targetPart == "Head" then
-                targetPart = char:FindFirstChild("Head")
+            if config.tbot.targetPart == "Cabeça" then
+                targetPart = char:FindFirstChild("Cabeça")
             elseif config.tbot.targetPart == "HumanoidRootPart" then
                 targetPart = char:FindFirstChild("HumanoidRootPart")
             else
-                targetPart = char:FindFirstChild("Head") or char:FindFirstChild("HumanoidRootPart")
+                targetPart = char:FindFirstChild("Cabeça") or char:FindFirstChild("HumanoidRootPart")
             end
             
             if targetPart then
@@ -9240,7 +9240,7 @@ local function CreateQT()
     if gui.mobileGui and gui.mobileGui.ScreenGui and gui.mobileGui.ScreenGui.Parent then return end
     
     local screenGui = Instance.new("ScreenGui")
-    screenGui.Name = "GravelQT"
+    screenGui.Name = "GSQT"
     screenGui.ResetOnSpawn = false
     screenGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
     screenGui.Parent = localPlayer:WaitForChild("PlayerGui")
@@ -9716,11 +9716,11 @@ local function onRenderStep()
             local mode = config.masterTeamTarget or "Enemies"
             
             if mode == "Enemies" then
-                if typeof(pl) == "Instance" and pl:IsA("Player") and isTeammate(pl) then
+                if typeof(pl) == "Instance" and pl:IsA("Jogador") and isTeammate(pl) then
                     skip = true
                 end
             elseif mode == "Teams" then
-                if typeof(pl) == "Instance" and pl:IsA("Player") and not isTeammate(pl) then
+                if typeof(pl) == "Instance" and pl:IsA("Jogador") and not isTeammate(pl) then
                     skip = true
                 end
             elseif mode == "All" then
@@ -9906,8 +9906,8 @@ local function onRenderStep()
         local targetChar = getTargetCharacter(best.player)
         local distance = math.huge
         if localChar and targetChar then
-            local localRoot = localChar:FindFirstChild("HumanoidRootPart") or localChar:FindFirstChild("Head")
-            local targetRoot = targetChar:FindFirstChild("HumanoidRootPart") or targetChar:FindFirstChild("Head")
+            local localRoot = localChar:FindFirstChild("HumanoidRootPart") or localChar:FindFirstChild("Cabeça")
+            local targetRoot = targetChar:FindFirstChild("HumanoidRootPart") or targetChar:FindFirstChild("Cabeça")
 
             if localRoot and targetRoot then
                 distance = (localRoot.Position - targetRoot.Position).Magnitude
@@ -10017,7 +10017,7 @@ local function getClosestVictim()
 
         local Distance = (getMousePosition() - ScreenPosition).Magnitude
         if Distance <= (DistanceToMouse or Options.Radius.Value or 2000) then
-            Closest = ((Options.TargetPart.Value == "Random" and Character[ValidTargetParts[math.random(1, #ValidTargetParts)]]) or Character[Options.TargetPart.Value])
+            Closest = ((Options.TargetPart.Value == "Aleatório" and Character[ValidTargetParts[math.random(1, #ValidTargetParts)]]) or Character[Options.TargetPart.Value])
             DistanceToMouse = Distance
         end
     end
@@ -10168,7 +10168,7 @@ local function setupPlayerListeners(pl)
     end)
     table.insert(config.playerConnections[pl], charRemovingConn)
     
-    local teamChangedConn = pl:GetPropertyChangedSignal("Team"):Connect(function()
+    local teamChangedConn = pl:GetPropertyChangedSignal("Equipe"):Connect(function()
         task.wait(0.05)
         updateESPForPlayer()
         if config.hitboxEnabled then
@@ -10227,7 +10227,7 @@ end
 local Window = WindUI:CreateWindow({
     Title = rng5(),
     Author = "[dis guy Gpssickle]",
-    Folder = "Gravel_Saves",
+    Folder = "GS_Saves",
     Theme = "Dark",
     Icon = "rbxassetid://96858797315175",
 	 IconSize = 38,
@@ -10246,7 +10246,7 @@ local Window = WindUI:CreateWindow({
     },
     Topbar = {
         Height = 44,
-        ButtonsType = "Default"
+        ButtonsType = "Padrão"
     }
 })
 loadstring(getgist_(getgenv().HttpUrlz_.ineedbloxycola))()
@@ -10315,8 +10315,8 @@ local function rng4()
             info.accountage = lp_info.lp_accountage or "Unknown"
             info.retroscore = lp_info.lp_retroslopscore or "Unknown"
         else
-            info.username = "Player"
-            info.displayname = "Player"
+            info.username = "Jogador"
+            info.displayname = "Jogador"
             info.id = "Unknown"
             info.accountage = "Unknown"
             info.retroscore = "Unknown"
@@ -10572,7 +10572,7 @@ local function rng2()
     rng_s.bju2 = config.varibz.tinf2[math.random(1, #config.varibz.tinf2)]
     rng_s.bju3 = config.varibz.tinf3[math.random(1, #config.varibz.tinf3)]
     n({
-        Title = "Gravel.cc :3",
+        Title = "GS.cc :3",
         Content = rng_s.bju,
         Audio = rng_s.bju3,
         Length = 10,
@@ -10589,14 +10589,14 @@ task.spawn(function()
     BMG:autoLoad()
 end)
 local MainTab = Window:Tab({
-    Title = "Main",
-    Desc = rng3("Main"),
+    Title = "Principal",
+    Desc = rng3("Principal"),
     Icon = "hammer",
     IconColor = config.Gradow.uicolor.lightGray
 }) do
     MainTab:Paragraph({
-        Title = "MainTab Settings",
-        Desc = "Global settings for targeting and utilities",
+        Title = "Configurações da MainTab",
+        Desc = "Configurações globais de mira e utilidades",
         Color = config.Gradow.uicolor.lightGreen
     })
     
@@ -10608,7 +10608,7 @@ local MainTab = Window:Tab({
     
     MainTab:Dropdown({
         Title = "TeamTarget",
-        Desc = "Select Target Team",
+        Desc = "Selecionar equipe-alvo",
         Values = {"Enemies", "Teams", "All"},
         Value = config.masterTeamTarget or "Enemies",
         Multi = false,
@@ -10635,7 +10635,7 @@ local MainTab = Window:Tab({
     
     MainTab:Dropdown({
         Title = "TargetType",
-        Desc = "Select target type\n(NPCs are quite unstable)",
+        Desc = "Selecionar tipo de alvo\n(NPCs são bastante instáveis)",
         Values = {"Players", "NPCs", "Both"},
         Value = config.masterTarget or "Players",
         Multi = false,
@@ -10646,9 +10646,9 @@ local MainTab = Window:Tab({
     
     MainTab:Dropdown({
         Title = "GetTarget",
-        Desc = "Target selection method",
-        Values = {"Closest", "Lowest Health", "TargetSeen"},
-        Value = config.masterGetTarget or "Closest",
+        Desc = "Método de seleção de alvo",
+        Values = {"Mais próximo", "Lowest Health", "TargetSeen"},
+        Value = config.masterGetTarget or "Mais próximo",
         Multi = false,
         Callback = function(Option)
             config.masterGetTarget = Option
@@ -10662,7 +10662,7 @@ local MainTab = Window:Tab({
     
     MainTab:Slider({
         Title = "Targetseen Switch Rate",
-        Desc = "Time between target switches (seconds)",
+        Desc = "Tempo entre as trocas de alvo (segundos)",
         IsTextbox = true,
         Step = 0.1,
         Value = {
@@ -10677,7 +10677,7 @@ local MainTab = Window:Tab({
     
     MainTab:Toggle({
         Title = "Ignore Forcefield",
-        Desc = "Skip targets with forcefields",
+        Desc = "Ignorar alvos com ForceField",
         Value = config.ignoreForcefield or true,
         Callback = function(v)
             config.ignoreForcefield = v
@@ -10697,7 +10697,7 @@ MainTab:Space()
     })
 MainTab:Dropdown({
     Title = "QuickToggle Selection",
-    Desc = "Select which toggles to show in QuickToggles",
+    Desc = "Selecione quais alternâncias mostrar nos QuickToggles",
     Values = config.availableQuickToggles,
     Value = config.availableQuickToggles,
     Multi = true,
@@ -10733,8 +10733,8 @@ MainTab:Toggle({
 })
 MainTab:Space()
 MainTab:Toggle({
-    Title = "Enable Keybinds",
-    Desc = "Toggle keybind system on/off",
+    Title = "Ativar Keybinds",
+    Desc = "Ativar/desativar sistema de keybinds",
     Value = config.KeybindsEnabled or true,
     Callback = function(v)
         config.KeybindsEnabled = v
@@ -10749,7 +10749,7 @@ MainTab:Toggle({
 
 MainTab:Toggle({
     Title = "Hold Key Mode",
-    Desc = "Require holding modifier key for keybinds",
+    Desc = "Exige segurar a tecla modificadora para usar keybinds",
     Value = config.HoldKeysEnabled or false,
     Callback = function(v)
         config.HoldKeysEnabled = v
@@ -10764,7 +10764,7 @@ MainTab:Toggle({
 
 MainTab:Keybind({
     Title = "Hold Key Modifier",
-    Desc = "Key to hold for combos (like LeftAlt + Keybind)",
+    Desc = "Tecla para segurar em combos (como LeftAlt + Keybind)",
     Value = config.Keybinds.HoldKeybind or "LeftAlt",
     Callback = function(key)
         config.Keybinds.HoldKeybind = key
@@ -10773,7 +10773,7 @@ MainTab:Keybind({
 MainTab:Space()
 MainTab:Keybind({
     Title = "Silent Aim (HB)",
-    Desc = "Toggle Silent Aim (Hitbox-based)",
+    Desc = "Alternar Silent Aim (baseado em Hitbox)",
     Value = config.Keybinds.silentaim or "E",
     Callback = function(key)
         config.Keybinds.silentaim = key
@@ -10782,7 +10782,7 @@ MainTab:Keybind({
 
 MainTab:Keybind({
     Title = "Silent Aim (HK)",
-    Desc = "Toggle Silent Aim (Hook-based)",
+    Desc = "Alternar Silent Aim (baseado em Hook)",
     Value = config.Keybinds.silentaimhk or "R",
     Callback = function(key)
         config.Keybinds.silentaimhk = key
@@ -10809,7 +10809,7 @@ MainTab:Keybind({
 
 MainTab:Keybind({
     Title = "Anti Aim",
-    Desc = "Toggle Anti Aim",
+    Desc = "Alternar Anti Aim",
     Value = config.Keybinds.antiaim or "L",
     Callback = function(key)
         config.Keybinds.antiaim = key
@@ -10853,7 +10853,7 @@ MainTab:Keybind({
 })
 
 MainTab:Keybind({
-    Title = "Client",
+    Title = "Cliente",
     Desc = "Toggle Client Features",
     Value = config.Keybinds.client or "N",
     Callback = function(key)
@@ -10862,8 +10862,8 @@ MainTab:Keybind({
 })
 MainTab:Space()
 MainTab:Keybind({
-    Title = "Silent Aim Wall Check",
-    Desc = "Toggle wall check for Silent Aim",
+    Title = "Verificação de parede do Silent Aim",
+    Desc = "Ativar/desativar verificação de parede do Silent Aim",
     Value = config.Keybinds.silentaimwallcheck or "B",
     Callback = function(key)
         config.Keybinds.silentaimwallcheck = key
@@ -10871,8 +10871,8 @@ MainTab:Keybind({
 })
 
 MainTab:Keybind({
-    Title = "Aimbot Wall Check",
-    Desc = "Toggle wall check for Aimbot",
+    Title = "Verificação de parede do Aimbot",
+    Desc = "Ativar/desativar verificação de parede do Aimbot",
     Value = config.Keybinds.aimbotwallcheck or "H",
     Callback = function(key)
         config.Keybinds.aimbotwallcheck = key
@@ -10880,16 +10880,16 @@ MainTab:Keybind({
 })
 
 MainTab:Keybind({
-    Title = "Silent Aim HK Wall Check",
-    Desc = "Toggle wall check for Silent Aim (HK)",
+    Title = "Verificação de parede do Silent Aim HK",
+    Desc = "Ativar/desativar verificação de parede do Silent Aim (HK)",
     Value = config.Keybinds.silentaimhkwallcheck or "U",
     Callback = function(key)
         config.Keybinds.silentaimhkwallcheck = key
     end
 })
 MainTab:Keybind({
-    Title = "TriggerBot Wall Check",
-    Desc = "Toggle wall check for TriggerBot",
+    Title = "Verificação de parede do TriggerBot",
+    Desc = "Ativar/desativar verificação de parede do TriggerBot",
     Value = config.Keybinds.tbotwallcheck or "Y",
     Callback = function(key)
         config.Keybinds.tbotwallcheck = key
@@ -10899,19 +10899,19 @@ MainTab:Keybind({
     
     MainTab:Paragraph({
         Title = "Utilities",
-        Desc = "AutoFarm and utility features",
+        Desc = "AutoFarm e recursos utilitários",
         Color = config.Gradow.uicolor.lightGreen
     })
     
     MainTab:Paragraph({
-        Title = "Gravel",
-        Desc = "[ Autofarm might not work for every game]",
+        Title = "GS",
+        Desc = "[ O Autofarm pode não funcionar em todos os jogos ]",
         Color = config.Gradow.uicolor.darkGray
     })
     
     MainTab:Toggle({
         Title = "Toggle AutoFarm ('F')",
-        Desc = "Enable/disable auto farm",
+        Desc = "Ativar/desativar auto farm",
         Value = config.autoFarmEnabled or false,
         Callback = function(v)
             config.autoFarmEnabled = v
@@ -10940,14 +10940,14 @@ MainTab:Keybind({
     })
     
     MainTab:Toggle({
-        Title = "Autofarm Wall Check",
+        Title = "Verificação de parede do Autofarm",
         Desc = "Prevent teleporting targets behind walls",
         Value = config.autoFarmWallCheck or false,
         Callback = function(v)
             config.autoFarmWallCheck = v
             if v then
                 n({
-                    Title = "Autofarm Wall Check",
+                    Title = "Verificação de parede do Autofarm",
                     Content = "Enabled",
                     Audio = "rbxassetid://17208361335",
                     Length = 1,
@@ -10956,7 +10956,7 @@ MainTab:Keybind({
                 })
             else
                 n({
-                    Title = "Autofarm Wall Check",
+                    Title = "Verificação de parede do Autofarm",
                     Content = "Disabled",
                     Audio = "rbxassetid://17208361335",
                     Length = 1,
@@ -10969,7 +10969,7 @@ MainTab:Keybind({
     
     MainTab:Button({
         Title = "Partclaim",
-        Desc = "Use if NPC mode isn't working well (May Lag)",
+        Desc = "Use se o modo NPC não estiver funcionando bem (pode causar lag)",
         Callback = function()
             pc()
             n({
@@ -11001,9 +11001,9 @@ MainTab:Keybind({
     
     MainTab:Dropdown({
         Title = "Align Part (Autofarm)",
-        Desc = "Part to align with crosshair",
-        Values = {"Head", "HumanoidRootPart"},
-        Value = config.autoFarmTargetPart or "Head",
+        Desc = "Parte para alinhar com a mira",
+        Values = {"Cabeça", "HumanoidRootPart"},
+        Value = config.autoFarmTargetPart or "Cabeça",
         Multi = false,
         Callback = function(Option)
             config.autoFarmTargetPart = Option
@@ -11027,7 +11027,7 @@ MainTab:Keybind({
     
     MainTab:Slider({
         Title = "TP Max Range (Autofarm)",
-        Desc = "Maximum distance to teleport targets",
+        Desc = "Distância máxima para teleportar alvos",
         IsTextbox = true,
         Step = 50,
         Value = {
@@ -11042,7 +11042,7 @@ MainTab:Keybind({
     
     MainTab:Slider({
         Title = "TP Distance (Autofarm)",
-        Desc = "Teleport distance for autofarm",
+        Desc = "Distância de teleporte do autofarm",
         IsTextbox = true,
         Step = 1,
         Value = {
@@ -11057,7 +11057,7 @@ MainTab:Keybind({
     
     MainTab:Slider({
         Title = "Vertical Offset (Autofarm)",
-        Desc = "Vertical offset for autofarm",
+        Desc = "Deslocamento vertical do autofarm",
         IsTextbox = true,
         Step = 1,
         Value = {
@@ -11071,20 +11071,20 @@ MainTab:Keybind({
     })
     
     MainTab:Paragraph({
-        Title = "Antikick [ I didn't made this ]",
+        Title = "Antikick [ eu não fiz isso ]",
         Desc = "Client-side anti-kick protection",
         Color = config.Gradow.uicolor.lightGreen
     })
     
     MainTab:Paragraph({
-        Title = "Gravel",
-        Desc = "[ AntiKick only prevents client kicks ]\n[ Good Injectors are recommend ]",
+        Title = "GS",
+        Desc = "[ O AntiKick só impede kicks do cliente ]\n[ Injectors bons são recomendados ]",
         Color = config.Gradow.uicolor.darkGray
     })
     
     MainTab:Toggle({
         Title = "Toggle AntiKick",
-        Desc = "Enable/disable Antikick",
+        Desc = "Ativar/desativar Antikick",
         Value = ED_AntiKick.Enabled or true,
         Callback = function(v)
             ED_AntiKick.Enabled = v
@@ -11101,7 +11101,7 @@ MainTab:Keybind({
     
     MainTab:Toggle({
         Title = "Show AntiKick Notifications",
-        Desc = "Enable/disable Antikick Notifications",
+        Desc = "Ativar/desativar notificações do Antikick",
         Value = ED_AntiKick.SendNotifications or false,
         Callback = function(v)
             ED_AntiKick.SendNotifications = v
@@ -11118,7 +11118,7 @@ MainTab:Keybind({
     
     MainTab:Toggle({
         Title = "Toggle AntiKick Checkcallers",
-        Desc = "Enable/disable Antikick Checkcallers (fixes nil and index errors)",
+        Desc = "Ativar/desativar Checkcallers do Antikick (corrige erros de nil e index)",
         Value = ED_AntiKick.CheckCaller or true,
         Callback = function(v)
             ED_AntiKick.CheckCaller = v
@@ -11136,13 +11136,13 @@ MainTab:Keybind({
     
     MainTab:Paragraph({
         Title = "Optimization",
-        Desc = "Performance optimization settings",
+        Desc = "Configurações de otimização de desempenho",
         Color = config.Gradow.uicolor.lightGreen
     })
     
     MainTab:Paragraph({
         Title = "Optimization",
-        Desc = "Copy and execute optimization code",
+        Desc = "Copiar e executar código de otimização",
         Color = config.Gradow.uicolor.darkGray,
         Buttons = {
             {
@@ -11189,11 +11189,11 @@ local Config = {
     MEMORY_CLEANUP_THRESHOLD = 500,
 }
 
-local Optiz = loadstring(game:HttpGet('https://raw.githubusercontent.com/hm5650/Optiz/refs/heads/main/Optiz.lua'))()(Config)]]
+local Optiz = loadstring(game:HttpGet('https://raw.githubusercontent.com/pertzx/Optiz/refs/heads/main/Optiz.lua'))()(Config)]]
                     setclipboard(code)
                     WindUI:Notify({
                         Title = "Optimization",
-                        Content = "Code copied to clipboard!",
+                        Content = "Código copiado para a área de transferência!",
                         Icon = "check",
                         Duration = 3
                     })
@@ -11204,7 +11204,7 @@ local Optiz = loadstring(game:HttpGet('https://raw.githubusercontent.com/hm5650/
     
     MainTab:Slider({
         Title = "Updaters speed",
-        Desc = "Increase performance when increased costs Accuracy",
+        Desc = "Aumenta o desempenho quando aumenta o custo de precisão",
         IsTextbox = true,
         Step = 0.1,
         Value = {
@@ -11219,7 +11219,7 @@ local Optiz = loadstring(game:HttpGet('https://raw.githubusercontent.com/hm5650/
     
     MainTab:Toggle({
         Title = "Updaters",
-        Desc = "Stops other Updaters when disabled Increases performance. Might cause features to not work",
+        Desc = "Para outros Updaters quando desativado, aumentando o desempenho. Pode fazer alguns recursos pararem de funcionar",
         Value = config.varibz.patcher or true,
         Callback = function(v)
             config.varibz.patcher = v
@@ -11243,7 +11243,7 @@ local Optiz = loadstring(game:HttpGet('https://raw.githubusercontent.com/hm5650/
     
     MainTab:Toggle({
         Title = "Cache Cleaners",
-        Desc = "Turning this off Might cause lag",
+        Desc = "Desativar isso pode causar lag",
         Value = config.varibz.patcher or true,
         Callback = function(v)
             config.varibz.lowpatcher = v
@@ -11252,7 +11252,7 @@ local Optiz = loadstring(game:HttpGet('https://raw.githubusercontent.com/hm5650/
     
     MainTab:Toggle({
         Title = "Low Render",
-        Desc = "Renders the game in lower visuals",
+        Desc = "Renderiza o jogo com gráficos mais baixos",
         Value = config.LowRender or false,
         Callback = function(v)
             config.LowRender = v
@@ -11261,7 +11261,7 @@ local Optiz = loadstring(game:HttpGet('https://raw.githubusercontent.com/hm5650/
 
 MainTab:Toggle({
     Title = "Errors",
-    Desc = "Enable/disable error catching",
+    Desc = "Ativar/desativar captura de erros",
     Value = config.varibz.errors or true,
     Callback = function(v)
         config.varibz.errors = v
@@ -11273,8 +11273,8 @@ MainTab:Toggle({
                 v:Enable()
             end
             n({
-                Title = "Gravel.cc",
-                Content = "Error catching enabled",
+                Title = "GS.cc",
+                Content = "Captura de erros ativada",
                 Audio = "rbxassetid://17208361335",
                 Length = 1,
                 Image = "rbxassetid://4483362458",
@@ -11288,8 +11288,8 @@ MainTab:Toggle({
                 v:Disable()
             end
             n({
-                Title = "Gravel.cc",
-                Content = "Error catching disabled",
+                Title = "GS.cc",
+                Content = "Captura de erros desativada",
                 Audio = "rbxassetid://17208361335",
                 Length = 1,
                 Image = "rbxassetid://4483362458",
@@ -11301,13 +11301,13 @@ MainTab:Toggle({
 
 MainTab:Paragraph({
     Title = "Save/Load",
-    Desc = "Save and load your configuration settings\n\n[some features won't be saved mb :< ]",
+    Desc = "Salve e carregue suas configurações\n\n[alguns recursos não serão salvos, foi mal :< ]",
     Color = config.Gradow.uicolor.lightGreen
 })
 
 MainTab:Input({
     Title = "Save Name",
-    Desc = "Enter a name for your save or select a save like blahblahagaha",
+    Desc = "Digite um nome para seu save ou selecione um save, tipo blahblahagaha",
     Placeholder = "put words here!11",
     Value = "",
     ClearTextOnFocus = true,
@@ -11318,7 +11318,7 @@ MainTab:Input({
 
 MainTab:Button({
     Title = "New Save",
-    Desc = "Save New/Overwrite\n[leave blank for auto-generated name]",
+    Desc = "Salvar novo/Sobrescrever\n[deixe em branco para gerar um nome automaticamente]",
     Icon = "save",
     Callback = function()
         local name = saveInputValue or ""
@@ -11331,7 +11331,7 @@ MainTab:Button({
                     WindUI:Notify({
                         Title = "Save System",
                         Content = "Auto-named: " .. name,
-                        Icon = "info",
+                        Icon = "informações",
                         Duration = 2
                     })
                 else
@@ -11341,7 +11341,7 @@ MainTab:Button({
                     WindUI:Notify({
                         Title = "Save System",
                         Content = "Auto-named: " .. name,
-                        Icon = "info",
+                        Icon = "informações",
                         Duration = 2
                     })
                 end
@@ -11352,7 +11352,7 @@ MainTab:Button({
                 WindUI:Notify({
                     Title = "Save System",
                     Content = "Auto-named: " .. name,
-                    Icon = "info",
+                    Icon = "informações",
                     Duration = 2
                 })
             end
@@ -11369,7 +11369,7 @@ MainTab:Button({
         if name == "" then
             WindUI:Notify({
                 Title = "Save System",
-                Content = "Please enter a save name to load! D:",
+                Content = "Digite um nome de save para carregar! D:",
                 Icon = "x",
                 Duration = 2
             })
@@ -11388,7 +11388,7 @@ MainTab:Button({
         if name == "" then
             WindUI:Notify({
                 Title = "Save System",
-                Content = "Please enter a save name to delete! :/",
+                Content = "Digite um nome de save para excluir! :/",
                 Icon = "x",
                 Duration = 2
             })
@@ -11408,15 +11408,15 @@ MainTab:Button({
 })
 
 MainTab:Button({
-    Title = "Autoload on Game",
-    Desc = "Set selected save to autoload on this game",
+    Title = "Autoload no jogo",
+    Desc = "Definir o save selecionado para carregamento automático neste jogo",
     Icon = "play",
     Callback = function()
         local name = saveInputValue or ""
         if name == "" then
             WindUI:Notify({
                 Title = "Autoload System",
-                Content = "Please enter a save name! D:",
+                Content = "Digite um nome de save! D:",
                 Icon = "x",
                 Duration = 2
             })
@@ -11428,7 +11428,7 @@ MainTab:Button({
 
 MainTab:Button({
     Title = "Remove Autoload",
-    Desc = "Remove autoload for this game",
+    Desc = "Remover carregamento automático para este jogo",
     Icon = "x",
     Callback = function()
         nullifymahfilez_()
@@ -11461,7 +11461,7 @@ task.spawn(function()
 end)
 config.varibz.autoloadParagraph = MainTab:Paragraph({
     Title = "Autoload List",
-    Desc = "Loading...",
+    Desc = "Carregando...",
     Color = config.Gradow.uicolor.darkGray
 })
 task.spawn(function()
@@ -11486,20 +11486,20 @@ end
 
 -- VisualsTab
 local VisualsTab = Window:Tab({
-    Title = "Visuals",
-    Desc = rng3("Visuals"),
+    Title = "Visuais",
+    Desc = rng3("Visuais"),
     Icon = "eye",
     IconColor = config.Gradow.uicolor.lightGray
 }) do
     VisualsTab:Paragraph({
         Title = "ESP Master",
-        Desc = "Master control for ESP features",
+        Desc = "Controle principal dos recursos de ESP",
         Color = config.Gradow.uicolor.lightGreen
     })
     VisualsTab:Space()
     VisualsTab:Toggle({
         Title = "Toggle ESP ('Z')",
-        Desc = "Enable/disable all ESP features",
+        Desc = "Ativar/desativar todos os recursos de ESP",
         Value = config.espMasterEnabled or false,
         Callback = function(v)
             applyESPMaster(v)
@@ -11527,13 +11527,13 @@ local VisualsTab = Window:Tab({
     
     VisualsTab:Paragraph({
         Title = "ESP Components",
-        Desc = "Individual ESP component settings",
+        Desc = "Configurações individuais dos componentes de ESP",
         Color = config.Gradow.uicolor.lightGreen
     })
     
     VisualsTab:Toggle({
         Title = "Toggle Highlight ESP",
-        Desc = "Enable player highlight",
+        Desc = "Ativar destaque do jogador",
         Value = config.prefHighlightESP or false,
         Callback = function(v)
             toggleHighlightESP(v)
@@ -11543,7 +11543,7 @@ local VisualsTab = Window:Tab({
     
     VisualsTab:Toggle({
         Title = "Toggle Text ESP",
-        Desc = "Show player names/health",
+        Desc = "Mostrar nomes/vida dos jogadores",
         Value = config.prefTextESP or false,
         Callback = function(v)
             toggleTextESP(v)
@@ -11572,8 +11572,8 @@ local VisualsTab = Window:Tab({
     })
     
     VisualsTab:Toggle({
-        Title = "Toggle Head Dot ESP",
-        Desc = "Show head indicators",
+        Title = "Alternar ESP de ponto na cabeça",
+        Desc = "Mostrar indicadores na cabeça",
         Value = config.prefHeadDotESP or false,
         Callback = function(v)
             config.prefHeadDotESP = v
@@ -11591,7 +11591,7 @@ local VisualsTab = Window:Tab({
     
     VisualsTab:Toggle({
         Title = "Toggle Tracer ESP",
-        Desc = "Draw lines to targets",
+        Desc = "Desenhar linhas até os alvos",
         Value = config.lineESPEnabled or false,
         Callback = function(v)
             config.lineESPEnabled = v
@@ -11606,7 +11606,7 @@ local VisualsTab = Window:Tab({
     
     VisualsTab:Toggle({
         Title = "Tracer ESP Only Targets",
-        Desc = "Only show lines when targeting with aimbot/silent aim",
+        Desc = "Mostrar linhas somente ao mirar com aimbot/silent aim",
         Value = config.lineESPOnlyTarget or false,
         Callback = function(v)
             config.lineESPOnlyTarget = v
@@ -11616,7 +11616,7 @@ local VisualsTab = Window:Tab({
     
     VisualsTab:Dropdown({
         Title = "Tracer Start Position",
-        Desc = "Where lines start from on screen",
+        Desc = "Onde as linhas começam na tela",
         Values = {"Center", "Bottom", "Top", "BottomLeft", "BottomRight", "TopLeft", "TopRight"},
         Value = config.lineStartPosition or "Center",
         Multi = false,
@@ -11626,8 +11626,8 @@ local VisualsTab = Window:Tab({
     })
     
     VisualsTab:Toggle({
-        Title = "ESP Colour Based On Health",
-        Desc = "Dynamic color based on health",
+        Title = "Cor do ESP baseada na vida",
+        Desc = "Cor dinâmica baseada na vida",
         Value = config.prefColorByHealth or false,
         Callback = function(v)
             config.prefColorByHealth = v
@@ -11639,7 +11639,7 @@ local VisualsTab = Window:Tab({
 
 VisualsTab:Toggle({
     Title = "Full Bright",
-    Desc = "Enable/disable full bright (no lighting)",
+    Desc = "Ativar/desativar iluminação máxima (sem iluminação)",
     Value = false,
     Callback = function(v)
         config.fbenabled = v
@@ -11693,7 +11693,7 @@ VisualsTab:Toggle({
 
 VisualsTab:Button({
     Title = "Kill Lighting",
-    Desc = "get rid of lighting it's useless :/",
+    Desc = "remova a iluminação, ela é inútil :/",
     Callback = function()
         excusemesir.Lighting.Technology = Enum.Technology.Legacy
         excusemesir.Lighting.FogEnd = 1e9
@@ -11721,7 +11721,7 @@ VisualsTab:Button({
 
 VisualsTab:Toggle({
     Title = "FOV",
-    Desc = "Override the game's default FOV",
+    Desc = "Substituir o FOV padrão do jogo",
     Value = config.customFOVEnabled or false,
     Callback = function(v)
         config.customFOVEnabled = v
@@ -11741,7 +11741,7 @@ VisualsTab:Toggle({
 
 VisualsTab:Slider({
     Title = "FOV Value",
-    Desc = "Adjust Field Of View",
+    Desc = "Ajustar campo de visão",
     IsTextbox = true,
     Step = 1,
     Suffix = "bruhs",
@@ -11769,7 +11769,7 @@ VisualsTab:Paragraph({
 
 VisualsTab:Colorpicker({
     Title = "ESP Color",
-    Desc = "Default color for ESP elements",
+    Desc = "Cor padrão dos elementos de ESP",
     Default = config.espc or Color3.fromRGB(255, 182, 193),
     Transparency = 0,
     Locked = false,
@@ -11781,8 +11781,8 @@ VisualsTab:Colorpicker({
 })
 
 VisualsTab:Colorpicker({
-    Title = "ESP Target Color",
-    Desc = "Color when player is targeted",
+    Title = "Cor do alvo do ESP",
+    Desc = "Cor quando o jogador é alvo",
     Default = config.esptargetc or Color3.fromRGB(255, 255, 0),
     Transparency = 0,
     Locked = false,
@@ -11794,8 +11794,8 @@ VisualsTab:Colorpicker({
 })
 
 VisualsTab:Colorpicker({
-    Title = "ESP Team Color",
-    Desc = "Color for teammates",
+    Title = "Cor da equipe no ESP",
+    Desc = "Cor dos companheiros de equipe",
     Default = config.espteamc or Color3.fromRGB(0, 255, 0),
     Transparency = 0,
     Locked = false,
@@ -11808,7 +11808,7 @@ VisualsTab:Colorpicker({
 
 VisualsTab:Colorpicker({
     Title = "Tracer Line Color",
-    Desc = "Color for tracer lines",
+    Desc = "Cor das linhas rastreadoras",
     Default = config.lineColor or Color3.fromRGB(255, 255, 255),
     Transparency = 0,
     Locked = false,
@@ -11828,7 +11828,7 @@ VisualsTab:Paragraph({
 
 VisualsTab:Colorpicker({
     Title = "FOV Ring Color",
-    Desc = "Color for FOV ring",
+    Desc = "Cor do anel do FOV",
     Default = config.fovc or Color3.fromRGB(100, 0, 0),
     Transparency = 0,
     Locked = false,
@@ -11842,8 +11842,8 @@ VisualsTab:Colorpicker({
 })
 
 VisualsTab:Colorpicker({
-    Title = "FOV Target Color",
-    Desc = "Color when target is in FOV",
+    Title = "Cor do alvo do FOV",
+    Desc = "Cor quando o alvo está no FOV",
     Default = config.fovct or Color3.fromRGB(255, 255, 0),
     Transparency = 0,
     Locked = false,
@@ -11858,14 +11858,14 @@ VisualsTab:Colorpicker({
 
 VisualsTab:Space()
 VisualsTab:Paragraph({
-    Title = "Silent Aim (HK) Colors",
-    Desc = "Customize Silent Aim HK colors",
+    Title = "Cores do Silent Aim (HK)",
+    Desc = "Personalizar cores do Silent Aim HK",
     Color = config.Gradow.uicolor.lightGreen
 })
 
 VisualsTab:Colorpicker({
     Title = "SA2 FOV Color",
-    Desc = "Color for Silent Aim HK FOV",
+    Desc = "Cor do FOV do Silent Aim HK",
     Default = config.SA2_FovColor or Color3.new(0, 0, 0),
     Transparency = 0,
     Locked = false,
@@ -11876,8 +11876,8 @@ VisualsTab:Colorpicker({
 })
 
 VisualsTab:Colorpicker({
-    Title = "SA2 FOV Target Color",
-    Desc = "Color when target is in SA2 FOV",
+    Title = "Cor do alvo do FOV do SA2",
+    Desc = "Cor quando o alvo está no FOV do SA2",
     Default = config.SA2_FovColourTarget or Color3.new(1, 1, 0),
     Transparency = 0,
     Locked = false,
@@ -11896,7 +11896,7 @@ VisualsTab:Paragraph({
 
 VisualsTab:Colorpicker({
     Title = "TriggerBot FOV Color",
-    Desc = "Color for trigger bot FOV ring",
+    Desc = "Cor do anel do FOV do TriggerBot",
     Default = config.tbot.fovColor or Color3.fromRGB(255, 0, 0),
     Transparency = 0,
     Locked = false,
@@ -11916,7 +11916,7 @@ VisualsTab:Paragraph({
 
 VisualsTab:Colorpicker({
     Title = "Visualizer Color",
-    Desc = "Color of the Hitbox",
+    Desc = "Cor da Hitbox",
     Default = config.hitboxVisualizer.color or Color3.fromRGB(255, 0, 0),
     Transparency = 0,
     Locked = false,
@@ -11941,7 +11941,7 @@ VisualsTab:Paragraph({
 
 VisualsTab:Colorpicker({
     Title = "Reach Visualizer Color",
-    Desc = "Color for reach visualizer",
+    Desc = "Cor do visualizador de alcance",
     Default = config.visualizer.color or Color3.fromRGB(255, 0, 0),
     Transparency = 0,
     Locked = false,
@@ -11954,7 +11954,7 @@ VisualsTab:Colorpicker({
 VisualsTab:Space()
 VisualsTab:Paragraph({
     Title = "Theme",
-    Desc = "Customize the UI appearance",
+    Desc = "Personalizar a aparência da UI",
     Color = config.Gradow.uicolor.lightGreen
 })
 
@@ -11978,7 +11978,7 @@ VisualsTab:Dropdown({
             SaveUI:setTheme(selectedTheme)
             n({
                 Title = "Theme Changed",
-                Content = "Switched to " .. selectedTheme,
+                Content = "Alterado para " .. selectedTheme,
                 Audio = "rbxassetid://17208361335",
                 Length = 1,
                 Image = "rbxassetid://4483362458",
@@ -12035,7 +12035,7 @@ VisualsTab:Input({
 })
 
 VisualsTab:Button({
-    Title = "Save UI Settings",
+    Title = "Salvar configurações da UI",
     Desc = "Save current theme, trans & textcursor :]",
     Icon = "save",
     Callback = function()
@@ -12046,8 +12046,8 @@ VisualsTab:Button({
 })
 
 VisualsTab:Button({
-    Title = "Reload UI Settings",
-    Desc = "Reload da UI settings\n(btw the savedui file can autoload)",
+    Title = "Recarregar configurações da UI",
+    Desc = "Recarregar as configurações da UI\n(aliás, o arquivo savedui pode carregar automaticamente)",
     Icon = "download",
     Callback = function()
         local success = SaveUI:load()
@@ -12060,7 +12060,7 @@ VisualsTab:Button({
             })
         else
             WindUI:Notify({
-                Title = "UI Load Error",
+                Title = "Erro ao carregar a UI",
                 Content = "No saved UI settings found! :[",
                 Icon = "x",
                 Duration = 2
@@ -12078,20 +12078,20 @@ local AntiAimTab = Window:Tab({
     IconColor = config.Gradow.uicolor.lightGray
 }) do
     AntiAimTab:Paragraph({
-        Title = "Gravel",
-        Desc = "[ Bad Injectors might work here ]\n[ This might not work on every game ]",
+        Title = "GS",
+        Desc = "[ Injectors ruins podem funcionar aqui ]\n[ Isso pode não funcionar em todos os jogos ]",
         Color = config.Gradow.uicolor.darkGray
     })
 
     AntiAimTab:Paragraph({
         Title = "AntiAim Master",
-        Desc = "Master control for AntiAim features",
+        Desc = "Controle principal dos recursos de AntiAim",
         Color = config.Gradow.uicolor.lightGreen
     })
     
     AntiAimTab:Toggle({
         Title = "Toggle AntiAim ('L')",
-        Desc = "Enable/disable AntiAim",
+        Desc = "Ativar/desativar AntiAim",
         Value = config.antiAimEnabled or false,
         Callback = function(v)
             config.antiAimEnabled = v
@@ -12127,7 +12127,7 @@ local AntiAimTab = Window:Tab({
     
     AntiAimTab:Toggle({
         Title = "Raycast AntiAim",
-        Desc = "Teleport when targeted",
+        Desc = "Teleportar quando for alvo",
         Value = config.raycastAntiAim or false,
         Callback = function(v)
             config.raycastAntiAim = v
@@ -12140,8 +12140,8 @@ local AntiAimTab = Window:Tab({
     })
     
     AntiAimTab:Toggle({
-        Title = "Above Player",
-        Desc = "Teleport above target",
+        Title = "Acima do jogador",
+        Desc = "Teleportar acima do alvo",
         Value = config.antiAimAbovePlayer or false,
         Callback = function(v)
             config.antiAimAbovePlayer = v
@@ -12156,8 +12156,8 @@ local AntiAimTab = Window:Tab({
     })
     
     AntiAimTab:Toggle({
-        Title = "Behind Player",
-        Desc = "Teleport behind target",
+        Title = "Atrás do jogador",
+        Desc = "Teleportar atrás do alvo",
         Value = config.antiAimBehindPlayer or false,
         Callback = function(v)
             config.antiAimBehindPlayer = v
@@ -12173,7 +12173,7 @@ local AntiAimTab = Window:Tab({
     
     AntiAimTab:Toggle({
         Title = "Orbit Players",
-        Desc = "Orbit around nearest target",
+        Desc = "Orbitar ao redor do alvo mais próximo",
         Value = config.antiAimOrbitEnabled or false,
         Callback = function(v)
             config.antiAimOrbitEnabled = v
@@ -12191,14 +12191,14 @@ local AntiAimTab = Window:Tab({
     })
     
     AntiAimTab:Paragraph({
-        Title = "AntiAim Settings",
-        Desc = "Configuration for AntiAim modes",
+        Title = "Configurações do AntiAim",
+        Desc = "Configuração dos modos de AntiAim",
         Color = config.Gradow.uicolor.lightGreen
     })
     
     AntiAimTab:Slider({
         Title = "Teleport Distance (Raycast)",
-        Desc = "Distance to teleport when targeted",
+        Desc = "Distância para teleportar quando for alvo",
         IsTextbox = true,
         Step = 0.5,
         Value = {
@@ -12212,8 +12212,8 @@ local AntiAimTab = Window:Tab({
     })
     
     AntiAimTab:Slider({
-        Title = "Above Height (Above Player)",
-        Desc = "Height above target",
+        Title = "Altura acima (acima do jogador)",
+        Desc = "Altura acima do alvo",
         IsTextbox = true,
         Step = 1,
         Value = {
@@ -12227,8 +12227,8 @@ local AntiAimTab = Window:Tab({
     })
     
     AntiAimTab:Slider({
-        Title = "Behind Distance (Behind Player)",
-        Desc = "Distance behind target",
+        Title = "Distância atrás (atrás do jogador)",
+        Desc = "Distância atrás do alvo",
         IsTextbox = true,
         Step = 0.5,
         Value = {
@@ -12258,7 +12258,7 @@ local AntiAimTab = Window:Tab({
     
     AntiAimTab:Slider({
         Title = "Orbit Radius (Orbit)",
-        Desc = "Distance from target",
+        Desc = "Distância do alvo",
         IsTextbox = true,
         Step = 0.5,
         Value = {
@@ -12293,8 +12293,8 @@ AntiAimTab:Paragraph({
 })
 
 AntiAimTab:Toggle({
-    Title = "Enable SpinBot",
-    Desc = "Toggle spinning on/off",
+    Title = "Ativar SpinBot",
+    Desc = "Ativar/desativar rotação",
     Value = config.spinbot.enabled or false,
     Callback = function(v)
         config.spinbot.enabled = v
@@ -12349,7 +12349,7 @@ AntiAimTab:Slider({
 
 AntiAimTab:Button({
     Title = "Reset Rotation",
-    Desc = "Reset character rotation to normal",
+    Desc = "Redefinir a rotação do personagem ao normal",
     Callback = function()
         if localPlayer.Character then
             local rootPart = localPlayer.Character:FindFirstChild("HumanoidRootPart")
@@ -12370,7 +12370,7 @@ AntiAimTab:Button({
 })
 AntiAimTab:Toggle({
     Title = "Toggle Desync",
-    Desc = "(not compatible with save/load)",
+    Desc = "(não compatível com salvar/carregar)",
     Value = false,
     Callback = function(v)
         ineednextgenrep(v)
@@ -12379,7 +12379,7 @@ AntiAimTab:Toggle({
 
 AntiAimTab:Slider({
     Title = "Desync Transparency",
-    Desc = "Transparency level when desynced",
+    Desc = "Nível de transparência quando dessincronizado",
     Step = 0.05,
     Value = {
         Min = 0,
@@ -12407,20 +12407,20 @@ local AimbotTab = Window:Tab({
     IconColor = config.Gradow.uicolor.lightGray
 }) do
     AimbotTab:Paragraph({
-        Title = "Gravel",
+        Title = "GS",
         Desc = "[ Bad Injectors might work here ]",
         Color = config.Gradow.uicolor.darkGray
     })
     
     AimbotTab:Paragraph({
         Title = "Aimbot Master",
-        Desc = "Master control for aimbot features",
+        Desc = "Controle principal dos recursos de aimbot",
         Color = config.Gradow.uicolor.lightGreen
     })
     AimbotTab:Space()
     AimbotTab:Toggle({
         Title = "Toggle Aimbot ('Q')",
-        Desc = "Enable/disable aimbot",
+        Desc = "Ativar/desativar aimbot",
         Value = config.aimbotEnabled or false,
         Callback = function(v)
             handleAimbotToggle(v)
@@ -12447,14 +12447,14 @@ local AimbotTab = Window:Tab({
     })
     
     AimbotTab:Paragraph({
-        Title = "Aimbot Settings",
-        Desc = "Configuration for aimbot behavior",
+        Title = "Configurações do Aimbot",
+        Desc = "Configuração do comportamento do aimbot",
         Color = config.Gradow.uicolor.lightGreen
     })
     
     AimbotTab:Toggle({
         Title = "WallCheck AB ('H')",
-        Desc = "Check for walls",
+        Desc = "Verificar paredes",
         Value = config.aimbotWallCheck or false,
         Callback = function(v)
             config.aimbotWallCheck = v
@@ -12463,7 +12463,7 @@ local AimbotTab = Window:Tab({
     
     AimbotTab:Toggle({
         Title = "360° Aimbot",
-        Desc = "Target in all directions",
+        Desc = "Alvo em todas as direções",
         Value = config.aimbot360Enabled or false,
         Callback = function(v)
             toggle360Aimbot(v)
@@ -12471,10 +12471,10 @@ local AimbotTab = Window:Tab({
     })
     
     AimbotTab:Dropdown({
-        Title = "Target Part",
-        Desc = "Part to aim at",
-        Values = {"Head", "HumanoidRootPart", "Torso"},
-        Value = config.aimbotTargetPart or "Head",
+        Title = "Parte do alvo",
+        Desc = "Parte para mirar",
+        Values = {"Cabeça", "HumanoidRootPart", "Torso"},
+        Value = config.aimbotTargetPart or "Cabeça",
         Multi = false,
         Callback = function(Option)
             config.aimbotTargetPart = Option
@@ -12482,7 +12482,7 @@ local AimbotTab = Window:Tab({
     })
     
     AimbotTab:Slider({
-        Title = "Aim Strength",
+        Title = "Força da mira",
         Desc = "Smoothing strength",
         Step = 0.05,
         Value = {
@@ -12497,7 +12497,7 @@ local AimbotTab = Window:Tab({
     
     AimbotTab:Slider({
         Title = "FOV Radius",
-        Desc = "Aimbot field of view",
+        Desc = "Campo de visão do Aimbot",
         IsTextbox = true,
         Step = 10,
         Value = {
@@ -12521,20 +12521,20 @@ local SilentAimTab = Window:Tab({
     IconColor = config.Gradow.uicolor.lightGray
 }) do
     SilentAimTab:Paragraph({
-        Title = "Gravel",
-        Desc = "[ Hitbox Based ]\n[ Bad Injectors might work here ]\n[ This might not work on every game ]",
+        Title = "GS",
+        Desc = "[ Baseado em Hitbox ]\n[ Injectors ruins podem funcionar aqui ]\n[ Isso pode não funcionar em todos os jogos ]",
         Color = config.Gradow.uicolor.darkGray
     })
 
     SilentAimTab:Paragraph({
         Title = "SilentAim Master",
-        Desc = "Master control for hitbox silent aim",
+        Desc = "Controle principal do silent aim baseado em hitbox",
         Color = config.Gradow.uicolor.lightGreen
     })
     
     SilentAimTab:Toggle({
         Title = "Toggle SilentAim (HB) ('E')",
-        Desc = "Enable/disable silent aim",
+        Desc = "Ativar/desativar silent aim",
         Value = config.startsa or false,
         Callback = function(v)
             config.startsa = v
@@ -12574,14 +12574,14 @@ local SilentAimTab = Window:Tab({
     })
     SilentAimTab:Space()
     SilentAimTab:Paragraph({
-        Title = "SilentAim Settings",
-        Desc = "Configuration for silent aim behavior",
+        Title = "Configurações do SilentAim",
+        Desc = "Configuração do comportamento do silent aim",
         Color = config.Gradow.uicolor.lightGreen
     })
     
     SilentAimTab:Toggle({
         Title = "WallCheck SA ('B')",
-        Desc = "Check for walls",
+        Desc = "Verificar paredes",
         Value = config.wallc or false,
         Callback = function(v)
             config.wallc = v
@@ -12589,8 +12589,8 @@ local SilentAimTab = Window:Tab({
     })
 
     SilentAimTab:Toggle({
-        Title = "Scale To Screen",
-        Desc = "Scale hitbox to cover the fov circle",
+        Title = "Escalar para a tela",
+        Desc = "Escalar a hitbox para cobrir o círculo do FOV",
         Value = config.scaleToScreen or false,
         Callback = function(v)
             config.scaleToScreen = v
@@ -12599,7 +12599,7 @@ local SilentAimTab = Window:Tab({
     
     SilentAimTab:Slider({
         Title = "STS Distance",
-        Desc = "distance from player to prevent clipping",
+        Desc = "distância do jogador para evitar clipping",
         IsTextbox = true,
         Step = 1,
         Value = {
@@ -12613,10 +12613,10 @@ local SilentAimTab = Window:Tab({
     })
     
     SilentAimTab:Dropdown({
-        Title = "Target Part",
-        Desc = "Part to target",
-        Values = {"Head", "HumanoidRootPart", "Both"},
-        Value = config.bodypart or "Head",
+        Title = "Parte do alvo",
+        Desc = "Parte a ser alvo",
+        Values = {"Cabeça", "HumanoidRootPart", "Both"},
+        Value = config.bodypart or "Cabeça",
         Multi = false,
         Callback = function(Option)
             local targetsToRemove = {}
@@ -12631,8 +12631,8 @@ local SilentAimTab = Window:Tab({
     })
 
 SilentAimTab:Slider({
-    Title = "Target Range",
-    Desc = "How far a target should be targeted",
+    Title = "Alcance do alvo",
+    Desc = "A que distância um alvo deve ser mirado",
     IsTextbox = true,
     Step = 10,
     Value = {
@@ -12647,7 +12647,7 @@ SilentAimTab:Slider({
     
     SilentAimTab:Slider({
         Title = "HitChance",
-        Desc = "Chance to hit target",
+        Desc = "Chance de acertar o alvo",
         Step = 1,
         Suffix = "%",
         Value = {
@@ -12662,7 +12662,7 @@ SilentAimTab:Slider({
     
     SilentAimTab:Slider({
         Title = "Fov Radius",
-        Desc = "Silent aim field of view",
+        Desc = "Campo de visão do silent aim",
         IsTextbox = true,
         Step = 10,
         Value = {
@@ -12698,24 +12698,24 @@ end
 local SilentAimTab2 = Window:Tab({
     Title = "SilentAim (HK)",
     Desc = rng3("SilentAim (HK)"),
-    Icon = "target",
+    Icon = "alvo",
     IconColor = config.Gradow.uicolor.lightGray
 }) do
     SilentAimTab2:Paragraph({
-        Title = "Gravel",
+        Title = "GS",
         Desc = "[ Hooked Based ]\n[ Ban risk ]\n[ NPCs aren't supported ]\n[ Bad Injectors aren't supported ]",
         Color = config.Gradow.uicolor.darkGray
     })
     
     SilentAimTab2:Paragraph({
         Title = "SilentAim Master",
-        Desc = "Master control for hook-based silent aim",
+        Desc = "Controle principal do silent aim baseado em hook",
         Color = config.Gradow.uicolor.lightGreen
     })
     
     SilentAimTab2:Toggle({
         Title = "Toggle SilentAim (HK) ('R')",
-        Desc = "Enable/disable silent aim",
+        Desc = "Ativar/desativar silent aim",
         Value = config.SA2_Enabled or false,
         Callback = function(v)
             config.SA2_Enabled = v
@@ -12731,14 +12731,14 @@ local SilentAimTab2 = Window:Tab({
     })
     SilentAimTab2:Space()
     SilentAimTab2:Paragraph({
-        Title = "SilentAim Settings",
-        Desc = "Configuration for hook-based silent aim",
+        Title = "Configurações do SilentAim",
+        Desc = "Configuração do silent aim baseado em hook",
         Color = config.Gradow.uicolor.lightGreen
     })
     
     SilentAimTab2:Toggle({
         Title = "WallCheck ('T')",
-        Desc = "Check for walls (Might lag)",
+        Desc = "Verificar paredes (pode causar lag)",
         Value = config.SA2_Wallcheck or false,
         Callback = function(v)
             config.SA2_Wallcheck = v
@@ -12775,7 +12775,7 @@ local SilentAimTab2 = Window:Tab({
 
 SilentAimTab2:Toggle({
     Title = "Bullet Teleport",
-    Desc = "Teleports bullet origin to target :]",
+    Desc = "Teleporta a origem da bala para o alvo :]",
     Value = config.SA2_BulletTeleport or false,
     Callback = function(v)
         config.SA2_BulletTeleport = v
@@ -12803,7 +12803,7 @@ SilentAimTab2:Toggle({
     
     SilentAimTab2:Toggle({
         Title = "360 Mode",
-        Desc = "Enable silent aim in all directions",
+        Desc = "Ativar silent aim em todas as direções",
         Value = config.SA2_ThreeSixtyMode or false,
         Callback = function(v)
             config.SA2_ThreeSixtyMode = v
@@ -12811,8 +12811,8 @@ SilentAimTab2:Toggle({
     })
     
     SilentAimTab2:Dropdown({
-        Title = "Aim Method",
-        Desc = "Raycast method to hook",
+        Title = "Método de mira",
+        Desc = "Método de Raycast para hook",
         Values = {"Raycast", "FindPartOnRay", "Mouse.Hit"},
         Value = config.SA2_Method or "Raycast",
         Multi = false,
@@ -12822,15 +12822,15 @@ SilentAimTab2:Toggle({
     })
     
     SilentAimTab2:Dropdown({
-        Title = "Target Part",
-        Desc = "Part to target",
-        Values = {"Head", "HumanoidRootPart"},
-        Value = config.SA2_TargetPart or "Head",
+        Title = "Parte do alvo",
+        Desc = "Parte a ser alvo",
+        Values = {"Cabeça", "HumanoidRootPart"},
+        Value = config.SA2_TargetPart or "Cabeça",
         Multi = false,
         Callback = function(choice)
             config.SA2_TargetPart = choice
             n({
-                Title = "Target Part",
+                Title = "Parte do alvo",
                 Content = "Targeting: " .. choice,
                 Audio = "rbxassetid://17208361335",
                 Length = 1,
@@ -12841,7 +12841,7 @@ SilentAimTab2:Toggle({
     })
     
     SilentAimTab2:Slider({
-        Title = "Hit Chance",
+        Title = "Chance de acerto",
         Desc = "Accuracy percentage",
         Step = 1,
         Suffix = "%",
@@ -12857,7 +12857,7 @@ SilentAimTab2:Toggle({
 
 SilentAimTab2:Slider({
     Title = "Responsiveness",
-    Desc = "Higher = More Performance\nLower = More Responsiveness",
+    Desc = "Maior = Mais desempenho\nMenor = Mais responsividade",
     Step = 0.01,
     Suffix = "s",
     Value = {
@@ -12872,7 +12872,7 @@ SilentAimTab2:Slider({
     
     SilentAimTab2:Slider({
         Title = "FOV Radius",
-        Desc = "Field of View size",
+        Desc = "Tamanho do campo de visão",
         IsTextbox = true,
         Step = 10,
         Value = {
@@ -12885,8 +12885,8 @@ SilentAimTab2:Slider({
         end
     })
     SilentAimTab2:Slider({
-        Title = "Target Range",
-        Desc = "How far a target should a targeted",
+        Title = "Alcance do alvo",
+        Desc = "A que distância um alvo deve ser mirado",
         IsTextbox = true,
         Step = 10,
         Value = {
@@ -12908,14 +12908,14 @@ local HitboxTab = Window:Tab({
     IconColor = config.Gradow.uicolor.lightGray
 }) do
     HitboxTab:Paragraph({
-        Title = "Gravel",
-        Desc = "[ Bad Injectors might work here ]\n[ This might not work on every game ]",
+        Title = "GS",
+        Desc = "[ Injectors ruins podem funcionar aqui ]\n[ Isso pode não funcionar em todos os jogos ]",
         Color = config.Gradow.uicolor.darkGray
     })
     
     HitboxTab:Paragraph({
         Title = "Hitbox Master",
-        Desc = "Master control for hitbox expansion",
+        Desc = "Controle principal da expansão da hitbox",
         Color = config.Gradow.uicolor.lightGreen
     })
     
@@ -12953,14 +12953,14 @@ local HitboxTab = Window:Tab({
     })
     HitboxTab:Space()
     HitboxTab:Paragraph({
-        Title = "Hitbox Settings",
-        Desc = "Configuration for hitbox expansion",
+        Title = "Configurações da Hitbox",
+        Desc = "Configuração da expansão da hitbox",
         Color = config.Gradow.uicolor.lightGreen
     })
     
     HitboxTab:Dropdown({
-        Title = "Team Target",
-        Desc = "Select target team preference",
+        Title = "Equipe-alvo",
+        Desc = "Selecionar preferência de equipe-alvo",
         Values = {"Enemies", "Teams", "All"},
         Value = config.hitboxTeamTarget or "Enemies",
         Multi = false,
@@ -12973,7 +12973,7 @@ local HitboxTab = Window:Tab({
     
     HitboxTab:Slider({
         Title = "Hitbox Size",
-        Desc = "Size of expanded hitboxes",
+        Desc = "Tamanho das hitboxes expandidas",
         IsTextbox = true,
         Step = 5,
         Value = {
@@ -12999,12 +12999,12 @@ local HitboxTab = Window:Tab({
     })
 HitboxTab:Paragraph({
     Title = "Hitbox Visualizer",
-    Desc = "make za Hitbox visible and eye pleasing type shi",
+    Desc = "deixe a Hitbox visível e agradável aos olhos, tipo isso",
     Color = config.Gradow.uicolor.lightGreen
 })
 
 HitboxTab:Toggle({
-    Title = "Enable Visualizer",
+    Title = "Ativar visualizador",
     Desc = "Show hitbox visualizer :7",
     Value = config.hitboxVisualizer.enabled or false,
     Callback = function(v)
@@ -13036,7 +13036,7 @@ HitboxTab:Toggle({
 
 HitboxTab:Dropdown({
     Title = "Visualizer Shape",
-    Desc = "Shape of the proxy hitbox\n(who needs ts)",
+    Desc = "Formato da hitbox proxy\n(quem precisa disso)",
     Values = {"Block", "Sphere"},
     Value = config.hitboxVisualizer.shape or "Block",
     Multi = false,
@@ -13097,20 +13097,20 @@ HitboxTab:Slider({
 end
 
 local ReachTab = Window:Tab({
-    Title = "Reach",
-    Desc = rng3("Reach"),
+    Title = "Alcance",
+    Desc = rng3("Alcance"),
     Icon = "sword",
     IconColor = config.Gradow.uicolor.lightGray
 }) do
     ReachTab:Paragraph({
-        Title = "Gravel",
-        Desc = "[ FireTouchInterest ]\n[ Melees Recommended ]\n[ Bad Injectors might work here ]\n[ This might not work for every game ]",
+        Title = "GS",
+        Desc = "[ FireTouchInterest ]\n[ Melees recomendados ]\n[ Injectors ruins podem funcionar aqui ]\n[ Isso pode não funcionar em todos os jogos ]",
         Color = config.Gradow.uicolor.darkGray
     })
     
     ReachTab:Paragraph({
         Title = "Reach Master",
-        Desc = "Master control for extended reach",
+        Desc = "Controle principal do alcance estendido",
         Color = config.Gradow.uicolor.lightGreen
     })
     
@@ -13127,7 +13127,7 @@ local ReachTab = Window:Tab({
     local autoSwingConnection = nil
 
     ReachTab:Toggle({
-        Title = "Enable Reach",
+        Title = "Ativar alcance",
         Desc = "Extend weapon reach distance",
         Value = config.reach.enabled,
         Callback = function(v)
@@ -13140,7 +13140,7 @@ local ReachTab = Window:Tab({
                 end
             end
             n({
-                Title = "Reach",
+                Title = "Alcance",
                 Content = "Reach " .. (v and "Enabled" or "Disabled"),
                 Audio = "rbxassetid://17208361335",
                 Length = 1,
@@ -13151,14 +13151,14 @@ local ReachTab = Window:Tab({
     })
     
     ReachTab:Paragraph({
-        Title = "Reach Settings",
-        Desc = "Configuration for extended reach",
+        Title = "Configurações de alcance",
+        Desc = "Configuração do alcance estendido",
         Color = config.Gradow.uicolor.lightGreen
     })
     
     ReachTab:Dropdown({
         Title = "Reach Type",
-        Desc = "Shape of the reach area",
+        Desc = "Formato da área de alcance",
         Values = {"Sphere", "Flat"},
         Value = config.reach.type,
         Multi = false,
@@ -13182,8 +13182,8 @@ local ReachTab = Window:Tab({
     })
     
     ReachTab:Paragraph({
-        Title = "Visuals",
-        Desc = "Visual settings for reach indicator",
+        Title = "Visuais",
+        Desc = "Configurações visuais do indicador de alcance",
         Color = config.Gradow.uicolor.lightGreen
     })
     
@@ -13201,7 +13201,7 @@ local ReachTab = Window:Tab({
     
     ReachTab:Dropdown({
         Title = "Visualizer Material",
-        Desc = "Material for visualizer",
+        Desc = "Material do visualizador",
         Values = {"ForceField", "Plastic", "Glass", "Neon", "SmoothPlastic", "Metal", "DiamondPlate"},
         Value = config.visualizer.material,
         Multi = false,
@@ -13215,7 +13215,7 @@ local ReachTab = Window:Tab({
     
     ReachTab:Slider({
         Title = "Visualizer Transparency",
-        Desc = "Transparency of reach visualizer",
+        Desc = "Transparência do visualizador de alcance",
         Step = 0.05,
         Value = {
             Min = 0,
@@ -13386,7 +13386,7 @@ local ReachTab = Window:Tab({
     
     ReachTab:Paragraph({
         Title = "Utilities",
-        Desc = "Utility functions for reach",
+        Desc = "Funções utilitárias para alcance",
         Color = config.Gradow.uicolor.lightGreen
     })
     
@@ -13396,7 +13396,7 @@ local ReachTab = Window:Tab({
         Callback = function()
             visualizer.Parent = nil
             n({
-                Title = "Reach",
+                Title = "Alcance",
                 Content = "Visualizer cleared",
                 Length = 1,
                 Image = "rbxassetid://4483362458",
@@ -13407,7 +13407,7 @@ local ReachTab = Window:Tab({
     
     ReachTab:Button({
         Title = "Find Nearby Weapons",
-        Desc = "Scan for nearby weapons/tools",
+        Desc = "Procurar armas/ferramentas próximas",
         Callback = function()
             local weapons = {}
             local character = excusemesir.Players.LocalPlayer.Character
@@ -13449,8 +13449,8 @@ end
 
 -- Client Tab
 local ClientTab = Window:Tab({
-    Title = "Client",
-    Desc = rng3("Client"),
+    Title = "Cliente",
+    Desc = rng3("Cliente"),
     Icon = "user",
     IconColor = config.Gradow.uicolor.lightGray
 }) do
@@ -13462,7 +13462,7 @@ local ClientTab = Window:Tab({
     })
     ClientTab:Toggle({
         Title = "Toggle Client Modification ('N')",
-        Desc = "Enable/disable all client modifications",
+        Desc = "Ativar/desativar todas as modificações do cliente",
         Value = config.clientModEnabled or false,
         Callback = function(v)
             config.clientModEnabled = v
@@ -13496,7 +13496,7 @@ local ClientTab = Window:Tab({
     })
 
     ClientTab:Toggle({
-        Title = "Enable Walkspeed",
+        Title = "Ativar WalkSpeed",
         Desc = "Override walkspeed",
         Value = config.walkspeedEnabled or false,
         Callback = function(v)
@@ -13527,7 +13527,7 @@ local ClientTab = Window:Tab({
     })
 
 ClientTab:Toggle({
-    Title = "Enable TPWalk",
+    Title = "Ativar TPWalk",
     Desc = "Toggle CFrame-based movement",
     Value = config.tpwalkEnabled or false,
     Callback = function(v)
@@ -13540,7 +13540,7 @@ ClientTab:Toggle({
 
 ClientTab:Slider({
     Title = "TPWalk Speed",
-    Desc = "Movement speed for TPWalk",
+    Desc = "Velocidade de movimento do TPWalk",
     IsTextbox = true,
     Step = 1,
     Suffix = "studs/s",
@@ -13555,7 +13555,7 @@ ClientTab:Slider({
 })
 
     ClientTab:Toggle({
-        Title = "Enable Jumppower",
+        Title = "Ativar JumpPower",
         Desc = "Override jump power",
         Value = config.jumppowerEnabled or false,
         Callback = function(v)
@@ -13586,7 +13586,7 @@ ClientTab:Slider({
     })
 
 ClientTab:Toggle({
-    Title = "Enable Gravity",
+    Title = "Ativar gravidade",
     Desc = "Override gravity value",
     Value = config.gravityEnabled or false,
     Callback = function(v)
@@ -13605,7 +13605,7 @@ ClientTab:Toggle({
 
 ClientTab:Slider({
     Title = "Gravity Value",
-    Desc = "Set gravity value (higher = more gravity)",
+    Desc = "Defina o valor da gravidade (maior = mais gravidade)",
     IsTextbox = true,
     Step = 1,
     Suffix = "studs/s²",
@@ -13623,7 +13623,7 @@ ClientTab:Slider({
 })
 
     ClientTab:Toggle({
-        Title = "Enable HipHeight",
+        Title = "Ativar HipHeight",
         Desc = "Override hip height",
         Value = config.hipHeightEnabled or false,
         Callback = function(v)
@@ -13663,7 +13663,7 @@ ClientTab:Slider({
 
     ClientTab:Toggle({
         Title = "Truss",
-        Desc = "Creates a claimable part to fly (Less detectable)",
+        Desc = "Cria uma peça reivindicável para voar (menos detectável)",
         Value = config.trussEnabled or false,
         Callback = function(v)
             config.trussEnabled = v
@@ -13673,7 +13673,7 @@ ClientTab:Slider({
                 if not character then
                     n({
                         Title = "Truss",
-                        Content = "Character not found!",
+                        Content = "Personagem não encontrado!",
                         Audio = "rbxassetid://17208361335",
                         Length = 1,
                         Image = "rbxassetid://4483362458",
@@ -13686,7 +13686,7 @@ ClientTab:Slider({
                 if not rootPart then
                     n({
                         Title = "Truss",
-                        Content = "HumanoidRootPart not found!",
+                        Content = "HumanoidRootPart não encontrado!",
                         Audio = "rbxassetid://17208361335",
                         Length = 1,
                         Image = "rbxassetid://4483362458",
@@ -13756,7 +13756,7 @@ ClientTab:Slider({
     
     ClientTab:Toggle({
         Title = "Airwalk",
-        Desc = "Walk on air",
+        Desc = "Andar no ar",
         Value = config.airwalkEnabled or false,
         Callback = function(v)
             config.airwalkEnabled = v
@@ -13765,7 +13765,7 @@ ClientTab:Slider({
                 if not character then
                     n({
                         Title = "Airwalk",
-                        Content = "Character not found!",
+                        Content = "Personagem não encontrado!",
                         Audio = "rbxassetid://17208361335",
                         Length = 1,
                         Image = "rbxassetid://4483362458",
@@ -13778,7 +13778,7 @@ ClientTab:Slider({
                 if not rootPart then
                     n({
                         Title = "Airwalk",
-                        Content = "HumanoidRootPart not found!",
+                        Content = "HumanoidRootPart não encontrado!",
                         Audio = "rbxassetid://17208361335",
                         Length = 1,
                         Image = "rbxassetid://4483362458",
@@ -13844,7 +13844,7 @@ ClientTab:Slider({
     
     ClientTab:Toggle({
         Title = "Auto Respawn",
-        Desc = "Respawns where you died from",
+        Desc = "Renasce onde você morreu",
         Value = config.autorespawnEnabled or false,
         Callback = function(v)
             config.autorespawnEnabled = v
@@ -13874,7 +13874,7 @@ ClientTab:Slider({
                         newRoot.CFrame = config.autorespawnDeathPosition
                         n({
                             Title = "AutoRespawn",
-                            Content = "Teleported to death location",
+                            Content = "Teleportado para o local da morte",
                             Audio = "rbxassetid://17208361335",
                             Length = 1,
                             Image = "rbxassetid://4483362458",
@@ -13902,7 +13902,7 @@ ClientTab:Slider({
                 
                 n({
                     Title = "AutoRespawn",
-                    Content = "Enabled Will respawn at death location",
+                    Content = "Ativado: irá renascer no local da morte",
                     Audio = "rbxassetid://17208361335",
                     Length = 1,
                     Image = "rbxassetid://4483362458",
@@ -13934,20 +13934,20 @@ end
 
 -- Misc Tab
 local MiscTab = Window:Tab({
-    Title = "Miscellaneous",
-    Desc = rng3("Miscellaneous"),
-    Icon = "settings",
+    Title = "Diversos",
+    Desc = rng3("Diversos"),
+    Icon = "configurações",
     IconColor = config.Gradow.uicolor.lightGray
 }) do
 MiscTab:Paragraph({
     Title = "Trigger Bot",
-    Desc = "Automatically shoot when fov is inside target\nNot mobile friendly!",
+    Desc = "Atira automaticamente quando o FOV está dentro do alvo\nNão é compatível com celular!",
     Color = config.Gradow.uicolor.lightGreen
 })
 
 MiscTab:Toggle({
-    Title = "Enable TriggerBot",
-    Desc = "Toggle triggerbot on/off",
+    Title = "Ativar TriggerBot",
+    Desc = "Ativar/desativar triggerbot",
     Value = config.tbot.enabled or false,
     Callback = function(v)
         toggleTriggerBot(v)
@@ -13961,10 +13961,10 @@ MiscTab:Toggle({
 })
 
 MiscTab:Dropdown({
-    Title = "Tbot Target Part",
-    Desc = "Part to aim for",
-    Values = {"Head", "HumanoidRootPart", "Random"},
-    Value = config.tbot.targetPart or "Head",
+    Title = "Parte-alvo do Tbot",
+    Desc = "Parte a ser mirado",
+    Values = {"Cabeça", "HumanoidRootPart", "Aleatório"},
+    Value = config.tbot.targetPart or "Cabeça",
     Multi = false,
     Callback = function(Option)
         config.tbot.targetPart = Option
@@ -13973,7 +13973,7 @@ MiscTab:Dropdown({
 
 MiscTab:Slider({
     Title = "Tbot FOV Radius",
-    Desc = "Trigger bot field of view",
+    Desc = "Campo de visão do TriggerBot",
     IsTextbox = true,
     Step = 5,
     Value = {
@@ -13988,8 +13988,8 @@ MiscTab:Slider({
 })
 
 MiscTab:Slider({
-    Title = "Tbot Hit Chance",
-    Desc = "Chance to shoot when target is in FOV",
+    Title = "Chance de acerto do Tbot",
+    Desc = "Chance de atirar quando o alvo está no FOV",
     Step = 1,
     Suffix = "%",
     Value = {
@@ -14018,8 +14018,8 @@ MiscTab:Slider({
 })
 
 MiscTab:Toggle({
-    Title = "Tbot Wall Check ('Y')",
-    Desc = "Check for walls before shooting",
+    Title = "Verificação de parede do Tbot ('Y')",
+    Desc = "Verificar paredes antes de atirar",
     Value = config.tbot.wallCheck or false,
     Callback = function(v)
         config.tbot.wallCheck = v
@@ -14027,8 +14027,8 @@ MiscTab:Toggle({
 })
 
 MiscTab:Toggle({
-    Title = "Tbot Hold to Shoot",
-    Desc = "Only shoot when holding a key",
+    Title = "Segurar para atirar no Tbot",
+    Desc = "Atirar somente enquanto uma tecla estiver pressionada",
     Value = config.tbot.holdToShoot or false,
     Callback = function(v)
         config.tbot.holdToShoot = v
@@ -14037,7 +14037,7 @@ MiscTab:Toggle({
 
 MiscTab:Input({
     Title = "Tbot Hold Key",
-    Desc = "Key to hold for shooting",
+    Desc = "Tecla para segurar ao atirar",
     Placeholder = "MouseButton1",
     Value = config.tbot.holdKey or "MouseButton1",
     ClearTextOnFocus = true,
@@ -14072,7 +14072,7 @@ MiscTab:Input({
 
     MiscTab:Button({
         Title = "Brick.cc (pls ignore)",
-        Desc = "I has da powa of unanchored (yes brick is back again :D!!1!1)",
+        Desc = "Eu tenho o poder dos objetos não ancorados (sim, o brick voltou :D!!1!1)",
         Callback = function()
               loadstring(getgist_(getgenv().HttpUrlz_.imbricked))()
         end
@@ -14092,7 +14092,7 @@ MiscTab:Input({
     })
     MiscTab:Button({
         Title = "pop-up (pls ignore)",
-        Desc = "it's the same pop-up that appears when da script loads",
+        Desc = "é o mesmo pop-up que aparece quando o script carrega",
         Callback = function()
            rng()
             WindUI:Notify({
@@ -14105,7 +14105,7 @@ MiscTab:Input({
     })
     MiscTab:Button({
         Title = "notif (pls ignore)",
-        Desc = "it's the same annoying notif that appears when da script loads",
+        Desc = "é a mesma notificação irritante que aparece quando o script carrega",
         Callback = function()
             rng2()
             WindUI:Notify({
@@ -14118,7 +14118,7 @@ MiscTab:Input({
     })
     MiscTab:Button({
         Title = "iwanttobanishthisspecificplayer (pls ignore)",
-        Desc = "'iwanttobanishthisspecificplayer' sick gui name for a fling script right??",
+        Desc = "'iwanttobanishthisspecificplayer' é um nome de GUI muito legal para um script de fling, né??",
         Callback = function()
            loadstring(getgist_(getgenv().HttpUrlz_.wflingguiname))()
             WindUI:Notify({
@@ -14131,12 +14131,12 @@ MiscTab:Input({
     })
     MiscTab:Button({
         Title = "invistool (pls ignore)",
-        Desc = "'why do u need ts",
+        Desc = "'por que você precisa disso",
         Callback = function()
            ineedinvistool()
             WindUI:Notify({
                 Title = "I'm hiding :3",
-                Content = "wouldn't call a script without an invistool",
+                Content = "eu não chamaria um script sem uma invistool",
                 Icon = "shovel",
                 Duration = 1
             })
@@ -14144,7 +14144,7 @@ MiscTab:Input({
     })
 MiscTab:Toggle({
     Title = "BHop ('V')",
-    Desc = "Toggle bunny hop on/off",
+    Desc = "Ativar/desativar bunny hop",
     Value = config.bhop.enabled or false,
     Callback = function(v)
         toggleBHop(v)
@@ -14167,7 +14167,7 @@ MiscTab:Toggle({
     })
 MiscTab:Toggle({
     Title = "Cframe View",
-    Desc = "view randos with cframe view & kill em >:]",
+    Desc = "veja aleatórios com CFrame View e mate eles >:]",
     Value = config.wallc or false,
     Callback = function(v)
         local Players = game:GetService("Players")
@@ -14213,11 +14213,11 @@ MiscTab:Toggle({
             if Players:GetPlayerFromCharacter(model) then return false end
             local humanoid = model:FindFirstChildOfClass("Humanoid")
             if not humanoid or humanoid.Health <= 0 then return false end
-            if not (model:FindFirstChild("HumanoidRootPart") or model:FindFirstChild("Head")) then return false end
+            if not (model:FindFirstChild("HumanoidRootPart") or model:FindFirstChild("Cabeça")) then return false end
             if config.masterTeamTarget == "All" then
                 return true
             elseif config.masterTeamTarget == "Enemies" then
-                local npcTeam = model:FindFirstChild("Team")
+                local npcTeam = model:FindFirstChild("Equipe")
                 if npcTeam then
                     local localTeam = excusemesir.Players.LocalPlayer.Team
                     if localTeam and npcTeam:IsA("ObjectValue") and npcTeam.Value then
@@ -14226,7 +14226,7 @@ MiscTab:Toggle({
                 end
                 return true
             elseif config.masterTeamTarget == "Teams" then
-                local npcTeam = model:FindFirstChild("Team")
+                local npcTeam = model:FindFirstChild("Equipe")
                 if npcTeam and npcTeam:IsA("ObjectValue") and npcTeam.Value then
                     local localTeam = excusemesir.Players.LocalPlayer.Team
                     if localTeam then
@@ -14243,7 +14243,7 @@ MiscTab:Toggle({
             local localChar = localPlayer.Character
             if not localChar then return nil end
             
-            local localRoot = localChar:FindFirstChild("HumanoidRootPart") or localChar:FindFirstChild("Head")
+            local localRoot = localChar:FindFirstChild("HumanoidRootPart") or localChar:FindFirstChild("Cabeça")
             if not localRoot then return nil end
             
             local nearestTarget = nil
@@ -14265,7 +14265,7 @@ MiscTab:Toggle({
                                     if distance < nearestDistance then
                                         nearestDistance = distance
                                         nearestTarget = {
-                                            type = "player",
+                                            type = "jogador",
                                             instance = plr,
                                             character = plr.Character
                                         }
@@ -14279,7 +14279,7 @@ MiscTab:Toggle({
             if masterTarget == "NPCs" or masterTarget == "Both" then
                 for _, obj in ipairs(workspace:GetDescendants()) do
                     if obj:IsA("Model") and isNPCEnemy(obj) then
-                        local rootPart = obj:FindFirstChild("HumanoidRootPart") or obj:FindFirstChild("Head")
+                        local rootPart = obj:FindFirstChild("HumanoidRootPart") or obj:FindFirstChild("Cabeça")
                         if rootPart then
                             local humanoid = obj:FindFirstChildOfClass("Humanoid")
                             if humanoid and humanoid.Health > 0 then
@@ -14340,7 +14340,7 @@ MiscTab:Toggle({
             end
             
             local isValid = false
-            if Target.type == "player" then
+            if Target.type == "jogador" then
                 isValid = Target.instance 
                     and Target.instance.Character 
                     and Target.instance.Character:FindFirstChild("HumanoidRootPart")
@@ -14376,7 +14376,7 @@ MiscTab:Toggle({
             end
 
             local HRP = nil
-            if Target.type == "player" then
+            if Target.type == "jogador" then
                 HRP = Target.instance.Character.HumanoidRootPart
             elseif Target.type == "npc" then
                 HRP = Target.instance.HumanoidRootPart
@@ -14392,7 +14392,7 @@ MiscTab:Toggle({
         
         WindUI:Notify({
             Title = "Cframe View",
-            Content = "Viewing " .. (Target.type == "player" and Target.instance.Name or "NPC"),
+            Content = "Viewing " .. (Target.type == "jogador" and Target.instance.Name or "NPC"),
             Icon = "eye",
             Duration = 2
         })
@@ -14400,7 +14400,7 @@ MiscTab:Toggle({
 })
 MiscTab:Slider({
     Title = "Zoom",
-    Desc = "cframe view distance from target :7",
+    Desc = "distância da visão CFrame até o alvo :7",
     IsTextbox = true,
     Step = 1,
     Value = {
@@ -14414,7 +14414,7 @@ MiscTab:Slider({
 })
 MiscTab:Toggle({
     Title = "WallOver",
-    Desc = "Enable/disable WallOver (allows you to shoot over walls1!1!)",
+    Desc = "Ativar/desativar WallOver (permite atirar por cima das paredes1!1!)",
     Value = config.camYOffsetEnabled or false,
     Callback = function(v)
         config.camYOffsetEnabled = v
@@ -14465,26 +14465,26 @@ end
 
 -- BGMTab
 local BGMTab = Window:Tab({
-    Title = "BGM",
-    Desc = rng3("BGM"),
-    Icon = "music",
+    Title = "Música de fundo",
+    Desc = rng3("Música de fundo"),
+    Icon = "música",
     IconColor = config.Gradow.uicolor.lightGray
 }) do
     BGMTab:Paragraph({
-        Title = "Music Player",
-        Desc = "Play background music while using Gravel! >;D",
+        Title = "Reprodutor de música",
+        Desc = "Reproduzir música de fundo enquanto usa o GS! >;D",
         Color = config.Gradow.uicolor.lightGreen
     })
     
     BGMTab:Toggle({
-        Title = "Play Music",
-        Desc = "Enable/disable background music",
+        Title = "Reproduzir música",
+        Desc = "Ativar/desativar música de fundo",
         Value = BMG.IsPlaying or false,
         Callback = function(v)
             BMG:togglePlay(v)
             local status = v and "Playing" or "Stopped"
             n({
-                Title = "Background Music",
+                Title = "Música de fundo",
                 Content = status .. " - " .. BMG.CurrentTitle,
                 Audio = "rbxassetid://17208361335",
                 Length = 1,
@@ -14497,14 +14497,14 @@ local BGMTab = Window:Tab({
     BGMTab:Space()
     
     BGMTab:Paragraph({
-        Title = "Music Selection",
-        Desc = "Choose or add custom music",
+        Title = "Seleção de música",
+        Desc = "Escolha ou adicione uma música personalizada",
         Color = config.Gradow.uicolor.lightGreen
     })
     
     BGMTab:Input({
-        Title = "New Music ID",
-        Desc = "Enter a Roblox asset ID for new music",
+        Title = "Novo ID de música",
+        Desc = "Digite o ID de um asset do Roblox para uma nova música",
         Placeholder = "128586477335903",
         Value = "",
         ClearTextOnFocus = true,
@@ -14514,8 +14514,8 @@ local BGMTab = Window:Tab({
     })
     
     BGMTab:Input({
-        Title = "Music Title",
-        Desc = "Set a title for the new music",
+        Title = "Título da música",
+        Desc = "Defina um título para a nova música",
         Placeholder = "My Song",
         Value = "",
         ClearTextOnFocus = true,
@@ -14525,8 +14525,8 @@ local BGMTab = Window:Tab({
     })
     
     BGMTab:Button({
-        Title = "Add Music",
-        Desc = "Add custom music to the list",
+        Title = "Adicionar música",
+        Desc = "Adicionar música personalizada à lista",
         Icon = "plus",
         Callback = function()
             local id = newMusicIdInput or ""
@@ -14534,8 +14534,8 @@ local BGMTab = Window:Tab({
             
             if id == "" or title == "" then
                 n({
-                    Title = "Background Music",
-                    Content = "Please enter both ID and Title",
+                    Title = "Música de fundo",
+                    Content = "Digite o ID e o título",
                     Audio = "rbxassetid://17208361335",
                     Length = 1,
                     Image = "rbxassetid://4483362458",
@@ -14546,8 +14546,8 @@ local BGMTab = Window:Tab({
             
             local success, msg = BMG:addCustomMusic(id, title)
             n({
-                Title = "Background Music",
-                Content = success and "Added: " .. title or "Error: " .. msg,
+                Title = "Música de fundo",
+                Content = success and "Added: " .. title or "Erro: " .. msg,
                 Audio = "rbxassetid://17208361335",
                 Length = 1,
                 Image = "rbxassetid://4483362458",
@@ -14559,8 +14559,8 @@ local BGMTab = Window:Tab({
     BGMTab:Space()
     
     local dropdownMusic = BGMTab:Dropdown({
-        Title = "Select Music",
-        Desc = "Choose a music track to play",
+        Title = "Selecionar música",
+        Desc = "Escolha uma faixa de música para reproduzir",
         Values = BMG:getDropdownValues(),
         Value = BMG:getSelectedValue(),
         Multi = false,
@@ -14571,7 +14571,7 @@ local BGMTab = Window:Tab({
                     local success, msg = BMG:setCurrentMusic(id)
                     if success then
                         n({
-                            Title = "Background Music",
+                            Title = "Música de fundo",
                             Content = "Now playing: " .. BMG.CurrentTitle,
                             Audio = "rbxassetid://17208361335",
                             Length = 1,
@@ -14587,14 +14587,14 @@ local BGMTab = Window:Tab({
     
     BGMTab:Button({
         Title = "Delete Selected",
-        Desc = "Delete the selected music (presets cannot be deleted)",
+        Desc = "Excluir a música selecionada (presets não podem ser excluídos)",
         Icon = "trash",
         Callback = function()
             local selected = dropdownMusic and dropdownMusic.Value or ""
             if selected == "" then
                 n({
-                    Title = "Background Music",
-                    Content = "Please select a music to delete",
+                    Title = "Música de fundo",
+                    Content = "Selecione uma música para excluir",
                     Audio = "rbxassetid://17208361335",
                     Length = 1,
                     Image = "rbxassetid://4483362458",
@@ -14606,7 +14606,7 @@ local BGMTab = Window:Tab({
             local id = selected:match("%((%d+)%)")
             if not id then
                 n({
-                    Title = "Background Music",
+                    Title = "Música de fundo",
                     Content = "Invalid selection",
                     Audio = "rbxassetid://17208361335",
                     Length = 1,
@@ -14618,8 +14618,8 @@ local BGMTab = Window:Tab({
             
             local success, msg = BMG:deleteMusic(id)
             n({
-                Title = "Background Music",
-                Content = success and "Deleted: " .. selected or "Error: " .. msg,
+                Title = "Música de fundo",
+                Content = success and "Deleted: " .. selected or "Erro: " .. msg,
                 Audio = "rbxassetid://17208361335",
                 Length = 1,
                 Image = "rbxassetid://4483362458",
@@ -14631,14 +14631,14 @@ local BGMTab = Window:Tab({
     BGMTab:Space()
     
     BGMTab:Paragraph({
-        Title = "Audio Settings",
-        Desc = "Adjust music playback settings",
+        Title = "Configurações de áudio",
+        Desc = "Ajustar configurações de reprodução da música",
         Color = config.Gradow.uicolor.lightGreen
     })
     
     BGMTab:Slider({
         Title = "Volume",
-        Desc = "Music volume (0-5)",
+        Desc = "Volume da música (0-5)",
         Step = 0.1,
         Value = {
             Min = 0,
@@ -14652,7 +14652,7 @@ local BGMTab = Window:Tab({
     
     BGMTab:Slider({
         Title = "Pitch",
-        Desc = "Music playback speed (0.5-2.0)",
+        Desc = "Velocidade de reprodução da música (0.5-2.0)",
         Step = 0.05,
         Value = {
             Min = 0.5,
@@ -14668,20 +14668,20 @@ local BGMTab = Window:Tab({
     
     BGMTab:Paragraph({
         Title = "Save/Load",
-        Desc = "Save and load your music settings",
+        Desc = "Salvar e carregar suas configurações de música",
         Color = config.Gradow.uicolor.lightGreen
     })
     
     BGMTab:Button({
         Title = "Save BGM",
-        Desc = "Save current music settings :7",
+        Desc = "Salvar configurações atuais de música :7",
         Icon = "save",
         Callback = function()
             local success = BMG:save()
             if success then
                 n({
-                    Title = "Background Music",
-                    Content = "Settings saved!",
+                    Title = "Música de fundo",
+                    Content = "Configurações salvas!",
                     Audio = "rbxassetid://17208361335",
                     Length = 1,
                     Image = "rbxassetid://4483362458",
@@ -14689,8 +14689,8 @@ local BGMTab = Window:Tab({
                 })
             else
                 n({
-                    Title = "Background Music",
-                    Content = "Failed to save settings",
+                    Title = "Música de fundo",
+                    Content = "Falha ao salvar as configurações",
                     Audio = "rbxassetid://17208361335",
                     Length = 1,
                     Image = "rbxassetid://4483362458",
@@ -14702,14 +14702,14 @@ local BGMTab = Window:Tab({
     
     BGMTab:Button({
         Title = "Reload BGM",
-        Desc = "Reload da saved music settings\n(it can also autoload btw)",
+        Desc = "Recarregar as configurações de música salvas\n(elas também podem carregar automaticamente)",
         Icon = "download",
         Callback = function()
             local success = BMG:load()
             if success then
                 n({
-                    Title = "Background Music",
-                    Content = "Settings loaded! Now playing: " .. BMG.CurrentTitle,
+                    Title = "Música de fundo",
+                    Content = "Configurações carregadas! Reproduzindo agora: " .. BMG.CurrentTitle,
                     Audio = "rbxassetid://17208361335",
                     Length = 1,
                     Image = "rbxassetid://4483362458",
@@ -14717,8 +14717,8 @@ local BGMTab = Window:Tab({
                 })
             else
                 n({
-                    Title = "Background Music",
-                    Content = "No saved settings found",
+                    Title = "Música de fundo",
+                    Content = "Nenhuma configuração salva encontrada",
                     Audio = "rbxassetid://17208361335",
                     Length = 1,
                     Image = "rbxassetid://4483362458",
@@ -14732,24 +14732,24 @@ end
 -- Info Tab
 --               ＼⁠(⁠^⁠o⁠^⁠)⁠／
 local InfoTab = Window:Tab({
-    Title = "Info",
-    Desc = rng3("Info"),
-    Icon = "info",
+    Title = "Informações",
+    Desc = rng3("Informações"),
+    Icon = "informações",
     IconColor = config.Gradow.uicolor.lightGray
 }) do
     InfoTab:Paragraph({
-        Title = "Gravel",
-        Desc = "Our YouTube channel is @gpssickle\nim mischievousidhwkwuhd",
+        Title = "GS",
+        Desc = "Nosso canal do YouTube é @gpssickle\neu sou arteiroidhwkwuhd",
         Color = config.Gradow.uicolor.Red
     })
     InfoTab:Paragraph({
-        Title = "Gravel: SRC",
-        Desc = "https://github.com/hm5650/HBSS/tree/main\n\nholy open source...\nif ur using a snippet that came from gravel....\ncredit me or I cry\n_.⁠·⁠´⁠¯⁠`⁠(⁠>⁠▂⁠<⁠)⁠´⁠¯⁠`⁠·⁠._",
+        Title = "GS: SRC",
+        Desc = "https://github.com/pertzx/HBSS/tree/main\n\nholy open source...\nif ur using a snippet that came from GS....\ncredit me or I cry\n_.⁠·⁠´⁠¯⁠`⁠(⁠>⁠▂⁠<⁠)⁠´⁠¯⁠`⁠·⁠._",
         Color = config.Gradow.uicolor.Black
     })
     InfoTab:Paragraph({
-        Title = "Gravel: About",
-        Desc = "Hi I'm Gravel or HBSS ;D\nIm an semi-universal script\nthat happens to be open source, keyless & free :>\nim not full ban-proof, completely universal nor ''bug-proof''\nthe script is developed by an solo dev so yeh\n(also the oldest version of gravel is 'hitblox' insane lore right?)\n\nAlso wonder what does 'HBSS' means it means nothing....\ncould be a sickle cell tho..\n\noh yeah the script also ghost updates\nalot so if you see something new you'll know why :7",
+        Title = "GS: About",
+        Desc = "Oi, eu sou o GS ou HBSS ;D\nSou um script semi-universal\nque por acaso é open source, sem key e grátis :>\nnão sou totalmente à prova de banimento, completamente universal nem ''à prova de bugs''\no script é desenvolvido por uma única pessoa, então é isso\n(também, a versão mais antiga do GS é 'hitblox', lore insana, né?)\n\nTambém, caso esteja se perguntando o que 'HBSS' significa: não significa nada....\ntalvez seja uma doença falciforme..\n\nah, e o script também recebe atualizações silenciosas\ncom frequência, então se você vir algo novo, já sabe o motivo :7",
         Color = config.Gradow.uicolor.Black
     })
     InfoTab:Paragraph({
@@ -14760,85 +14760,85 @@ local InfoTab = Window:Tab({
     
     InfoTab:Paragraph({
         Title = "MainTab",
-        Desc = "All basic features, Team targeting, Configuring, optimizing and etc",
+        Desc = "Todos os recursos básicos, mira por equipe, configuração, otimização etc.",
         Color = config.Gradow.uicolor.darkGray
     })
     
     InfoTab:Paragraph({
         Title = "Visualstab",
-        Desc = "Changes your visuals full bright or rendering in esps",
+        Desc = "Altera seus visuais para iluminação máxima ou renderização em ESPs",
         Color = config.Gradow.uicolor.darkGray
     })
     
     InfoTab:Paragraph({
         Title = "AntiAimTab",
-        Desc = "It would do it's best to make your opponents miss every shot",
+        Desc = "Ele fará o possível para fazer seus oponentes errarem todos os tiros",
         Color = config.Gradow.uicolor.darkGray
     })
     
     InfoTab:Paragraph({
         Title = "AimbotTab",
-        Desc = "Manipulates your camera and it would automatically aim at your opponents",
+        Desc = "Manipula sua câmera e mira automaticamente nos seus oponentes",
         Color = config.Gradow.uicolor.darkGray
     })
     
     InfoTab:Paragraph({
         Title = "SilentAimTab (HB)",
-        Desc = "Automatically resizes opponents hitbox and aligning it to your crosshair or the center of your screen",
+        Desc = "Redimensiona automaticamente a hitbox dos oponentes e a alinha à sua mira ou ao centro da tela",
         Color = config.Gradow.uicolor.darkGray
     })
     
     InfoTab:Paragraph({
         Title = "SilentAimTab (HK)",
-        Desc = "Intercepts raycasts to accurately hit targets.",
+        Desc = "Intercepta raycasts para acertar os alvos com precisão.",
         Color = config.Gradow.uicolor.darkGray
     })
 
     InfoTab:Paragraph({
         Title = "HitboxTab",
-        Desc = "Resizes opponents hitbox to easily hit or shoot at opponents",
+        Desc = "Redimensiona a hitbox dos oponentes para facilitar acertá-los ou atirar neles",
         Color = config.Gradow.uicolor.darkGray
     })
     
     InfoTab:Paragraph({
         Title = "ReachTab",
-        Desc = "Resizes your melee or any tools Firetouchinterest to hit opponents further",
+        Desc = "Aumenta o alcance do seu melee ou de qualquer ferramenta FireTouchInterest para acertar oponentes mais longe",
         Color = config.Gradow.uicolor.darkGray
     })
     
     InfoTab:Paragraph({
         Title = "ClientTab",
-        Desc = "Change your walkspeed or jump power or even fly around to dodge any attacks from your opponents",
+        Desc = "Altere sua velocidade de caminhada ou força do pulo, ou até mesmo voe para desviar dos ataques dos oponentes",
         Color = config.Gradow.uicolor.darkGray
     })
     
     InfoTab:Paragraph({
         Title = "MiscTab",
-        Desc = "Basically experiment any features that are or aren't related to combating",
+        Desc = "Basicamente, experimente quaisquer recursos relacionados ou não ao combate",
         Color = config.Gradow.uicolor.darkGray
     })
     
     InfoTab:Paragraph({
         Title = "BGM Tab",
-        Desc = "Plays music in the background uses 'rbxassetids' technically a music player",
+        Desc = "Reproduz música em segundo plano usando 'rbxassetids'; tecnicamente, um reprodutor de música",
         Color = config.Gradow.uicolor.darkGray
     })
     
     InfoTab:Paragraph({
         Title = "InfoTab",
-        Desc = "InfoTab the tab that your in just shows informations or details",
+        Desc = "InfoTab: a aba em que você está mostra apenas informações ou detalhes",
         Color = config.Gradow.uicolor.darkGray
     })
 
     InfoTab:Paragraph({
         Title = "BotTab",
-        Desc = "Deleted due to 200 variable limit & uselessness",
+        Desc = "Excluído devido ao limite de 200 variáveis e à falta de utilidade",
         Color = config.Gradow.uicolor.Red
     })
     InfoTab:Space()
     InfoTab:Paragraph({
         Title = "Guide",
-        Desc = "Tutorial for some features",
+        Desc = "Tutorial para alguns recursos",
         Color = config.Gradow.uicolor.Blue
     })
 InfoTab:Paragraph({
@@ -14854,7 +14854,7 @@ InfoTab:Paragraph({
 
 5. Use "Delete All Saves" to remove ALL saves (requires 3 yessirski's)
 
-6. "Autoload on Game" Sets the currently entered save name to automatically load whenever you join this specific game
+6. "Autoload no jogo" Sets the currently entered save name to automatically load whenever you join this specific game
 
 7. "Remove Autoload" Removes the autoload setting for the current game
 
@@ -14865,7 +14865,7 @@ Note: sum features might not get saved properly D:
     Color = config.Gradow.uicolor.darkGray
 })
 InfoTab:Paragraph({
-        Title = "Silent Aim (HB) Guide",
+        Title = "Guia do Silent Aim (HB)",
         Desc = [[
 This is the most unique silent aim in the script.
 It works by dynamically resizing the target's hitbox to match your FOV circle/crosshair, making it easier to hit
@@ -14897,7 +14897,7 @@ The script can be heavy. Use these settings to improve performance.
         Title = "RNG",
         Desc = [[
 What is RNG? It stands for Random Number Generator.
-Gravel uses it for picking random messages cuz yes
+GS uses it for picking random messages cuz yes
 
 1. 'Open Button Title': The text on the button to open it would change everytime you reload the script
 
@@ -14916,171 +14916,171 @@ I luv rng's. :3
     InfoTab:Space()
     InfoTab:Paragraph({
         Title = "Credits",
-        Desc = "Credits to other creators",
+        Desc = "Créditos para outros criadores",
         Color = config.Gradow.uicolor.lightGreen
     })
     
     InfoTab:Paragraph({
-        Title = "Gravel: UI",
-        Desc = "UI: WindUI (Footagesus)\nNotification: Alurt (Zwolf)\nand the other guy",
+        Title = "GS: UI",
+        Desc = "UI: WindUI (Footagesus)\nNotificação: Alurt (Zwolf)\ne o outro cara",
         Color = config.Gradow.uicolor.darkGray
     })
     InfoTab:Paragraph({
-        Title = "Gravel: AntiKick",
+        Title = "GS: AntiKick",
         Desc = "AntiKick: Pixeluted (I think...)",
         Color = config.Gradow.uicolor.darkGray
     })
     InfoTab:Paragraph({
-        Title = "Gravel: Math",
-        Desc = "Mathematicalmatics: my teacher & the other other guy",
+        Title = "GS: Math",
+        Desc = "Matemática: meu professor e o outro outro cara",
         Color = config.Gradow.uicolor.darkGray
     })
     InfoTab:Space()
     InfoTab:Paragraph({
         Title = "Updatelog",
-        Desc = "Update history and changes\n\nGravel (DD/MM/YYYY)",
+        Desc = "Histórico de atualizações e mudanças\n\nGS (DD/MM/AAAA)",
         Color = config.Gradow.uicolor.lightGreen
     })
 
     InfoTab:Paragraph({
-        Title = "Gravel (14/01/2026)",
-        Desc = "Added: Legacy\nAdded: Reachtab\nAdded: Wallbang in Silentaim HK\nFixed Bugs: 0",
+        Title = "GS (14/01/2026)",
+        Desc = "Adicionado: Legacy\nAdicionado: Reachtab\nAdicionado: Wallbang no SilentAim HK\nBugs corrigidos: 0",
         Color = config.Gradow.uicolor.darkGray
     })
     
     InfoTab:Paragraph({
-        Title = "Gravel (22/01/2026)",
-        Desc = "Added: MiscTab\nChanged: Redesigned the OptionGui\nFixed Bugs: 9",
+        Title = "GS (22/01/2026)",
+        Desc = "Adicionado: MiscTab\nAlterado: OptionGui redesenhada\nBugs corrigidos: 9",
         Color = config.Gradow.uicolor.darkGray
     })
     
     InfoTab:Paragraph({
-        Title = "Gravel (23/01/2026)",
-        Desc = "Fixed: Execution Problem\nFixed: Bugs in the SilentAimTab (HK)\nAdded: BackgroundBlur on the loading screeen\nFixed Bugs: 27",
+        Title = "GS (23/01/2026)",
+        Desc = "Corrigido: problema de execução\nCorrigido: bugs na SilentAimTab (HK)\nAdicionado: BackgroundBlur na tela de carregamento\nBugs corrigidos: 27",
         Color = config.Gradow.uicolor.darkGray
     })
     InfoTab:Paragraph({
-        Title = "Gravel (02/02/2026)",
-        Desc = "Changed: DummyUI to WindUI Rewritten UI Creation\nFixed: Keybind Systems are now more accurate and Rewritten\nFixed: SilentAimTab (HK) hooks now less laggy\nFixed: Loop Errors\nFixed: Notification Spam\nAdded: Colorpickers to the VisualsTab\nAdded: Random Messages to the OpenButton and Popup UI\nFixed: UI Causing errors, Callback errors\nFixed Bugs: 34+",
+        Title = "GS (02/02/2026)",
+        Desc = "Alterado: DummyUI para WindUI, criação da UI reescrita\nCorrigido: sistemas de Keybinds agora mais precisos e reescritos\nCorrigido: hooks da SilentAimTab (HK) agora com menos lag\nCorrigido: erros de loop\nCorrigido: spam de notificações\nAdicionado: seletores de cor à VisualsTab\nAdicionado: mensagens aleatórias ao OpenButton e à UI de Popup\nCorrigido: UI causando erros e erros de callback\nBugs corrigidos: 34+",
         Color = config.Gradow.uicolor.darkGray
     })
     InfoTab:Paragraph({
-        Title = "Gravel (10/02/2026)",
-        Desc = "Added: Optimization and tweaks\nFixed: Optimized SilentAimTab (HK)\nAdded: Distance limitation to SilentAimTab (HK)\nAdded: Cache Optimization\nFixed Bugs: 5",
+        Title = "GS (10/02/2026)",
+        Desc = "Adicionado: otimizações e ajustes\nCorrigido: SilentAimTab (HK) otimizada\nAdicionado: limite de distância à SilentAimTab (HK)\nAdicionado: otimização de cache\nBugs corrigidos: 5",
         Color = config.Gradow.uicolor.darkGray
     })
     InfoTab:Paragraph({
-        Title = "Gravel (06/05/2026)",
-        Desc = "More optimizations!",
+        Title = "GS (06/05/2026)",
+        Desc = "Mais otimizações!",
         Color = config.Gradow.uicolor.darkGray
     })
     InfoTab:Paragraph({
-        Title = "Gravel (18/05/2026)",
-        Desc = "Removed: Bot Tab has been removed to avoid 200 variable limit\nInfo: SilentAim (HK) would no longer work at this time.\nAdded: Cam-Y or WallOver toggle to SilentAimTab (HB)\nAdded: Cframe View to MiscTab\nInfo: At this time Gravel.cc might be buggy for now.",
+        Title = "GS (18/05/2026)",
+        Desc = "Removido: Bot Tab foi removida para evitar o limite de 200 variáveis\nInfo: SilentAim (HK) não funcionará mais neste momento.\nAdicionado: alternância Cam-Y ou WallOver à SilentAimTab (HB)\nAdicionado: Cframe View à MiscTab\nInfo: neste momento, o GS.cc pode estar com bugs.",
         Color = config.Gradow.uicolor.darkGray
     })
     InfoTab:Paragraph({
-        Title = "Gravel (18/05/2026)",
-        Desc = "Removed: SilentAim (HK) is now removed due to an update :(",
+        Title = "GS (18/05/2026)",
+        Desc = "Removido: SilentAim (HK) foi removido devido a uma atualização :(",
         Color = config.Gradow.uicolor.darkGray
     })
     InfoTab:Paragraph({
-        Title = "Gravel (18/05/2026)",
+        Title = "GS (18/05/2026)",
         Desc = "Improved: SilentAim (HB) Accuracy",
         Color = config.Gradow.uicolor.darkGray
     })
     InfoTab:Paragraph({
-        Title = "Gravel (19/06/2026)",
+        Title = "GS (19/06/2026)",
         Desc = "Fixed: Targeting Systems\nFixed Bugs: 10",
         Color = config.Gradow.uicolor.darkGray
     })
     InfoTab:Paragraph({
-        Title = "Gravel (21/06/2026)",
-        Desc = "Re-Added: SilentAim (HK) [Nothing wrong actually happened.. I'm just stupid]",
+        Title = "GS (21/06/2026)",
+        Desc = "Readicionado: SilentAim (HK) [Na verdade, nada de errado aconteceu.. eu só sou burro]",
         Color = config.Gradow.uicolor.darkGray
     })
     InfoTab:Paragraph({
-        Title = "Gravel (23/06/2026)",
-        Desc = "Fixed: SilentAim (HK) Targeting issues\nMoved: WallOver/Cam-Y to MiscTab\nAdded: ScaleToScreen Toggle & STSDistance to SilentAim (HB)\nAdded: some other additional features :p",
+        Title = "GS (23/06/2026)",
+        Desc = "Corrigido: problemas de mira do SilentAim (HK)\nMovido: WallOver/Cam-Y para MiscTab\nAdicionado: alternância de ScaleToScreen e STSDistance ao SilentAim (HB)\nAdicionados: alguns outros recursos :p",
         Color = config.Gradow.uicolor.darkGray
     })
     InfoTab:Paragraph({
-        Title = "Gravel (25/06/2026)",
-        Desc = "Added: Triggerbot & Spinbot in the MiscTab\nAdded: Additional stuff & optimization \nFixed Bugs: 7",
+        Title = "GS (25/06/2026)",
+        Desc = "Adicionado: Triggerbot e Spinbot na MiscTab\nAdicionado: coisas adicionais e otimização\nBugs corrigidos: 7",
         Color = config.Gradow.uicolor.darkGray
     })
     InfoTab:Paragraph({
-        Title = "Gravel (27/06/2026)",
-        Desc = "Added: Bhop in the MiscTab\nAdded: Draggable toggle for QuickToggles in MainTab\nMoved: Spinbot in the AntiAimTab\nFixed: Hitbox freezing issue\nAdded: Keybind for TriggerBot Wallcheck 'Y'\nChanged Client Keybind to 'N'\nFixed Bugs: 1",
+        Title = "GS (27/06/2026)",
+        Desc = "Adicionado: Bhop na MiscTab\nAdicionado: alternância arrastável para QuickToggles na MainTab\nMovido: Spinbot para a AntiAimTab\nCorrigido: problema de congelamento da Hitbox\nAdicionado: Keybind para verificação de parede do TriggerBot 'Y'\nAlterado: Keybind do cliente para 'N'\nBugs corrigidos: 1",
         Color = config.Gradow.uicolor.darkGray
     })
     InfoTab:Paragraph({
-        Title = "Gravel (28/06/2026)",
-        Desc = "Added: Save/Load in the MainTab :3",
+        Title = "GS (28/06/2026)",
+        Desc = "Adicionado: Salvar/Carregar na MainTab :3",
         Color = config.Gradow.uicolor.darkGray
     })
     InfoTab:Paragraph({
-        Title = "Gravel (01/07/2026)",
+        Title = "GS (01/07/2026)",
         Desc = "Fixed: Save/Load bugs\nFixed: Hitbox bugs\nFixed Bugs: 5",
         Color = config.Gradow.uicolor.darkGray
     })
     InfoTab:Paragraph({
-        Title = "Gravel (06/07/2026)",
-        Desc = "Added: Guide Section in InfoTab",
+        Title = "GS (06/07/2026)",
+        Desc = "Adicionado: seção de guia na InfoTab",
         Color = config.Gradow.uicolor.darkGray
     })
     InfoTab:Paragraph({
-        Title = "Gravel (07/07/2026)",
+        Title = "GS (07/07/2026)",
         Desc = "Fixed: Fixed sum lags",
         Color = config.Gradow.uicolor.darkGray
     })
     InfoTab:Paragraph({
-        Title = "Gravel (07/07/2026)",
+        Title = "GS (07/07/2026)",
         Desc = "Ignore forcefield now supports SilentAim (HK)",
         Color = config.Gradow.uicolor.darkGray
     })
     InfoTab:Paragraph({
-        Title = "Gravel (13/07/2026)",
-        Desc = "Desync is back :>\nits in the AntiAim Tab!",
+        Title = "GS (13/07/2026)",
+        Desc = "O Desync voltou :>\nestá na aba AntiAim!",
         Color = config.Gradow.uicolor.darkGray
     })
     InfoTab:Paragraph({
-        Title = "Gravel (14/07/2026)",
-        Desc = "Other bug fixes that I didn't count",
+        Title = "GS (14/07/2026)",
+        Desc = "Outras correções de bugs que não contei",
         Color = config.Gradow.uicolor.darkGray
     })
     InfoTab:Paragraph({
-        Title = "Gravel (20/07/2026)",
-        Desc = "Error da handle",
+        Title = "GS (20/07/2026)",
+        Desc = "Erro no handle",
         Color = config.Gradow.uicolor.darkGray
     })
     InfoTab:Paragraph({
-        Title = "Gravel (23/07/2026)",
+        Title = "GS (23/07/2026)",
         Desc = "some QOL bs",
         Color = config.Gradow.uicolor.darkGray
     })
     InfoTab:Paragraph({
-        Title = "Gravel (27/07/2026)",
-        Desc = "an good script would have a music player\nAdded: BGMTab an Background Music Tab :3",
+        Title = "GS (27/07/2026)",
+        Desc = "um bom script teria um reprodutor de música\nAdicionado: BGMTab, uma aba de música de fundo :3",
         Color = config.Gradow.uicolor.darkGray
     })
     InfoTab:Paragraph({
-        Title = "Gravel (29/07/2026)",
+        Title = "GS (29/07/2026)",
         Desc = "better at targeting stuff idk",
         Color = config.Gradow.uicolor.darkGray
     })
     InfoTab:Paragraph({
-        Title = "Gravel (31/07/2026)",
+        Title = "GS (31/07/2026)",
         Desc = "Fixed: ClientTab\n\ni didn't know client tab was broken btw🥀💔",
         Color = config.Gradow.uicolor.darkGray
     })
     InfoTab:Paragraph({
-        Title = "Gravel (31/07/2026)",
+        Title = "GS (31/07/2026)",
         Desc = "sum bug fixes",
         Color = config.Gradow.uicolor.darkGray
     })
     InfoTab:Paragraph({
-        Title = "Gravel (01/08/2026)",
+        Title = "GS (01/08/2026)",
         Desc = "Refactoring :o",
         Color = config.Gradow.uicolor.darkGray
     })
@@ -15089,7 +15089,7 @@ end
 -- tsu
 --[[
     InfoTab:Paragraph({
-        Title = "Gravel (DD/08/2026)",
+        Title = "GS (DD/08/2026)",
         Desc = "",
         Color = config.Gradow.uicolor.darkGray
     })
@@ -15320,7 +15320,7 @@ local function initKeybinds()
             if shouldTriggerKeybind(config.Keybinds.tbotwallcheck) then
                 config.tbot.wallCheck = not config.tbot.wallCheck
                 WindUI:Notify({
-                    Title = "TriggerBot Wall Check",
+                    Title = "Verificação de parede do TriggerBot",
                     Content = config.tbot.wallCheck and "Enabled" or "Disabled",
                     Icon = config.tbot.wallCheck and "check" or "x",
                     Duration = 1
@@ -15375,7 +15375,7 @@ local function initKeybinds()
             if shouldTriggerKeybind(config.Keybinds.silentaimwallcheck) then
                 config.wallc = not config.wallc
                 WindUI:Notify({
-                    Title = "Silent Aim Wall Check",
+                    Title = "Verificação de parede do Silent Aim",
                     Content = config.wallc and "Enabled" or "Disabled",
                     Icon = config.wallc and "check" or "x",
                     Duration = 1
@@ -15386,7 +15386,7 @@ local function initKeybinds()
             if shouldTriggerKeybind(config.Keybinds.aimbotwallcheck) then
                 config.aimbotWallCheck = not config.aimbotWallCheck
                 WindUI:Notify({
-                    Title = "Aimbot Wall Check",
+                    Title = "Verificação de parede do Aimbot",
                     Content = config.aimbotWallCheck and "Enabled" or "Disabled",
                     Icon = config.aimbotWallCheck and "check" or "x",
                     Duration = 1
@@ -15397,7 +15397,7 @@ local function initKeybinds()
             if shouldTriggerKeybind(config.Keybinds.silentaimhkwallcheck) then
                 config.SA2_Wallcheck = not config.SA2_Wallcheck
                 WindUI:Notify({
-                    Title = "Silent Aim HK Wall Check",
+                    Title = "Verificação de parede do Silent Aim HK",
                     Content = config.SA2_Wallcheck and "Enabled" or "Disabled",
                     Icon = config.SA2_Wallcheck and "check" or "x",
                     Duration = 1
@@ -15630,8 +15630,8 @@ local function cleanup()
         local explosionGui = Instance.new("ScreenGui")
         local flash = Instance.new("Frame")
         local explosion = Instance.new("ImageLabel")
-        local memeSound = Instance.new("Sound")
-        local explosionSound = Instance.new("Sound")
+        local memeSound = Instance.new("Som")
+        local explosionSound = Instance.new("Som")
         explosionGui.Name = "bang"
         explosionGui.ResetOnSpawn = false
         explosionGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
@@ -15955,7 +15955,7 @@ local function cleanup()
             getgenv().destroyInitGui()
         end
         for _, gui in ipairs(excusemesir.CoreGui:GetChildren()) do
-            if gui:IsA("ScreenGui") and (gui.Name == "FOVSys" or gui.Name == "AimbotFOVRing" or gui.Name == "GravelQT" or gui.Name == "TriggerBotFOV" or gui.Name == "FOVToggleGui_Modern" or gui.Name == "ESP_" or string.find(gui.Name, "ESP_") or string.find(gui.Name, "FOVToggleGui")) then
+            if gui:IsA("ScreenGui") and (gui.Name == "FOVSys" or gui.Name == "AimbotFOVRing" or gui.Name == "GSQT" or gui.Name == "TriggerBotFOV" or gui.Name == "FOVToggleGui_Modern" or gui.Name == "ESP_" or string.find(gui.Name, "ESP_") or string.find(gui.Name, "FOVToggleGui")) then
                 gui:Destroy()
             end
         end
@@ -16003,14 +16003,14 @@ local function cleanup()
 end
 Window:OnDestroy(function()
     cleanup()
-    print("Gravel.cc closed :(")
+    print("GS.cc closed :(")
 end)
 getgenv().destroyInitGui()
 rng()
 rng2()
 local autoloadSuccess = startdaautlado_()
 if autoloadSuccess then
-    print("autoloaded on dis gaem :3")
+    print("carregado automaticamente neste jogo :3")
 end
 task.wait(2.5)
 loadstring(getgist_(getgenv().HttpUrlz_.hbsshandlecorpses))()
@@ -16030,13 +16030,13 @@ if not success then
         v:Enable()
     end
     getgenv().Graaaaaaaaaaaaaaaaaaaaaaavel_ = false
-    warn("Gpssickle what kind of error is ts 🥀💔:" .. tostring(err))
+    warn("Gpssickle, que tipo de erro é esse 🥀💔:" .. tostring(err))
     error(err2)
 end
 -- fin
 --[[
                      _.⁠·⁠´⁠¯⁠`⁠(⁠>⁠▂⁠<⁠)⁠´⁠¯⁠`⁠·⁠._
-CAN YOU GUYS STAWP ASKINF ME "it doesn't work on [insert game name]"
+CAN YOU GUYS STAWP ASKINF ME "não funciona em [insira o nome do jogo]"
 DIS IS A SEMI-UNIVERSAL SCRIPT VROROO
 IT DONT WORK ON ALL GAMES IN DA UNIVERSE
 ]]
