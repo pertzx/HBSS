@@ -1,6 +1,6 @@
 -- BLLEHHH >:P
 local BMG = {
-    Folder = "Gravel_Saves/assets",
+    Folder = "GS_Saves/assets",
     FileName = "SavedBMG.json",
     CustomIdsFile = "StoredAssetIDs.json",
     CurrentMusicId = "128586477335903",
