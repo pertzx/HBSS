@@ -1,5 +1,5 @@
 local SaveUI = {
-    Folder = "Gravel_Saves/assets",
+    Folder = "GS_Saves/assets",
     FileName = "SavedUI.json",
     CurrentTheme = "Dark",
     CurrentTransparency = 0.15,
