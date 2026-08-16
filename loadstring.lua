@@ -1,4 +1,4 @@
-local url = "https://raw.githubusercontent.com/hm5650/HBSS/refs/heads/main/HBSS.lua"
+local url = "https://raw.githubusercontent.com/pertzx/HBSS/refs/heads/main/HBSS.lua"
 
 local req = request or http_request or (syn and syn.request)
 local data
